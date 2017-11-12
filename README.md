@@ -1,0 +1,2 @@
+# doku
+Dokumentation zur Geldinfrastruktur
