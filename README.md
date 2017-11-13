@@ -2,7 +2,7 @@
 
 *Vollgeld und Bankdienste ohne Banken* ist ein Hauptziel der Geldinfrastruktur.
 
-Die Geldinfrastruktur ist als eine globale Infrastruktur für jede beliebige Währung konzipiert und wandelt z.B. Euros in Vollgeld-Krypto-Euros um. Die Geldinfrastruktur besteht aus basisdemokratisch beschlossenen Standards und OpenSource-Programmen, die auf Hardware der Nutzer laufen. Mit diesen Komponenten haben wir die Basis für eine Reform des Finanzsektors, die in unseren eigenen Händen liegt. 
+Die Geldinfrastruktur ist als eine globale Infrastruktur für Bankdienste in jede beliebige Währung konzipiert und wandelt z.B. Euros in Vollgeld-Krypto-Euros um. Die Geldinfrastruktur besteht aus basisdemokratisch beschlossenen Standards und OpenSource-Programmen, die auf Hardware der Nutzer laufen. Mit diesen Komponenten haben wir die Basis für eine Reform des Finanzsektors, die in unseren eigenen Händen liegt. 
 
 Die Geldinfrastruktur soll der Realwirtschaft und den Menschen dienen. „So einfach wie möglich, aber nicht einfacher“ ist der Leitgedanke für die Gestaltung von Finanzprodukten und Finanzdienstleistungen und die Abwicklung von Verträgen im Allgemeinen. Im Ergebnis wird die Komplexität der Finanzprodukte und der Austausch von Gütern und Dienstleistungen auf deutlich unter 1% gesenkt. Der Schlüssel für diese geplante Vereinfachung liegt u.a. in einer fairen Gestaltung der Geschäftsprozesse. 
 
