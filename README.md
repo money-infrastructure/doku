@@ -18,7 +18,7 @@ Die Einführung und der Betrieb der Geldinfrastruktur setzt ganz bewußt nicht a
 
 Die Seiten für dieses Projekt sind im Aufbau; Stück für Stück werden die Details zu diesem Projekt ergänzt. Wer jetzt schon einen Eindruck von diesem Projekt gewinnen möchte, der kann sich den Einführungsvortrag <a href="https://www.youtube.com/watch?v=kK9xSKVTa9I" target="_blank">Geldinfrastruktur - Vollgeld und Bankdienste ohne Banken</a> ansehen.
 
-Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Buch <a href="https://www.amazon.de/Geldwende-Geld-Geldsch%C3%B6pfung-realen-Ebene/dp/3744852334/ref=sr_1_1?ie=UTF8&qid=1510593737&sr=8-1&keywords=Geldwende" target="_blank">Geldwende</a> beschrieben.
+Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Buch <a href="https://www.bod.de/buchshop/geldwende-arne-pfeilsticker-9783744852333" target="_blank">Geldwende</a> beschrieben.
 
 Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen.
 
