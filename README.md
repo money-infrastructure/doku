@@ -28,6 +28,4 @@ Arne Pfeilsticker
 
 [![Logo Monetative](/images/logoMonetative.jpg)](https://www.monetative.de/)
 
-<a href="https://www.monetative.de/" target="_blank">![Logo Monetative](/images/logoMonetative.jpg)</a>
-
 Wenn Sie dieses Projekt befürworten oder unterstützen möchten, dann schicken Sie mir bitte ein [Email](mailto:Arne.Pfeilsticker@pfeilsticker.de).
