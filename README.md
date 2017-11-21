@@ -20,11 +20,11 @@ Die Seiten für dieses Projekt sind im Aufbau; Stück für Stück werden die Det
 
 Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Buch <a href="https://www.bod.de/buchshop/geldwende-arne-pfeilsticker-9783744852333" target="_blank">Geldwende</a> beschrieben.
 
-Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen.
+Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen. Ein erstes virtuelles Arbeitstreffen dazu findet am 29.11.2017 um 20:15 im <a href="https://www.youtube.com/watch?v=_UnbLXMkphk" target="_blank">Google Hangout on Air</a> statt. Bei Interesse bitte anmelden oder einfach an diesem Tag dabei sein.
 
 Arne Pfeilsticker
 
-### Unterstützer
+## Unterstützer
 
 [![Logo Monetative](/images/logoMonetative.jpg)](https://www.monetative.de/)
 
