@@ -28,4 +28,6 @@ Arne Pfeilsticker
 
 [![Logo Monetative](/images/logoMonetative.jpg)](https://www.monetative.de/)
 
+[![Logo FairShare](/images/fs-final1.jpg)](http://fairshare-am.com/)
+
 Wenn Sie dieses Projekt befürworten oder unterstützen möchten, dann schicken Sie mir bitte ein [Email](mailto:Arne.Pfeilsticker@pfeilsticker.de).
