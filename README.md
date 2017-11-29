@@ -20,7 +20,9 @@ Die Seiten für dieses Projekt sind im Aufbau; Stück für Stück werden die Det
 
 Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Buch <a href="https://www.bod.de/buchshop/geldwende-arne-pfeilsticker-9783744852333" target="_blank">Geldwende</a> beschrieben.
 
-Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen. Ein erstes virtuelles Arbeitstreffen dazu findet am 29.11.2017 um 20:15 im <a href="https://www.youtube.com/watch?v=_UnbLXMkphk" target="_blank">Google Hangout on Air</a> statt. Bei Interesse bitte anmelden oder einfach an diesem Tag dabei sein.
+Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen. Ein erstes virtuelles Arbeitstreffen dazu findet am 29.11.2017 um 20:15 im <a href="https://www.youtube.com/watch?v=_UnbLXMkphk" target="_blank">Google Hangout on Air</a> statt. Da vermutlich beim 1. Treffen die Zahl der Teilnehmer recht übersichtlich sein wird, schlage ich vor, dass jeder Teilnehmer direkt am <a href="https://hangouts.google.com/hangouts/_/mabyhfpphzbwfehvoc3y4z4cdae" target="_blank">Google Hangout</a> selbst teilnimmt. Benötigt wird hierfür ein Google-Konto.
+
+Bei Interesse bitte anmelden oder einfach an diesem Tag dabei sein.
 
 Arne Pfeilsticker
 
