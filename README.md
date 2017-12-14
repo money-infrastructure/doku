@@ -26,6 +26,7 @@ Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Bu
 
 **Tagesordnung:**
 1. Vorbereitung eines Antrag auf Förderung des Projektes durch die EU.
+1. Diskussion der <a href="https://github.com/money-infrastructure/doku/blob/master/Projektbeschreibung_Geldinfrastruktur.pdf" target="_blank">Projektbeschreibung</a>
 1. Fragen zum Projekt
 
 Frau Rabe vom <a href="http://fairshare-am.com/" target="_blank">Verein zur Erforschung nachhaltiger Finanzmodelle e. V.</a>  sieht Möglichkeiten und Chancen, dass das Projekt Geldinfrastruktur durch EU-Mittel gefördert wird. Sie wird an der Sitzung am 15.12.2017 teilnehmen.
