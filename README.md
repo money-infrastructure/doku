@@ -20,16 +20,15 @@ Die Seiten für dieses Projekt sind im Aufbau; Stück für Stück werden die Det
 
 Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Buch <a href="https://www.bod.de/buchshop/geldwende-arne-pfeilsticker-9783744852333" target="_blank">Geldwende</a> beschrieben.
 
-Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen. Das 2. virtuelles Arbeitstreffen findet am **15.12.2017 um 20:15** statt. 
+Über eine Unterstützung und Mitarbeit an diesem Projekt würde ich mich sehr freuen. Das 3. virtuelles Arbeitstreffen findet am **5.1.2018 um 19 Uhr** über Zoom statt. 
 
 Über den Link <a href="https://zoom.us/j/292196878" target="_blank">https://zoom.us/j/292196878</a> kann an der Sitzung teilgenommen werden. Dieser Link kann jetzt schon getestet werden. 
 
 **Tagesordnung:**
 1. Vorbereitung eines Antrag auf Förderung des Projektes durch die EU.
-1. Diskussion der <a href="https://github.com/money-infrastructure/doku/blob/master/Projektbeschreibung_Geldinfrastruktur.pdf" target="_blank">Projektbeschreibung</a>
 1. Fragen zum Projekt
 
-Frau Rabe vom <a href="http://fairshare-am.com/" target="_blank">Verein zur Erforschung nachhaltiger Finanzmodelle e. V.</a>  sieht Möglichkeiten und Chancen, dass das Projekt Geldinfrastruktur durch EU-Mittel gefördert wird. Sie wird an der Sitzung am 15.12.2017 teilnehmen.
+Frau Rabe vom <a href="http://fairshare-am.com/" target="_blank">Verein zur Erforschung nachhaltiger Finanzmodelle e. V.</a>  sieht Möglichkeiten und Chancen, dass das Projekt Geldinfrastruktur durch EU-Mittel gefördert wird. Sie wird an der Sitzung am 5.1.2018 um 19 Uhr teilnehmen.
 
 Jeder, der sich für das Projekt interessiert ist zur Sitzung herzlich eingeladen. Beim letzten Arbeitstreffen hatten wir Hangout bzw. Hangout on Air getestet, das sich aber als nicht zweckmäßig herausgestellt hat. Deshalb sind wir auf den Videokonferenzdienst Zoom umgestiegen.
 
