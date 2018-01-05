@@ -30,11 +30,13 @@ Die theoretischen Grundlagen für die Ideen dieses Projektes werden in meinem Bu
 
 Frau Rabe vom <a href="http://fairshare-am.com/" target="_blank">Verein zur Erforschung nachhaltiger Finanzmodelle e. V.</a>  sieht Möglichkeiten und Chancen, dass das Projekt Geldinfrastruktur durch EU-Mittel gefördert wird. Sie wird an der Sitzung am 5.1.2018 um 19 Uhr teilnehmen.
 
-Jeder, der sich für das Projekt interessiert ist zur Sitzung herzlich eingeladen. Beim letzten Arbeitstreffen hatten wir Hangout bzw. Hangout on Air getestet, das sich aber als nicht zweckmäßig herausgestellt hat. Deshalb sind wir auf den Videokonferenzdienst Zoom umgestiegen.
+Jeder, der sich für das Projekt interessiert ist zur Sitzung herzlich eingeladen.
 
 Das <a href="https://docs.google.com/document/d/1nwPumNmq4K6ocjzlHUDJbCXFk6ASNEkST-UJcSlMdTA/edit#heading=h.1lkuk6q1bhgy" target="_blank">Protokoll</a> wird paralell zur Sitzung geführt und kann von jedem aufgerufen werden.
 
 Bei Interesse bitte anmelden oder einfach an diesem Tag dabei sein.
+
+Ende Januar oder Anfang Februar ist ein 
 
 Arne Pfeilsticker
 
