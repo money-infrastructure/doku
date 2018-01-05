@@ -15,6 +15,6 @@ The New Money Infrastructure project aims to develop a global and decentralized 
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
 
-For further information please read the link:{endir}/"New Money Infrastructure - project description.pdf"[project description].
+For further information please read the link:{endir}/New_Money_Infrastructure-project_description.pdf"[project description].
 
 image::{imagesdir}/English/NMI004.png[New Money Infrastructure]
