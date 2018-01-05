@@ -1,7 +1,7 @@
 :uri-org: https://github.com/money-infrastructure
 :uri-repo: {uri-org}/doku
 :imagesdir: {uri-repo}/blob/master/images
-:endir: {uri-repo}/blob/master/Englich
+:endir: {uri-repo}/blob/master/English
 
 = New Money Infrastructure
 Arne Pfeilsticker
