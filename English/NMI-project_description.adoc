@@ -33,6 +33,7 @@ The _**New Money Infrastructure**_ project aims to develop a global and decentra
 [#img-new-money-infrastructure]
 image::NMI004.png[New Money Infrastructure]
 
+
 For the user the _New Money Infrastructure_ will appear like a mix of online banking and PayPal with the difference that the users will create and manage their accounts themselves. Users will also experience that the complexity of banking and financial instruments is significantly reduced and additional features are available.
 
 Through an interface, payments between the _New Money Infrastructure_ and commercial banks can be made in the usual way. For a _New Money Infrastructure_ account, a regular international bank account number (IBAN) can be requested and in that case the account will appear like a regular current account; but would be comparable in terms of quality with an account at the central bank or cash.
