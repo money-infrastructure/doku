@@ -1,23 +1,26 @@
-:uri-org: https://github.com/money-infrastructure
-:uri-repo: {uri-org}/doku
-:imagesdir: {uri-repo}/blob/master/images/English
-:endir: {uri-repo}/blob/master/English
-
 = New Money Infrastructure - Project Description
 Arne Pfeilsticker
+:description: The New Money Infrastructure project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments.
+:keywords: money, currencies, cryptocurrencies, infrastructure, financial services, financial products
+:page-description: {description}
+:page-keywords: {keywords}
+:language: asciidoc
+:source-language: {language}
 :toc:
 :toclevels: 4
+:uri-org: https://github.com/money-infrastructure
+:uri-repo: {uri-org}/doku
+:imagesdir: ../images/English
 
 (Status: 2018-01-11)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
-[[introduction]]
 == Introduction
 
-[[what-is-the-new-money-infrastructure]]
 === WHAT is the _New Money Infrastructure_?
 
+[.lead]
 The _**New Money Infrastructure**_ project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current crypto-currencies and will have the following main-features:
 
 * It is developed for classical currencies and converts, for example, euros into crypto central bank euros (positive money, Vollgeld).
@@ -32,9 +35,7 @@ image::NMI004.png[New Money Infrastructure]
 
 For the user the _New Money Infrastructure_ will appear like a mix of online banking and PayPal with the difference that the users will create and manage their accounts themselves. Users will also experience that the complexity of banking and financial instruments is significantly reduced and additional features are available.
 
-Through an interface, payments between the _New Money Infrastructure_ and commercial banks can be made in the usual way. For a _New Money Infrastructure_ account, a regular international bank account number (IBAN) can be requested and in that case the account will appear like a regular current account; but would be comparable in terms
-
-of quality with an account at the central bank or cash.
+Through an interface, payments between the _New Money Infrastructure_ and commercial banks can be made in the usual way. For a _New Money Infrastructure_ account, a regular international bank account number (IBAN) can be requested and in that case the account will appear like a regular current account; but would be comparable in terms of quality with an account at the central bank or cash.
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
@@ -109,7 +110,6 @@ This includes:
 . Collateral management and services
 . Rating services
 
-[[what-is-the-status-quo-of-todays-financial-world-and-the-crypto-currencies]]
 === WHAT is the 'status quo' of todays' financial world and the crypto currencies?
 
 Today there is an over-supply of financial services and financial instruments worldwide. A lot of them are incomprehensible and certainly not transparent, even for experts. As far back as 2006, global money and financial instruments’ supply had six times more volume than the gross domestic product of the entire world.
@@ -122,7 +122,6 @@ These ‘none performance-related incomes’ are considered completely normal an
 
 And also the current crypto-currencies, such as Bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
 
-[[why-do-we-want-to-offer-something-different]]
 === WHY do we want to offer something different?
 
 Because we want:
@@ -136,7 +135,6 @@ Because we want:
 * To increase the profit for the community from the central bank money creation.
 * To leave the field not to the existing crypto-money scene for an uncontrolled private money creation.
 
-[[how-do-we-want-to-make-a-difference]]
 === HOW do we want to make a difference?
 
 Within the _New Money Infrastructure_, the money becomes central bank money (positive money, Vollgeld). It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
@@ -155,10 +153,8 @@ The introduction and operation of the _New Money Infrastructure_ deliberately do
 [#img-key_features_of_cash_depositmoney_bitcoin_nmi]
 image::NMI006.png[Key features of cash, deposit money, Bitcoin, and money in the New Money Infrastructure]
 
-[[project-description]]
 == Project description
 
-[[content-of-the-project]]
 === CONTENT of the project
 
 The _New Money Infrastructure_ consists of two functional subsystems:
@@ -180,7 +176,6 @@ The planned project will be an open source project being managed in GitHub: http
 [#img-functional_subsystems_nmi]
 image::NMI007.png[Functional Subsystems of the New Money Infrastructure]
 
-[[what-are-the-planned-deliverables-of-the-project]]
 === WHAT are the planned deliverables of the project?
 
 The planned deliverables consist of:
@@ -193,7 +188,6 @@ The planned deliverables consist of:
 . Development and production of examples of recommended, standardized and well-balanced contract templates (RSB-Contracts) by which financial services can be used and financial instruments realized.
 . Technical documentation, handbook and video-tutorials for the New Money Infrastructure.
 
-[[how-many-people-will-work-on-the-project]]
 === HOW MANY people will work on the project?
 
 Like any open source project, this project will appreciate any form of support.
@@ -204,12 +198,10 @@ is needed as it will involve a great deal of IT, banking, payments and legal exp
 
 Therefore, a research, development and expert team of approx. 15 people is planned.
 
-[[how-long-will-the-project-take]]
 === HOW long will the project take?
 
 The project is planned for about 18 months.
 
-[[how-will-the-software-be-developed]]
 === HOW will the software be developed?
 
 The software will be developed by mixing Scrum and Extreme Programming ideas. This method also involves continuous testing throughout the development.
