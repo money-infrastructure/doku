@@ -222,9 +222,11 @@ A system-compliant integration could be carried out analogously to the position 
 
 The underlying accounts would be used to settle payments between the _New Money Infrastructure_ and commercial banks.
 
+--
 .Interface with the New Money Infrastructure through a central bank.
 [#img-interface_central_bank]
 image::NMI043.png[Interface with the New Money Infrastructure through a central bank]
+--
 
 The cooperation with a central bank is not mandatory. If no central bank agrees to cooperate, the interface to the central bank could also be established through an ethical bank.
 
