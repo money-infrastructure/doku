@@ -67,14 +67,14 @@ _This section of your proposal will be assessed only to the extent that it is re
 
 [NOTE]
 ====
- Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved.
+Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved.
 ====
 
 *Arne + Jutta*
 
 [NOTE]
 ====
- Identify any inter-disciplinary considerations and, where relevant, use of stakeholder knowledge. Where relevant, include measures taken for public/societal engagement on issues related to the project.
+Identify any inter-disciplinary considerations and, where relevant, use of stakeholder knowledge. Where relevant, include measures taken for public/societal engagement on issues related to the project.
 ====
 
 
