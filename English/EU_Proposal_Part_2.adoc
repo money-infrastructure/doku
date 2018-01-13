@@ -1,0 +1,163 @@
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Section 4: Members of the consortium*
+
+_This section is not covered by the page limit._
+
+_The information provided here will be used to judge the operational capacity. Please make sure that you do not include information here that relates to the headings under sections 1 to 3. Experts will be instructed to ignore any information here which appears to have been included to circumvent page limits applying to those sections. _
+
+*4.1. Participants (applicants) Jutta, Monetative, 2 Partner Organisations*
+
+Please provide, for *each participant*, the following (if available):
+
+ a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal;
+
+ a curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;
+
+*Here please all who will participate: really good CVs please)*
+
+ a list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the call content; *(FairShare will provide 1 - the remaining 4 have to be selected)*
+
+ a list of up to 5 relevant previous projects or activities, connected to the subject of this proposal; *(FairShare will provide 1 - others have to be selected)*
+
+ a description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work; *(server infrastructure?) *
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* __________________________________________________________________________________________________________________________________________________________________________________________________________
+ if operational capacity cannot be demonstrated at the time of submitting the proposal, describe the concrete measures that will be taken to obtain it by the time of the implementation of the task__.__
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________________________
+*4.2. Third parties involved in the project (including use of third party resources) Applicable???*
+
+Please complete, for each participant, the following table (or simply state "No third parties involved", if applicable):
+________________________________________________________________________________________________________________________
+
+[cols=",",]
+|========================================================================================================================================================================
+a|
+________________________________________________________________________________________________________________________________
+Does the participant plan to subcontract certain tasks (please note that core tasks of the project should not be sub-contracted)
+________________________________________________________________________________________________________________________________
+
+ a|
+___
+Y/N
+___
+
+a|
+___________________________________________________________________
+_If yes, please describe and justify the tasks to be subcontracted_
+___________________________________________________________________
+
+a|
+________________________________________________________________________________________
+Does the participant envisage that part of its work is performed by linked third parties
+________________________________________________________________________________________
+
+ a|
+___
+Y/N
+___
+
+a|
+_________________________________________________________________________________________________________________________________________________________________________
+_If yes, please describe the third party, the link of the participant to the third party, and describe and justify the foreseen tasks to be performed by the third party_
+_________________________________________________________________________________________________________________________________________________________________________
+
+a|
+__________________________________________________________________________________________________________________________________________________
+Does the participant envisage the use of contributions in kind provided by third parties (Articles 11 and 12 of the General Model Grant Agreement)
+__________________________________________________________________________________________________________________________________________________
+
+ a|
+___
+Y/N
+___
+
+a|
+_________________________________________________________________
+_If yes, please describe the third party and their contributions_
+_________________________________________________________________
+
+a|
+______________________________________________________________________________________________________________________________________________
+Does the participant envisage that part of the work is performed by International Partners (Article 14a of the General Model Grant Agreement)?
+______________________________________________________________________________________________________________________________________________
+
+ a|
+___
+Y/N
+___
+
+a|
+______________________________________________________________________________
+_If yes, please describe the International Partner(s) and their contributions_
+______________________________________________________________________________
+
+|========================================================================================================================================================================
+
+________________________________________________
+* +
+Section 5: Ethics and Security *
+
+*Complete section ot applicable for our project*
+________________________________________________
+
+_This section is not covered by the page limit._
+
+____________
+*5.1 Ethics*
+____________
+
+_For more guidance, see the http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-self-assess_en.pdf[document "How to complete your ethics self-assessment"]._
+
+________________________________________________________________________________________________________________
+If you have entered any ethics issues in the ethical issue table in the administrative proposal forms, you must:
+________________________________________________________________________________________________________________
+
+* __________________________________________
+ submit an ethics self-assessment, which:
+__________________________________________
+** ________________________________________________________________________________________________________________________________________________________________________
+o describes how the proposal meets the national legal and ethical requirements of the country or countries where the tasks raising ethical issues are to be carried out;
+________________________________________________________________________________________________________________________________________________________________________
+** ________________________________________________________________________________________________________________
+o explains in detail how you intend to address the issues in the ethical issues table, in particular as regards:
+________________________________________________________________________________________________________________
+*** ____________________________________________________________________________
+♣ research objectives (e.g. study of vulnerable populations, dual use, etc.)
+____________________________________________________________________________
+*** _____________________________________________________________________________________________________________________________________________
+♣ research methodology (e.g. clinical trials, involvement of children and related consent procedures, protection of any data collected, etc.)
+_____________________________________________________________________________________________________________________________________________
+*** ___________________________________________________________________________________________________________________________________________________________________________________________________
+♣ the potential impact of the research (e.g. dual use issues, environmental damage, stigmatisation of particular social groups, political or financial retaliation, benefit-sharing, misuse, etc.).
+___________________________________________________________________________________________________________________________________________________________________________________________________
+*** _________________________________________________________________________________________
+• provide the documents that you need under national law(if you already have them), e.g.:
+_________________________________________________________________________________________
+** ______________________________
+o an ethics committee opinion;
+______________________________
+** _________________________________________________________________________________________
+o the document notifying activities raising ethical issues or authorising such activities
+_________________________________________________________________________________________
+
+______________________________________________________________________________________________________________________________________________________________
+_If these documents are not in English, you must also submit an English summary of them_
+
+_(containing, if available, the conclusions of the committee or authority concerned)._
+
+_If you plan to request these documents specifically for the project you are proposing, your request must contain an explicit reference to the project title._
+
+*5.2 Security*
+
+*Please indicate if your project will involve:*
+______________________________________________________________________________________________________________________________________________________________
+
+* _________________________________________________________
+• activities or results raising security issues: (YES/NO)
+_________________________________________________________
+* ________________________________________________________________
+• 'EU-classified information' as background or results: (YES/NO)
+________________________________________________________________

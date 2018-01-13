@@ -1,0 +1,568 @@
+= Proposal: technical annex
+:uri-config: https://github.com/asciidoctor/asciidoctor/blob/master/compat/asciidoc.conf
+:uri-fontawesome: http://fortawesome.github.io/Font-Awesome/
+:table-caption!:
+:icons: font
+:toc: macro
+
+_**Research and Innovation actions**_
+
+_**Innovation actions**_
+
+toc::[]
+
+*COVER PAGE*
+
+*Title of Proposal: NEW MONEY INFRASTRUCTURE*
+
+Note: Consortium members are listed in part A. A summary list should also be provided in the table below.
+
+.List of participants
+[cols="40,40,20"]
+|===
+|Participant No |Participant organisation name |Country
+
+|*1 (Coordinator) Jutta Rabe* |*FairShare e.V.* |*DE*
+|*2 Arne Pfeilsticker* |*Monetative e.V.* |*DE*
+|*3 Hansruedi Weber* |*Vollgeld Initiative* |*CH*
+|*4 Luuk de Waal Malefijt* |*Onsgeld* |*NL*
+|===
+
+
+* Please use the same participant numbering as that used in the administrative proposal forms.
+
+
+== 1. Excellence
+
+[IMPORTANT]
+====
+*Your proposal must address a work programme topic for this call for proposals.*
+
+_This section of your proposal will be assessed only to the extent that it is relevant to that topic._
+====
+
+=== 1.1 Objectives
+
+[NOTE]
+====
+ Describe the overall and specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).
+====
+
+*Arne + Jutta*
+
+=== 1.2 Relation to the work programme
+
+[NOTE]
+====
+ Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.
+====
+
+
+*Arne + Jutta*
+
+
+=== 1.3 Concept and methodology
+
+==== (a) Concept
+
+[NOTE]
+====
+ Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved.
+====
+
+*Arne + Jutta*
+
+[NOTE]
+====
+ Identify any inter-disciplinary considerations and, where relevant, use of stakeholder knowledge. Where relevant, include measures taken for public/societal engagement on issues related to the project.
+====
+
+
+*Monetative (background: political, historical and society)*
+
+
+[NOTE]
+====
+ Describe the positioning of the project e.g. where it is situated in the spectrum from ‘idea to application’, or from ‘lab to market’.
+====
+
+
+*Arne*
+
+
+[NOTE]
+====
+ Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project.
+====
+
+*Arne, Monetative and possibly the two Partner-Organisations*
+
+==== (b) Methodology
+
+[NOTE]
+====
+ Describe and explain the overall methodology, distinguishing, as appropriate, activities indicated in the relevant section of the work programme, e.g. for research, demonstration, piloting, first market replication, etc.
+====
+
+*Arne and IT-Team*
+
+
+=== 1.4 Ambition
+
+[NOTE]
+====
+ Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
+====
+
+
+*Arne and IT-Team*
+
+
+[NOTE]
+====
+ Describe the innovation potential *(e.g. ground-breaking objectives, novel concepts and approaches, new products, services or business and organisational models)* which the proposal represents. Where relevant, refer to products and services already available on the market. Please refer to the results of any patent search carried out.
+====
+
+
+*Arne and IT-Team*
+
+
+== 2. Impact
+
+=== 2.1 Expected impacts
+
+[NOTE]
+====
+ Describe how your project will contribute to:
+
+ * each of the expected impacts mentioned in the work programme, under the relevant topic.
+====
+
+*Monetative (where do we want to go - politically and relevant for the society?)*
+
+*+ Jutta*
+
+[NOTE]
+====
+*Here the relevant excerpt of the work programme:*
+
+*Specific Challenge*:
+
+Recent trends in nationalism, protectionism and regionalism are affecting international commitments and policies. They also put added pressure on the political and operational capacities of global governance institutions created in the mid-twentieth century for critical yet partly different purposes. This raises the prospects of shifts, including in responsibility, in global and transnational governance. The challenge is to identify coherent responses and to effectively coordinate their implementation with stakeholders.
+
+*Scope*:
+
+Proposals should assess contemporary and historical developments in key institutions (e.g. United Nations, North Atlantic Treaty Organisation, World Trade Organisation, Organisation for Security and Cooperation), regimes, processes and partnerships that aim at contributing to collective action and sharing responsibilities in taking on global problem solving. They should also investigate the EU’s role in these processes. In addition, proposals should assess challenges faced by global governance such as representativeness, diverging interests, trust, allocating responsibilities and legitimacy as well as difficulties related to the implementation of agreements. Responses to past challenges should also be assessed. Scenarios of stagnation, transformation or fragmentation should be considered. The impact on the implementation of the EU Global Strategy and on the achievement of the climate goals of the Paris Agreement and the Sustainable Development Goals of Agenda 2030 should be addressed. The role played by non-state actors, including from the civil and private sectors may also be addressed. Relevant actors (e.g. researchers, policymakers, civil society representatives) should be involved to ensure mutual learning and take-up of results. Due to the specific challenge of this topic, participation of international partners strategically targeted by the EU is encouraged to ensure joint mapping, scenario design and policy recommendations.
+
+The Commission considers that proposals requesting a contribution from the EU in the order of EUR 2.5 million would allow this specific challenge to be addressed appropriately. Nonetheless, this does not preclude submission and selection of proposals requesting other amounts.
+
+*Expected Impact*:
+
+The action will equip relevant EU actors and partners with knowledge and tools for navigating and influencing effectively the emerging and future shifts in global and transnational governance, thereby increasing their readiness, resilience and capacities for developing globally coordinated strategies.
+
+** any substantial impacts not mentioned in the work programme, that would enhance innovation capacity; create new market opportunities, strengthen competitiveness and growth of companies, address issues related to climate change or the environment, or bring other important benefits for society.
+====
+
+*Arne + Monetative*
+
+
+[NOTE]
+====
+ Describe any barriers/obstacles, and any framework conditions (such as regulation, standards, public acceptance, workforce considerations, financing of follow-up steps, cooperation of other links in the value chain), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)
+====
+
+
+*Arne + Monetative*
+
+
+=== 2.2 Measures to maximise impact
+
+==== a) Dissemination and exploitation of results
+
+Arne + Jutta
+
+[NOTE]
+====
+Provide a draft *plan for the dissemination and exploitation of the project's results*. Please note that such a draft plan is an admissibility condition, unless the work programme topic explicitly states that such a plan is not required.
+
+Show how the proposed measures will help to achieve the expected impact of the project.
+
+The plan, should be proportionate to the scale of the project, and should contain measures to be implemented both during and after the end of the project. For innovation actions, in particular, please describe a credible path to deliver these innovations to the market.
+====
+
+[WARNING]
+====
+_Your plan for the dissemination and exploitation of the project's results is key to maximising their *impact*. This plan should describe, in a concrete and comprehensive manner, the *area* in which you expect to make an impact and *who* are the potential users of your results.  Your plan should also describe *how* you intend to use the appropriate channels of dissemination and interaction with potential users._
+====
+
+[WARNING]
+====
+Consider the full range of potential users and uses, including research, commercial, investment, social, environmental, policy-making, setting standards, skills and educational training where relevant.
+====
+
+[WARNING]
+====
+_Your plan should give due consideration to the possible *follow-up* of your project, once it is finished. Its exploitation could require additional investments, wider testing or scaling up. Its exploitation could also require other pre-conditions like regulation to be adapted, or value chains to adopt the results, or the public at large being receptive to your results._
+====
+
+* Include a business plan where relevant. *Arne + Jutta*
+
+* As relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues: *Arne + IT-Team*
+
+
+** What types of data will the project generate/collect?
+
+** What standards will be used?
+
+** How will this data be exploited and/or shared/made accessible for verification and re-use? If data cannot be made available, explain why.
+
+** How will this data be curated and preserved?
+
+** How will the costs for data curation and preservation be covered?
+
+
+[WARNING]
+====
+_Actions under Horizon 2020 participate in the extended ‘Pilot on Open Research Data in Horizon 2020 ('open research data by default'), except if they indicate otherwise ('opt-out'.). Once the action has started (*not* at application stage) those beneficaries which do not opt-out, will need to create a more detailed Data Management Plan for making their data findable, accessible, interoperable and reusable (FAIR)._
+====
+
+[WARNING]
+====
+_You will need an appropriate consortium agreement to manage (amongst other things) the ownership and access to key knowledge (IPR, research data etc.). Where relevant, these will allow you, collectively and individually, to pursue market opportunities arising from the project's results._
+====
+
+[WARNING]
+====
+_The appropriate structure of the consortium to support exploitation is addressed in section 3.3._
+====
+
+* Outline the strategy *for knowledge management and protection*. Include measures to provide *open access* (free on-line access, such as the ‘green’ or ‘gold’ model) to peer-reviewed scientific publications which might result from the project.
+
+
+
+*Arne + IT-Team*
+
+[WARNING]
+====
+_Open access publishing (also called 'gold' open access) means that an article is immediately provided in open access mode by the scientific publisher. The associated costs are usually shifted *away from readers, and instead (for example) to the university or research institute to which the* researcher is affiliated, or to the funding agency supporting the research. Gold open access costs are fully eligible as part of the grant. Note that if the gold route is chosen, a copy of the publication has to be deposited in a repository as well._
+====
+
+[WARNING]
+====
+_Self-archiving (also called 'green' open access) means that the published article or the final peer-reviewed manuscript is archived by the researcher - or a representative - in an online repository before, after or alongside its publication. Access to this article is often - but not necessarily - delayed (‘embargo period’), as some scientific publishers may wish to recoup their investment by selling subscriptions and charging pay-per-download/view fees during an exclusivity period_
+====
+
+==== b) Communication activities
+
+
+* Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives. They should be tailored to the needs of different target audiences, including groups beyond the project's own community.
+
+
+*Suggestions from All - do we have a communication expert in our group???*
+
+
+== 3. Implementation
+
+=== 3.1 Work plan — Work packages, deliverables
+
+
+*Arne and IT-Team*
+
+Please provide the following:
+
+* brief presentation of the overall structure of the work plan;
+
+* timing of the different work packages and their components (Gantt chart or similar);
+
+* detailed work description, i.e.:
+
+** a list of work packages (table 3.1a);
+** a description of each work package (table 3.1b);
+** a list of major deliverables (table 3.1c);
+
+
+* graphical presentation of the components showing how they inter-relate (Pert chart or similar).
+
+[WARNING]
+====
+_Give full details. Base your account on the logical structure of the project and the stages in which it is to be carried out._ _The number of work packages should be proportionate to the scale and complexity of the project._
+====
+
+[WARNING]
+====
+_You should give enough detail in each work package to justify the proposed resources to be allocated and also quantified information so that progress can be monitored, including by the Commission_
+====
+
+[WARNING]
+====
+_Resources assigned to work packages should be in line with their objectives and deliverables. You are advised to include a distinct work package on ‘management’ (see section 3.2) and to give due visibility in the work plan to ‘dissemination and exploitation’ and ‘communication activities’, either with distinct tasks or distinct work packages._
+====
+
+[WARNING]
+====
+_You will be required to include an updated (or confirmed) ‘plan for the dissemination and exploitation of results’ in both the periodic and final reports. (This does not apply to topics where a draft plan was not required.) This should include a record of activities related to dissemination and exploitation that have been undertaken and those still planned. A report of completed and planned communication activities will also be required._
+====
+
+[WARNING]
+====
+_If your project is taking part in the Pilot on Open Research Data, you must include a 'data management plan' as a distinct deliverable within the first 6 months of the project. A template for such a plan is given in the guidelines on data management in the http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm[H2020 Online Manual]. This deliverable will evolve during the lifetime of the project in order to present the status of the project's reflections on data management._
+====
+
+[DEFINITION]
+====
+.Definitions:
+
+_‘*Work package*’ means a major sub-division of the proposed project._
+
+_‘*Deliverable*’ means a distinct output of the project, meaningful in terms of the project's overall objectives and constituted by a report, a document, a technical diagram, a software etc._
+====
+
+=== 3.2 Management structure, milestones and procedures
+
+*  Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a))
+
+*Arne + Jutta*
+
+* Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project.
+
+*Arne + Jutta*
+
+* Describe, where relevant, how effective innovation management will be addressed in the management structure and work plan.
+
+*Arne + Jutta*
+
+[WARNING]
+====
+_Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity._
+====
+
+* Describe any critical risks, relating to project implementation, that the stated project's objectives may not be achieved. Detail any risk mitigation measures. Please provide a table with critical risks identified and mitigating actions (table 3.2b)
+
+
+*Arne + IT-Team*
+
+[DEFINITION]
+====
+.Definition:
+
+_‘*Milestones*’ means control points in the project that help to chart progress. Milestones may correspond to the completion of a key deliverable, allowing the next phase of the work to begin. They may also be needed at intermediary points so that, if problems have arisen, corrective measures can be taken. A milestone may be a critical decision point in the project where, for example, the consortium must decide which of several technologies to adopt for further development._
+====
+
+=== 3.3 Consortium as a whole
+
+*Monetative: short description of their goals and activities*
+
+*2 Partner Organisations: short description of their goals and activities*
+
+[WARNING]
+====
+_The individual members of the consortium are described in a separate section 4. There is no need to repeat that information here._
+====
+
+* Describe the consortium. How will it match the project’s objectives, and bring together the necessary expertise? How do the members complement one another (and cover the value chain, where appropriate),?
+
+* In what way does each of them contribute to the project? Show that each has a valid role, and adequate resources in the project to fulfil that role.
+
+* If applicable, describe the industrial/commercial involvement in the project to ensure exploitation of the results and explain why this is consistent with and will help to achieve the specific measures which are proposed for exploitation of the results of the project (see section 2.2).
+
+=== 3.4 Resources to be committed
+
+*Arne + Jutta*
+
+[WARNING]
+====
+_Please make sure the information in this section matches the costs as stated in the budget table in section 3 of the administrative proposal forms, and the number of person months, shown in the detailed work package descriptions._
+====
+
+Please provide the following:
+
+* a table showing number of person months required (table 3.4a)
+* a table showing ‘other direct costs’ (table 3.4b) for participants where those costs exceed 15% of the personnel costs (according to the budget table in section 3 of the administrative proposal forms)
+
+==== Tables for section 3.1
+
+.Table 3.1a: List of work packages
+[cols=",,,,,,",]
+|================================
+a|*Work package No*
+a|*Work Package Title*
+a|*Lead Participant No*
+a|*Lead Participant Short Name*
+a|*Person-Months*
+a|*Start Month*
+a|*End month*
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | |Total person- months | |
+|================================
+
+*Arne + IT-Team/ Jutta*
+
+.Table 3.1b: Work package description: Arne + IT-Team/ Jutta
+
+*For each work package:*
+
+[cols=",,,",]
+|==============================================
+|*Work package number* | |*Lead beneficiary* |
+|*Work package title* |
+|*Participant number* | | | | | | |
+|*Short name of participant* | | | | | | |
+|*Person months per participant:* | | | | | | |
+|*Start month* | |*End month* |
+|==============================================
+
+[cols="",]
+|============
+|*Objectives*
+|============
+
+[cols="",]
+|========================================================================================================
+|*Description of work* (where appropriate, broken down into tasks), lead partner and role of participants
+|========================================================================================================
+
+[cols="",]
+|========================================================
+|*Deliverables* (brief description and month of delivery)
+|========================================================
+
+.Table 3.1c: List of Deliverables: Arne + IT-Team/ Jutta
+
+[cols=",,,,,,",]
+|===
+|*Deliverable (number)* |*Deliverable name* |*Work package number* |*Short name of lead participant* |*Type* |*Dissemination level* a|*Delivery date* (in months)
+
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+|===
+
+[DEFINITION]
+====
+.KEY
+
+_Deliverable numbers in order of delivery dates. Please use the numbering convention <WP number>.<number of deliverable within that WP>._
+
+_For example, deliverable 4.2 would be the second deliverable from work package 4._
+
+*Type:*
+
+_Use one of the following codes:_
+
+R: Document, report (excluding the periodic and final reports)
+
+DEM: Demonstrator, pilot, prototype, plan designs
+
+DEC: Websites, patents filing, press & media actions, videos, etc.
+
+OTHER: Software, technical diagram, etc.
+
+*Dissemination level:*
+
+_Use one of the following codes:_
+
+PU = Public, fully open, e.g. web
+
+CO = Confidential, restricted under conditions set out in Model Grant Agreement
+
+CI = Classified, information as referred to in Commission Decision 2001/844/EC.
+
+*Delivery date*
+
+Measured in months from the project start date (month 1)
+====
+
+==== Tables for section 3.2
+
+.Table 3.2a: List of milestones: Arne + IT-Team / Jutta
+[cols="5*"]
+|===
+|*Milestone number* |*Milestone name* |*Related work package(s)* |*Due date (in month)* |*Means of verification*
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+|===
+
+[DEFINITION]
+====
+.KEY
+
+*Due date*
+
+_Measured in months from the project start date (month 1)_
+
+*Means of verification*
+
+_Show how you will confirm that the milestone has been attained. Refer to indicators if appropriate. For example: a laboratory prototype that is ‘up and running’; software released and validated by a user group; field survey complete and data quality validated._
+====
+
+
+.Table 3.2b: Critical risks for implementation: Arne + IT-Team/ Jutta
+[cols=",,",]
+|======================================================================================================================================
+|*Description of risk (indicate level of likelihood: Low/Medium/High)* |*Work package(s) involved* |*Proposed risk-mitigation measures*
+| | |
+| | |
+| | |
+| | |
+|======================================================================================================================================
+
+[DEFINITION]
+====
+.Definition critical risk:
+
+_A critical risk is a plausible event or issue that could have a high adverse impact on the ability of the project to achieve its objectives._
+
+*Level of likelihood* _to occur:_ *Low/medium/high*
+
+_The likelihood is the estimated probability that the risk will materialise even after taking account of the mitigating measures put in place._
+====
+
+==== Tables for section 3.4
+
+.Table 3.4a: Summary of staff effort: Arne + IT-Team/ Jutta*
+
+_Please indicate the number of person/months over the whole duration of the planned work, for each work package, for each participant. Identify the work-package leader for each WP by showing the relevant person-month figure in bold._
+
+[cols=",,,,",]
+|===
+| |*WPn* |*WPn+1* |*WPn+2* a|
+*Total Person-*
+*Months per Participant*
+|*Participant Number/Short Name* | | | |
+a|*ParticipantNumber/*
+*Short Name*| | | |
+a|*Participant Number/*
+*Short Name*
+ | | | |
+|*Total Person Months* | | | |
+|===
+
+
+.Table 3.4b: ‘Other direct cost’ items (travel, equipment, other goods and services, large research infrastructure) Arne + IT-Team/ Jutta
+
+Please complete the table below for each participant if the sum of the costs for’ travel’, ‘equipment’, and ‘goods and services’ exceeds 15% of the personnel costs for that participant (according to the budget table in section 3 of the proposal administrative forms).
+
+[cols=",,",]
+|===
+|*Participant Number/Short Name* |*Cost (€)* |*Justification*
+|*Travel* | |
+|*Equipment* | |
+|*Other goods and services* | |
+|*Total* | |
+|===
+
+Please complete the table below for all participants that would like to declare costs of large research infrastructure under Article 6.2 of the General Model Agreement, irrespective of the percentage of personnel costs. Please indicate (in the justification) if the beneficiary’s methodology for declaring the costs for large research infrastructure has already been positively assessed by the Commission.
+
+
+[cols=",,",]
+|============================================================
+|*Participant Number/Short Name* |*Cost (€)* |*Justification*
+|*Large research infrastructure* | |
+|============================================================
