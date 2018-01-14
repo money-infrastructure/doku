@@ -13,6 +13,31 @@ _**Innovation actions**_
 
 toc::[]
 
+.Overview of the preparation of this proposal
+[cols="30,20,^12,^12,31"]
+|===
+|Chapter |Assinged to |Due |Ready|Remark
+
+|1. Excellence | | | |
+|1.1 Objectives |Arne, Jutta | |14/1/2018 |
+|1.2 Relation to the work programme |Arne, Jutta | | |
+|1.3 Concept and methodology | | | |
+|1.3.a Concept |Arne, Jutta, Monetative | | |
+|1.3.b Methodology |Arne, IT-Team | | |
+|1.4 Ambition |Arne, IT-Team | | |
+|2. Impact | | | |
+|2.1 Expected impacts |Monetative, Jutta, Arne | | |
+|2.2 Measures to maximise impact | | | |
+|2.2.a Dissemination and exploitation of results |Arne,IT-Team, Jutta | | |
+|2.2.b Communication activities |All | | |
+|3. Implementation | | | |
+|3.1 Work plan — Work packages, deliverables |Arne, IT-Team | | |
+|3.2 Management structure, milestones and procedures |Arne, IT-Team, Jutta | | |
+|3.3 Consortium as a whole |Monetative, Partner orga. | | |Short description of their goals and activities
+|3.4 Resources to be committed |Arne, Jutta | | |
+
+|===
+
 *COVER PAGE*
 
 *Title of Proposal: NEW MONEY INFRASTRUCTURE*
@@ -54,7 +79,7 @@ Describe the overall and specific objectives for the project, which should be cl
 |===
 |Assinged to |Due |Ready|Remark
 
-|Arne | | |
+|Arne | |14/1/2018 |
 |Jutta| | |
 |===
 
