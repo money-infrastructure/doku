@@ -4,6 +4,8 @@
 :table-caption!:
 :icons: font
 :toc: macro
+:toclevels: 4
+:imagesdir: ../images/English
 
 _**Research and Innovation actions**_
 
@@ -56,7 +58,17 @@ Describe the overall and specific objectives for the project, which should be cl
 |Jutta| | |
 |===
 
+[.lead]
+The New Money Infrastructure project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current cryptocurrencies and will have the following main-features:
 
+* It is developed for classical currencies and converts, for example, euros into crypto central bank euros (positive money, Vollgeld).
+* It consists of standards and open source programs that run on users' existing hardware (mobiles, computers etc.) with internet access.
+* It transmits payments directly between users and prevents them from manipulating their own or others’ data.
+* It is an instrument for people and the real economy that works independently of the existing financial sector.
+* It promotes fair trade and sustainable business practices in a very efficient way.
+
+
+image::NMI004.png[New Money Infrastructure]
 
 === 1.2 Relation to the work programme
 
@@ -90,6 +102,75 @@ Describe and explain the overall concept underpinning the project. Describe the 
 |Arne | | |
 |Jutta| | |
 |===
+
+Although some key ideas have been adopted from crypto currencies, there are significant differences and new ideas.
+
+===== Self-administered crypto accounts
+Banknotes securitize money, current accounts book the money, and the _New Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but is a _digital bearer instrument_ for existing money.
+
+The creation of money and monetary policy is seen as the task of the central banks and the profit through money creation should benefit the community.
+
+===== Ultimate decentralization
+The _New Money Infrastructure_ is decentralized in three ways:
+
+1.  No central administrative authority.
+2.  Each user stores only his own data and optionally encrypted backups of other users.
+3.  Transactions and contracts are only exchanged between the parties directly involved.
+
+As a result, data volume and traffic are kept to a minimum while maintaining maximum efficiency, effectiveness and privacy.
+
+The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodesfootnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]].
+
+Early in 2018, the blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
+
+In the New Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
+
+===== Legal consensus mechanism
+For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
+
+Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations will be turned into digital bearer instruments that have been signed by the senders and can only be read and processed by the legitimate recipients.
+
+The signed data, together with the rights and obligations arising from the contract, will be complementarily distributed amongst the contracting parties, with the result that a party who manipulates his data would destroy his own rights and yet would have to fulfil his obligations under the contract. Rights and data are inextricably linked, as are rights and paper in securities. The rights from the data follow the rights at the data. The power of control over the data is ensured by cryptographic methods and possession.
+
+The correct content of the data is also legally secured through the complementary interests of the parties: The right of the creditor to claim a particular performance refers to the identical performance that the debtor has to provide.
+
+For example, a contract signed by the seller certifies the rights of the buyer and the obligations of the seller. This unique data is stored in the buyer's blockchain. As a result, only he can actually and legally dispose of these data. The buyer cannot manipulate these data because the seller signed them. And without these data, the buyer cannot assert his rights against the seller and the seller is under no obligation to perform.
+
+And vice versa, the contract signed by the buyer certifies the rights of the seller and the obligations of the buyer. This unique data is stored in the seller's blockchain and only he can actually and legally dispose of these data.
+
+The legal consensus mechanism causes users to not manipulate their data; otherwise their own rights would be destroyed. Therefore, the data must be protected only from accidental and third party manipulations, hardware failures and software errors. To prevent such incidents, there are several redundant protection mechanisms installed that can be supplemented by the user himself, if he wishes to do so.
+
+"Proof of Work" is currently the consensus mechanism in the most popular crypto currencies, such as Bitcoin. At the beginning of 2018, Bitcoins’s current estimated annual electricity consumption was 38 TWh with a strong upward trend. In comparison, this consumption is higher than that of 7.5 million 4-person households in Germany.
+
+In the money infrastructure, this unimaginable energy consumption is not required and is replaced by a single paragraph within the terms of use, thereby doing more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
+
+===== Fair trade and sustainable business practices
+*Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model.
+
+Within the _New Money Infrastructure_, business is done with recommended, standardized and balanced contracts (RSB contracts). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
+
+RSB contract templates capture and extend the idea of "Smart Contracts". Simply explained an RSB contract is an instrument that allows users to easily and efficiently conduct their business without having to understand the legal details. Users can trust that the different interests are balanced. They are abstract legal structures that, like numbers in mathematics, are described differently in different languages, but have the same meaning in all languages. For RSB contracts there is a localized certified copy in all required languages. The claims and also possible legal consequences in the event of disruptions to performance are clearly indicated in a transparent manner.
+
+What applies to trade in general will apply even more to financial services and financial instruments, which will serve exclusively the people and the real economy.
+
+RSB contracts are well thought out and well coordinated. They implement the idea of international standards in the field of contract law. The motto is as few templates as possible and as much as necessary.
+
+RSB contracts are objects in the sense of object-oriented programming. They have a status, respond to events and can communicate with or act legally for the parties. For example, payments are not made to the payee but to the contracts, which are then forwarded to the payee upon confirmation of reception of the goods by the payee.
+
+RSB contracts generate all the accounting records in various accounting standards that belong to a contract and its related transactions.
+
+RSB contract templates are developed by users, validated by stakeholders and adopted by majority vote.
+
+The RSB contracts go far beyond the points raised, and exploiting their potential will not only be the task of a follow-up project, but will provide business opportunities in many areas.
+
+This includes:
+
+. Automatic accounting not only for companies but for the public sector as well
+. Business and economic evaluations to an unprecedented extent and quality
+. Risk management and services
+. Default management and services
+. Collateral management and services
+. Rating services
 
 
 [NOTE]
@@ -168,6 +249,7 @@ Describe the advance your proposal would provide beyond the state-of-the-art, an
 |Arne | | |
 |IT-Team | | |
 |===
+
 
 
 [NOTE]
