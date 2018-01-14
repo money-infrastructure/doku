@@ -45,20 +45,33 @@ _This section of your proposal will be assessed only to the extent that it is re
 
 [NOTE]
 ====
- Describe the overall and specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).
+Describe the overall and specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).
 ====
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
+
+
 
 === 1.2 Relation to the work programme
 
 [NOTE]
 ====
- Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.
+Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.
 ====
 
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
-*Arne + Jutta*
+|Arne | | |
+|Jutta| | |
+|===
 
 
 === 1.3 Concept and methodology
@@ -70,61 +83,106 @@ _This section of your proposal will be assessed only to the extent that it is re
 Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved.
 ====
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
+
 
 [NOTE]
 ====
 Identify any inter-disciplinary considerations and, where relevant, use of stakeholder knowledge. Where relevant, include measures taken for public/societal engagement on issues related to the project.
 ====
 
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
-*Monetative (background: political, historical and society)*
+|Monetative| | | background: political, historical and society
+|===
 
-
-[NOTE]
-====
- Describe the positioning of the project e.g. where it is situated in the spectrum from ‘idea to application’, or from ‘lab to market’.
-====
-
-
-*Arne*
 
 
 [NOTE]
 ====
- Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project.
+Describe the positioning of the project e.g. where it is situated in the spectrum from ‘idea to application’, or from ‘lab to market’.
 ====
 
-*Arne, Monetative and possibly the two Partner-Organisations*
+
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|===
+
+
+
+[NOTE]
+====
+Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project.
+====
+
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Monetative | | |
+|Partner Organisationen | | |
+|===
+
 
 ==== (b) Methodology
 
 [NOTE]
 ====
- Describe and explain the overall methodology, distinguishing, as appropriate, activities indicated in the relevant section of the work programme, e.g. for research, demonstration, piloting, first market replication, etc.
+Describe and explain the overall methodology, distinguishing, as appropriate, activities indicated in the relevant section of the work programme, e.g. for research, demonstration, piloting, first market replication, etc.
 ====
 
-*Arne and IT-Team*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|IT-Team | | |
+|===
+
 
 
 === 1.4 Ambition
 
 [NOTE]
 ====
- Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
+Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
 ====
 
 
-*Arne and IT-Team*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|IT-Team | | |
+|===
 
 
 [NOTE]
 ====
- Describe the innovation potential *(e.g. ground-breaking objectives, novel concepts and approaches, new products, services or business and organisational models)* which the proposal represents. Where relevant, refer to products and services already available on the market. Please refer to the results of any patent search carried out.
+Describe the innovation potential *(e.g. ground-breaking objectives, novel concepts and approaches, new products, services or business and organisational models)* which the proposal represents. Where relevant, refer to products and services already available on the market. Please refer to the results of any patent search carried out.
 ====
 
 
-*Arne and IT-Team*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|IT-Team | | |
+|===
 
 
 == 2. Impact
@@ -133,14 +191,19 @@ Identify any inter-disciplinary considerations and, where relevant, use of stake
 
 [NOTE]
 ====
- Describe how your project will contribute to:
+Describe how your project will contribute to:
 
- * each of the expected impacts mentioned in the work programme, under the relevant topic.
+* each of the expected impacts mentioned in the work programme, under the relevant topic.
 ====
 
-*Monetative (where do we want to go - politically and relevant for the society?)*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
-*+ Jutta*
+|Monetative | | |Where do we want to go - politically and relevant for the society?
+|Jutta | | |
+|===
+
 
 [NOTE]
 ====
@@ -163,23 +226,43 @@ The action will equip relevant EU actors and partners with knowledge and tools f
 ** any substantial impacts not mentioned in the work programme, that would enhance innovation capacity; create new market opportunities, strengthen competitiveness and growth of companies, address issues related to climate change or the environment, or bring other important benefits for society.
 ====
 
-*Arne + Monetative*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Monetative | | |
+|===
+
 
 
 [NOTE]
 ====
- Describe any barriers/obstacles, and any framework conditions (such as regulation, standards, public acceptance, workforce considerations, financing of follow-up steps, cooperation of other links in the value chain), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)
+Describe any barriers/obstacles, and any framework conditions (such as regulation, standards, public acceptance, workforce considerations, financing of follow-up steps, cooperation of other links in the value chain), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)
 ====
 
 
-*Arne + Monetative*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Monetative | | |
+|===
+
 
 
 === 2.2 Measures to maximise impact
 
 ==== a) Dissemination and exploitation of results
 
-Arne + Jutta
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
 
 [NOTE]
 ====
@@ -205,9 +288,22 @@ Consider the full range of potential users and uses, including research, commerc
 _Your plan should give due consideration to the possible *follow-up* of your project, once it is finished. Its exploitation could require additional investments, wider testing or scaling up. Its exploitation could also require other pre-conditions like regulation to be adapted, or value chains to adopt the results, or the public at large being receptive to your results._
 ====
 
-* Include a business plan where relevant. *Arne + Jutta*
+[NOTE]
+====
+* Include a business plan where relevant.
+====
 
-* As relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues: *Arne + IT-Team*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
+
+[NOTE]
+====
+* As relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues:
 
 
 ** What types of data will the project generate/collect?
@@ -219,7 +315,15 @@ _Your plan should give due consideration to the possible *follow-up* of your pro
 ** How will this data be curated and preserved?
 
 ** How will the costs for data curation and preservation be covered?
+====
 
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|IT-Team | | |
+|===
 
 [WARNING]
 ====
@@ -236,11 +340,19 @@ _You will need an appropriate consortium agreement to manage (amongst other thin
 _The appropriate structure of the consortium to support exploitation is addressed in section 3.3._
 ====
 
+[NOTE]
+====
 * Outline the strategy *for knowledge management and protection*. Include measures to provide *open access* (free on-line access, such as the ‘green’ or ‘gold’ model) to peer-reviewed scientific publications which might result from the project.
+====
 
 
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
-*Arne + IT-Team*
+|Arne | | |
+|IT-Team | | |
+|===
 
 [WARNING]
 ====
@@ -254,9 +366,10 @@ _Self-archiving (also called 'green' open access) means that the published artic
 
 ==== b) Communication activities
 
-
+[NOTE]
+====
 * Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives. They should be tailored to the needs of different target audiences, including groups beyond the project's own community.
-
+====
 
 *Suggestions from All - do we have a communication expert in our group???*
 
@@ -266,8 +379,16 @@ _Self-archiving (also called 'green' open access) means that the published artic
 === 3.1 Work plan — Work packages, deliverables
 
 
-*Arne and IT-Team*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
+|Arne | | |
+|IT-Team | | |
+|===
+
+[NOTE]
+====
 Please provide the following:
 
 * brief presentation of the overall structure of the work plan;
@@ -282,6 +403,7 @@ Please provide the following:
 
 
 * graphical presentation of the components showing how they inter-relate (Pert chart or similar).
+====
 
 [WARNING]
 ====
@@ -308,7 +430,7 @@ _You will be required to include an updated (or confirmed) ‘plan for the disse
 _If your project is taking part in the Pilot on Open Research Data, you must include a 'data management plan' as a distinct deliverable within the first 6 months of the project. A template for such a plan is given in the guidelines on data management in the http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm[H2020 Online Manual]. This deliverable will evolve during the lifetime of the project in order to present the status of the project's reflections on data management._
 ====
 
-[DEFINITION]
+[NOTE]
 ====
 .Definitions:
 
@@ -319,29 +441,64 @@ _‘*Deliverable*’ means a distinct output of the project, meaningful in terms
 
 === 3.2 Management structure, milestones and procedures
 
-*  Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a))
+[NOTE]
+====
+* Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a))
+====
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
+|Arne | | |
+|Jutta| | |
+|===
+
+[NOTE]
+====
 * Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project.
+====
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
+|Arne | | |
+|Jutta| | |
+|===
+
+[NOTE]
+====
 * Describe, where relevant, how effective innovation management will be addressed in the management structure and work plan.
+====
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
 
 [WARNING]
 ====
 _Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity._
 ====
 
+[NOTE]
+====
 * Describe any critical risks, relating to project implementation, that the stated project's objectives may not be achieved. Detail any risk mitigation measures. Please provide a table with critical risks identified and mitigating actions (table 3.2b)
+====
 
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
 
-*Arne + IT-Team*
+|Arne | | |
+|IT-Team | | |
+|===
 
-[DEFINITION]
+[NOTE]
 ====
 .Definition:
 
@@ -350,34 +507,46 @@ _‘*Milestones*’ means control points in the project that help to chart progr
 
 === 3.3 Consortium as a whole
 
-*Monetative: short description of their goals and activities*
-
-*2 Partner Organisations: short description of their goals and activities*
-
 [WARNING]
 ====
 _The individual members of the consortium are described in a separate section 4. There is no need to repeat that information here._
 ====
 
+[NOTE]
+====
 * Describe the consortium. How will it match the project’s objectives, and bring together the necessary expertise? How do the members complement one another (and cover the value chain, where appropriate),?
 
 * In what way does each of them contribute to the project? Show that each has a valid role, and adequate resources in the project to fulfil that role.
 
 * If applicable, describe the industrial/commercial involvement in the project to ensure exploitation of the results and explain why this is consistent with and will help to achieve the specific measures which are proposed for exploitation of the results of the project (see section 2.2).
+====
+
+*Monetative: short description of their goals and activities*
+
+*2 Partner Organisations: short description of their goals and activities*
 
 === 3.4 Resources to be committed
 
-*Arne + Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|Jutta| | |
+|===
 
 [WARNING]
 ====
 _Please make sure the information in this section matches the costs as stated in the budget table in section 3 of the administrative proposal forms, and the number of person months, shown in the detailed work package descriptions._
 ====
 
+[NOTE]
+====
 Please provide the following:
 
 * a table showing number of person months required (table 3.4a)
 * a table showing ‘other direct costs’ (table 3.4b) for participants where those costs exceed 15% of the personnel costs (according to the budget table in section 3 of the administrative proposal forms)
+====
 
 ==== Tables for section 3.1
 
@@ -398,7 +567,14 @@ a|*End month*
 | | | | |Total person- months | |
 |================================
 
-*Arne + IT-Team/ Jutta*
+[cols="20,^15,^15,50"]
+|===
+|Assinged to |Due |Ready|Remark
+
+|Arne | | |
+|IT-Team | | |
+|Jutta|||
+|===
 
 .Table 3.1b: Work package description: Arne + IT-Team/ Jutta
 
@@ -442,7 +618,7 @@ a|*End month*
 | | | | | | |
 |===
 
-[DEFINITION]
+[NOTE]
 ====
 .KEY
 
@@ -489,7 +665,7 @@ Measured in months from the project start date (month 1)
 | | | | |
 |===
 
-[DEFINITION]
+[NOTE]
 ====
 .KEY
 
@@ -513,7 +689,7 @@ _Show how you will confirm that the milestone has been attained. Refer to indica
 | | |
 |======================================================================================================================================
 
-[DEFINITION]
+[NOTE]
 ====
 .Definition critical risk:
 
@@ -526,7 +702,7 @@ _The likelihood is the estimated probability that the risk will materialise even
 
 ==== Tables for section 3.4
 
-.Table 3.4a: Summary of staff effort: Arne + IT-Team/ Jutta*
+.Table 3.4a: Summary of staff effort: Arne + IT-Team/ Jutta
 
 _Please indicate the number of person/months over the whole duration of the planned work, for each work package, for each participant. Identify the work-package leader for each WP by showing the relevant person-month figure in bold._
 
@@ -546,6 +722,7 @@ a|*Participant Number/*
 
 
 .Table 3.4b: ‘Other direct cost’ items (travel, equipment, other goods and services, large research infrastructure) Arne + IT-Team/ Jutta
+
 
 Please complete the table below for each participant if the sum of the costs for’ travel’, ‘equipment’, and ‘goods and services’ exceeds 15% of the personnel costs for that participant (according to the budget table in section 3 of the proposal administrative forms).
 
