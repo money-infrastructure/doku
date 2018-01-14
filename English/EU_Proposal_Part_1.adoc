@@ -59,7 +59,7 @@ Describe the overall and specific objectives for the project, which should be cl
 |===
 
 [.lead]
-The New Money Infrastructure project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current cryptocurrencies and will have the following main-features:
+The *New Money Infrastructure project* aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current cryptocurrencies and will have the following main-features:
 
 * It is developed for classical currencies and converts, for example, euros into crypto central bank euros (positive money, Vollgeld).
 * It consists of standards and open source programs that run on users' existing hardware (mobiles, computers etc.) with internet access.
@@ -67,8 +67,9 @@ The New Money Infrastructure project aims to develop a global and decentralized 
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
 
-
 image::NMI004.png[New Money Infrastructure]
+
+The *specific objective* is a prototype of such a system that demonstrates the overall viability and functioning of the new money infrastructure.
 
 === 1.2 Relation to the work programme
 
