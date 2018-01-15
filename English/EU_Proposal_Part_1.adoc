@@ -20,21 +20,21 @@ toc::[]
 
 |1. Excellence | | | |
 |1.1 Objectives |Arne, Jutta | |14/1/2018 |
-|1.2 Relation to the work programme |Arne, Jutta | | |
+|1.2 Relation to the work programme |Jutta, Arne | | |
 |1.3 Concept and methodology | | | |
-|1.3.a Concept |Arne, Jutta, Monetative | | |
-|1.3.b Methodology |Arne, IT-Team | | |
+|1.3.a Concept |Arne, Jutta, Monetative |21/1/2018 |70% |
+|1.3.b Methodology |Arne, IT-Team |28/2/2018 | |
 |1.4 Ambition |Arne, IT-Team | | |
 |2. Impact | | | |
-|2.1 Expected impacts |Monetative, Jutta, Arne | | |
+|2.1 Expected impacts |Monetative, Jutta, Arne |4/1/2018 | |
 |2.2 Measures to maximise impact | | | |
-|2.2.a Dissemination and exploitation of results |Arne,IT-Team, Jutta | | |
+|2.2.a Dissemination and exploitation of results |Arne,IT-Team, Jutta |11/2/2018 | |
 |2.2.b Communication activities |All | | |
 |3. Implementation | | | |
-|3.1 Work plan — Work packages, deliverables |Arne, IT-Team | | |
-|3.2 Management structure, milestones and procedures |Arne, IT-Team, Jutta | | |
-|3.3 Consortium as a whole |Monetative, Partner orga. | | |Short description of their goals and activities
-|3.4 Resources to be committed |Arne, Jutta | | |
+|3.1 Work plan — Work packages, deliverables |Arne, IT-Team |18/2/2018 | |
+|3.2 Management structure, milestones and procedures |Arne, IT-Team, Jutta |25/2/2018 | |
+|3.3 Consortium as a whole |Monetative, Partner orga. |25/2/2018 | |Short description of their goals and activities
+|3.4 Resources to be committed |Arne, Jutta |4/3/2018 | |
 
 |===
 
@@ -107,8 +107,8 @@ Indicate the work programme topic to which your proposal relates, and explain ho
 |===
 |Assinged to |Due |Ready|Remark
 
-|Arne | | |
 |Jutta| | |
+|Arne | | |
 |===
 
 
@@ -125,11 +125,18 @@ Describe and explain the overall concept underpinning the project. Describe the 
 |===
 |Assinged to |Due |Ready|Remark
 
-|Arne | | |
+|Arne | |70% |
 |Jutta| | |
 |===
 
+===== Overview of the main ideas
+
 Although some key ideas have been adopted from crypto currencies, there are significant differences and new ideas.
+
+* *Self-administered crypto accounts* to create digital bearer instruments for normal currencies.
+* *Ultimate decentralization* for maximum efficiency and privacy.
+* *Legal consensus mechanism* for immutable agreements for the Internet of value without wasting energy.
+* *Recommended, standardized and balanced contracts (RSB contracts)* for easy handling of complex and difficult issues.
 
 ===== Self-administered crypto accounts
 Banknotes securitize money, current accounts book the money, and the _New Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but is a _digital bearer instrument_ for existing money.
@@ -223,10 +230,12 @@ Describe the positioning of the project e.g. where it is situated in the spectru
 |===
 |Assinged to |Due |Ready|Remark
 
-|Arne | | |
+|Arne | |50% |
 |===
 
+The project is positioned in the spectrum from "idea to application" in such a way that the fundamental functionality and the benefits can be demonstrated on the planned prototype of a test New Money Infrastructure. Users should be able to create accounts and make payments. In addition, additional financial services and instruments will be shown using central examples. If the infrastructure is accepted, it offers an abundance of business opportunities that help to further develop and expand the system.
 
+Not only will users have significant benefits and cost savings, but those who continue to develop and carry the system will benefit from the usage fees. For private users, in general, the system will provide financial services free of charge if they provide the resources they use to the same extent to others.
 
 [NOTE]
 ====
@@ -241,6 +250,7 @@ Describe any national or international research and innovation activities which 
 |Monetative | | |
 |Partner Organisationen | | |
 |===
+
 
 
 ==== (b) Methodology
