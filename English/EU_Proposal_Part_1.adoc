@@ -135,7 +135,7 @@ Although some key ideas have been adopted from crypto currencies, there are sign
 
 * *Self-administered crypto accounts* to create digital bearer instruments for normal currencies.
 * *Ultimate decentralization* for maximum efficiency and privacy.
-* *Legal consensus mechanism* for immutable agreements for the Internet of value without wasting energy.
+* *Legal consensus mechanism* for immutable agreements for the Internet of value. Unlike the unimaginable energy consumption that Bitcoin requires, this mechanism does not consume energy.
 * *Recommended, standardized and balanced contracts (RSB contracts)* for easy handling of complex and difficult issues.
 
 ===== Self-administered crypto accounts
