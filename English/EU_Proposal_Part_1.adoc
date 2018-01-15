@@ -139,7 +139,7 @@ Although some key ideas have been adopted from crypto currencies, there are sign
 * *Legal consensus mechanism* for immutable agreements for the Internet of value. Unlike the unimaginable energy consumption that Bitcoin requires, this mechanism does not consume energy.
 * *Recommended, standardized and balanced contracts (RSB contracts)* for easy handling of complex and difficult tasks.
 
-
+Test
 
 ===== Self-administered crypto accounts
 Banknotes securitize money, current accounts book the money, and the _New Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but is a _digital bearer instrument_ for existing money.
