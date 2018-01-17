@@ -32,7 +32,7 @@ toc::[]
 |2.2.a Dissemination and exploitation of results |Arne,IT-Team, Jutta |11/2/2018 | |
 |2.2.b Communication activities |All | | |
 |3. Implementation | | | |
-|3.1 Work plan — Work packages, deliverables |Arne, IT-Team |18/2/2018 | |
+|3.1 Work plan — Work packages, deliverables |Arne, IT-Team |18/2/2018 |20%|
 |3.2 Management structure, milestones and procedures |Arne, IT-Team, Jutta |25/2/2018 | |
 |3.3 Consortium as a whole |Monetative, Partner orga. |25/2/2018 | |Short description of their goals and activities
 |3.4 Resources to be committed |Arne, Jutta |4/3/2018 | |
@@ -53,7 +53,7 @@ Note: Consortium members are listed in part A. A summary list should also be pro
 |*1 (Coordinator) Jutta Rabe* |*FairShare e.V.* |*DE*
 |*2 Arne Pfeilsticker* |*Monetative e.V.* |*DE*
 |*3 Hansruedi Weber* |*Vollgeld Initiative* |*CH*
-|*4 Luuk de Waal Malefijt* |*Onsgeld* |*NL*
+|*4* | |
 |===
 
 
@@ -90,7 +90,7 @@ The *New Money Infrastructure project* aims to develop a global and decentralize
 * It is developed for classical currencies and converts, for example, euros into crypto central bank euros (positive money, Vollgeld).
 * It consists of standards and open source programs that run on users' existing hardware (mobiles, computers etc.) with internet access.
 * It transmits payments directly between users and prevents them from manipulating their own or others’ data.
-* It is an instrument for people and the real economy that works independently of the existing financial sector.
+* It will be an "economic and creative commons" for people and the real economy with equal rights and obligations that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
 
 image::NMI004.png[New Money Infrastructure]
@@ -151,6 +151,8 @@ Banknotes securitize money, current accounts book the money, and the _New Money 
 The creation of money and monetary policy is seen as the task of the central banks and the profit through money creation should benefit the community.
 
 The NMI not only securitises money, but any kind of rights and obligations.
+
+A user can use the NMI as a generalized accounting system from which to generate reports for any accounting standard.
 
 ===== Ultimate decentralization
 The _New Money Infrastructure_ is decentralized in three ways:
