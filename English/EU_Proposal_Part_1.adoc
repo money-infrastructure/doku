@@ -134,39 +134,45 @@ Describe and explain the overall concept underpinning the project. Describe the 
 
 Although some key ideas have been adopted from crypto currencies, there are significant differences and new ideas.
 
-* *Self-administered crypto accounts* to create digital bearer instruments for normal currencies.
-* *Ultimate decentralization* for maximum efficiency and privacy.
-* *Legal consensus mechanism* for immutable agreements for the Internet of value. Unlike the unimaginable energy consumption that Bitcoin requires, this mechanism does not consume energy.
-* *Recommended, standardized and balanced contracts (RSB contracts)* for easy handling of complex and difficult tasks.
+* *Self-administered crypto accounts* to create digital bearer instruments for normal currencies and other rights or obligations.
+* *Ultimate decentralization* for maximum efficiency, effectiveness and privacy.
+* *Legal consensus mechanism* for immutable agreements for the Internet of value. Unlike the tremendous energy consumption that Bitcoin requires, this mechanism does not consume energy.
+* *Recommended, standardized and balanced contracts (RSB contracts)* for easy handling of financial services and products as well as exchange of goods and services in general.
 
-Test
+The New Money Infrastructure consists of two logical layers.
+
+. A thin server layer that stores control, meta, and shared data. This layer consists of one or more distributed multi-master server clusters with decentralized governance.
+
+. A client app layer that stores all user data. This includes all his contract and transaction data. A user can optionally stores encrypted backups of other users.
 
 ===== Self-administered crypto accounts
 Banknotes securitize money, current accounts book the money, and the _New Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but is a _digital bearer instrument_ for existing money.
 
 The creation of money and monetary policy is seen as the task of the central banks and the profit through money creation should benefit the community.
 
+The NMI not only securitises money, but any kind of rights and obligations.
+
 ===== Ultimate decentralization
 The _New Money Infrastructure_ is decentralized in three ways:
 
-1.  No central administrative authority.
+1.  Decentralized governance
 2.  Each user stores only his own data and optionally encrypted backups of other users.
 3.  Transactions and contracts are only exchanged between the parties directly involved.
 
 As a result, data volume and traffic are kept to a minimum while maintaining maximum efficiency, effectiveness and privacy.
 
-The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodesfootnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]].
+The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodes.footnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]]
 
 Early in 2018, the blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
 
 In the New Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
 
 ===== Legal consensus mechanism
-For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
+For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
 
 Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations will be turned into digital bearer instruments that have been signed by the senders and can only be read and processed by the legitimate recipients.
 
-The signed data, together with the rights and obligations arising from the contract, will be complementarily distributed amongst the contracting parties, with the result that a party who manipulates his data would destroy his own rights and yet would have to fulfil his obligations under the contract. Rights and data are inextricably linked, as are rights and paper in securities. The rights from the data follow the rights at the data. The power of control over the data is ensured by cryptographic methods and possession.
+The signed data, together with the rights and obligations arising from the contract, will be complementarily distributed amongst the contracting parties, with the result that a party who manipulates his data would destroy his own rights and yet would have to fulfil his obligations under the contract. Rights and data are inextricably linked, as are rights and paper in securities. The rights from the data follow the rights to the data. The power of control over the data is ensured by cryptographic methods and possession.
 
 The correct content of the data is also legally secured through the complementary interests of the parties: The right of the creditor to claim a particular performance refers to the identical performance that the debtor has to provide.
 
@@ -176,11 +182,11 @@ And vice versa, the contract signed by the buyer certifies the rights of the sel
 
 The legal consensus mechanism causes users to not manipulate their data; otherwise their own rights would be destroyed. Therefore, the data must be protected only from accidental and third party manipulations, hardware failures and software errors. To prevent such incidents, there are several redundant protection mechanisms installed that can be supplemented by the user himself, if he wishes to do so.
 
-"Proof of Work" is currently the consensus mechanism in the most popular crypto currencies, such as Bitcoin. At the beginning of 2018, Bitcoins’s current estimated annual electricity consumption was 38 TWh with a strong upward trend. In comparison, this consumption is higher than that of 7.5 million 4-person households in Germany.
+"Proof of Work" is currently the consensus mechanism in the most popular crypto currencies, such as Bitcoin. At the beginning of 2018, Bitcoins’s current estimated annual electricity consumption was 38 TWh with a strong upward trend.footnote:[https://digiconomist.net/bitcoin-energy-consumption[Bitcoin Energy Consumption Index]] In comparison, this consumption is higher than that of 7.5 million 4-person households in Germany.
 
 In the money infrastructure, this unimaginable energy consumption is not required and is replaced by a single paragraph within the terms of use, thereby doing more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
 
-===== Fair trade and sustainable business practices
+===== Recommended, standardized and balanced contracts (RSB contracts)
 *Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model.
 
 Within the _New Money Infrastructure_, business is done with recommended, standardized and balanced contracts (RSB contracts). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
@@ -208,7 +214,7 @@ This includes:
 . Collateral management and services
 . Rating services
 
-
+===== Inter-disciplinary considerations
 [NOTE]
 ====
 Identify any inter-disciplinary considerations and, where relevant, use of stakeholder knowledge. Where relevant, include measures taken for public/societal engagement on issues related to the project.
@@ -221,7 +227,7 @@ Identify any inter-disciplinary considerations and, where relevant, use of stake
 |Monetative| | | background: political, historical and society
 |===
 
-
+===== Idea to application
 
 [NOTE]
 ====
@@ -236,9 +242,12 @@ Describe the positioning of the project e.g. where it is situated in the spectru
 |Arne | |50% |
 |===
 
+
 The project is positioned in the spectrum from "idea to application" in such a way that the fundamental functionality and the benefits can be demonstrated on the planned prototype of a test New Money Infrastructure. Users should be able to create accounts and make payments. In addition, additional financial services and instruments will be shown using central examples. If the infrastructure is accepted, it offers an abundance of business opportunities that help to further develop and expand the system.
 
 Not only will users have significant benefits and cost savings, but those who continue to develop and carry the system will benefit from the usage fees. For private users, in general, the system will provide financial services free of charge if they provide the resources they use to the same extent to others.
+
+===== National or international research and innovation activities
 
 [NOTE]
 ====
@@ -275,6 +284,8 @@ Describe and explain the overall methodology, distinguishing, as appropriate, ac
 
 === 1.4 Ambition
 
+==== The novelty
+
 [NOTE]
 ====
 Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
@@ -289,7 +300,7 @@ Describe the advance your proposal would provide beyond the state-of-the-art, an
 |IT-Team | | |
 |===
 
-
+==== Added value for potential users
 
 [NOTE]
 ====
@@ -305,6 +316,7 @@ Describe the innovation potential *(e.g. ground-breaking objectives, novel conce
 |IT-Team | | |
 |===
 
+==== Main advantages of our solution with respect to competing solutions
 
 == 2. Impact
 
@@ -560,38 +572,72 @@ _‘*Work package*’ means a major sub-division of the proposed project._
 _‘*Deliverable*’ means a distinct output of the project, meaningful in terms of the project's overall objectives and constituted by a report, a document, a technical diagram, a software etc._
 ====
 
-==== 3.1.1 Research work package
+==== 3.1.1 Research work package deliverables
 
-===== 3.1.1.1 Deliverable: Evaluation of available wallets
+===== Evaluation of available wallets
 
 There are many open source wallets and client-user interfaces developed for cryptocurrencies. They will then be examined to what extent they can be used for the New Money Infrastructure or as a template.
 
-===== 3.1.1.2 Deliverable: Evaluation of cryptographic methods
+===== Evaluation of cryptographic methods
 
-In the area of cryptocurrencies various cryptographic methods are used. This work package will analyze the existing methods for use in NMI and decide which method to use.
+In the area of cryptocurrencies various cryptographic methods are used. This deliverable will analyze the existing methods for use in NMI and decide which method to use.
 
+===== RSB Contracts
 
-==== 3.1.2 Software development work packages
+RSB contracts are objects in the sense of object-oriented programming. In this deliverable, the requirements for these objects are to be developed. This also includes an axiomatic theory of the law of obligations, in which legal issues are formalized, so that they can be processed by programs.
 
-===== 3.1.2.1 Specification of client applications
+===== Deliverable: Persistent storage strategy
 
-====== 3.1.2.1.1 Business and Organization Users Client App
+This deliverable is a survey on how the data should be stored in the overall system. The pros and cons of different strategies should be discussed and projections about the data volume and traffic should be made.  In addition, statements are to be made about the scalability and the reaction times of the system.
 
-====== 3.1.2.1.2 Private User Client App
+On the basis of previous considerations, control, metadata and common data are stored in a server layer and the user data is stored by the user. In addition, at least 3 backups are stored with other users. The volume of data can vary considerably from user to user, since in addition to contracts and payments, other data, such as documents and emails can be stored. For payments, private users are likely to receive less than 1 MB of data per year even with 100-200 payments per month.
 
-====== 3.1.2.1.3 Mobile Client App
+The servers of the server layer are distributed to those users who provide the NMI with the required resources and in return receive a pro rata revenue from user fees.
 
-====== 3.1.2.1.4 Bank Client App
+As database management system (DBMS), OrientDBfootnote:[http://orientdb.com/] is in the shortlist.
 
-===== 3.1.2.2 Development of client applications
+The functionality of the server layer is realized by stored procedures and plugins.
 
-====== 3.1.2.2.1 Business and Organization Users Client App
+The required overall functionality will be split into several dedicated servers so that a single DBMS can focus on a particular role.
 
-====== 3.1.2.2.2 Private User Client App
+It should be checked whether, for reasons of simplification, only one server software is developed and then, at runtime, one or more server roles are assigned to a server cluster. This would mean that only one server cluster is running at the beginning, and the bigger the NMI grows the more specialized server clusters will emerge, all running the same software.
 
-====== 3.1.2.2.3 Mobile Client App
+==== 3.1.2 Server layer software development work packages
 
-====== 3.1.2.2.4 Bank Client App
+The following types of servers are required:
+
+. *Control servers* that coordinate and control the decentralised system.
+. *Resource management servers* that manage and allocate the resources provided by users to the servers.
+. *Legal entity servers* that manage the users and store their shared profile data, as well as the status of the user database. These servers also store users' public keys.
+. *Taxonomy Servers* store the conceptual hierarchies constructed as binary trees and their translations into the different languages. The path to a term is then used as the system-internal encoding of the term.
+. *RSB Template Server* stores and manages the RSB templates. For the user, only the template ID and the variable data are stored in a contract and not the entire contract text.
+. *Voting server*: New programs or RSB templates are taken over by the affected users by majority vote.
+. Statistics Servers store the business and economic evaluations of user data. Users must permit statistical analysis of their data while maintaining data protection.
+. *E-mail Server*: Each public key or address is automatically assigned an e-mail account to which payments are forwarded if a user is not online at the time of the transfer. This email address can also be used for a spam-free and encrypted email traffic. The emails can be stored in a blockchain.
+. *Contract and transaction servers* store the blockchain tree with a user's data. Each user has exactly one of these servers
+. *Software update servers* store the programs and updates of the system and cause updates to the users.
+
+==== 3.1.3 Client layer development work packages
+
+===== Specification of client applications
+
+. Business and Organization Users Client App
+
+. Private User Client App
+
+. Mobile Client App
+
+. Bank Client App
+
+===== Development of client applications
+
+. Business and Organization Users Client App
+
+. Private User Client App
+
+. Mobile Client App
+
+. Bank Client App
 
 
 === 3.2 Management structure, milestones and procedures
