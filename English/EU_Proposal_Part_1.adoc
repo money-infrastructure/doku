@@ -152,7 +152,7 @@ The creation of money and monetary policy is seen as the task of the central ban
 
 The NMI not only securitises money, but any kind of rights and obligations.
 
-A user can use the NMI as a generalized accounting system from which to generate reports for any accounting standard.
+A user can create accounts for all his rights and obligations and post business transactions. In this case, a generalized accounting system will emerge from which reports for any accounting standard could be generated.
 
 ===== Ultimate decentralization
 The _New Money Infrastructure_ is decentralized in three ways:
