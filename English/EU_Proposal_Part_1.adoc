@@ -3,7 +3,7 @@
 :uri-fontawesome: http://fortawesome.github.io/Font-Awesome/
 :table-caption!:
 :icons: font
-:toc: macro
+:toc:
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
@@ -13,7 +13,7 @@ _**Research and Innovation actions**_
 
 _**Innovation actions**_
 
-toc::[]
+// toc::[]
 
 .Overview of the preparation of this proposal
 [cols="30,20,^12,^12,31"]
@@ -296,6 +296,13 @@ Describe and explain the overall methodology, distinguishing, as appropriate, ac
 Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
 ====
 
+- Crypto-currency infrastructure for normal currencies.
+- Almost free financial services for anyone with internet access.
+- Self-administered money accounts
+- A consensus mechanism that does not require energy.
+- Information privacy in connection with decentrally managed cryptocurrencies.
+- informational self-determination in connection with decentrally managed cryptocurrencies.
+- Significant simplification of financial services and financial instruments
 
 [cols="20,^15,^15,50"]
 |===
@@ -312,6 +319,8 @@ Describe the advance your proposal would provide beyond the state-of-the-art, an
 Describe the innovation potential *(e.g. ground-breaking objectives, novel concepts and approaches, new products, services or business and organisational models)* which the proposal represents. Where relevant, refer to products and services already available on the market. Please refer to the results of any patent search carried out.
 ====
 
+- Significant cost savings on financial services and financial instruments.
+- Fiduciary service for the trade by default
 
 [cols="20,^15,^15,50"]
 |===
