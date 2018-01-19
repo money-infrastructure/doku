@@ -3,7 +3,7 @@
 :uri-fontawesome: http://fortawesome.github.io/Font-Awesome/
 :table-caption!:
 :icons: font
-:toc:
+:toc: macro
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
@@ -13,7 +13,7 @@ _**Research and Innovation actions**_
 
 _**Innovation actions**_
 
-// toc::[]
+toc::[]
 
 .Overview of the preparation of this proposal
 [cols="30,20,^12,^12,31"]
@@ -144,7 +144,7 @@ The New Money Infrastructure consists of two logical layers.
 
 . A thin server layer that stores control, meta, and shared data. This layer consists of one or more distributed multi-master server clusters with decentralized governance.
 
-. A client app layer that stores all user data. This includes all his contract and transaction data. A user can optionally stores encrypted backups of other users.
+. A client app layer that stores all user data. Each user stores only his own data in a self-administered blockchain tree. A user can optionally stores encrypted backups of other users.
 
 ===== Self-administered crypto accounts
 Banknotes securitize money, current accounts book the money, and the _New Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but is a _digital bearer instrument_ for existing money.
@@ -153,7 +153,7 @@ The creation of money and monetary policy is seen as the task of the central ban
 
 The NMI not only securitises money, but any kind of rights and obligations.
 
-A user can create accounts for all his rights and obligations and post business transactions. In this case, a generalized accounting system will emerge from which reports for any accounting standard could be generated.
+A user can create accounts for all his rights and obligations and post business transactions. The accounts are part of an abstract and generalized accounting system from which reports can be drawn for any accounting standards. The money infrastructure can also be used to prove rights or obligations that are not currently recorded in balance sheets.
 
 ===== Ultimate decentralization
 
