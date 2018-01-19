@@ -6,6 +6,7 @@ ${project.version}, ${buildtime}: Subtitle {doctitle}
 :table-caption!:
 :icons: font
 :toclevels: 5
+:sectnums:
 :sectnumlevels: 5
 :toc: macro
 :imagesdir: ../images/English
