@@ -155,6 +155,7 @@ The NMI not only securitises money, but any kind of rights and obligations.
 A user can create accounts for all his rights and obligations and post business transactions. In this case, a generalized accounting system will emerge from which reports for any accounting standard could be generated.
 
 ===== Ultimate decentralization
+
 The _New Money Infrastructure_ is decentralized in three ways:
 
 1.  Decentralized governance
@@ -163,13 +164,14 @@ The _New Money Infrastructure_ is decentralized in three ways:
 
 As a result, data volume and traffic are kept to a minimum while maintaining maximum efficiency, effectiveness and privacy.
 
-The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodes.footnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]]
+Bitcoin is decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodes.footnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]]
 
 Early in 2018, the blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
 
 In the New Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
 
 ===== Legal consensus mechanism
+
 For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
 
 Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations will be turned into digital bearer instruments that have been signed by the senders and can only be read and processed by the legitimate recipients.
@@ -588,7 +590,7 @@ In the area of cryptocurrencies various cryptographic methods are used. This del
 
 RSB contracts are objects in the sense of object-oriented programming. In this deliverable, the requirements for these objects are to be developed. This also includes an axiomatic theory of the law of obligations, in which legal issues are formalized, so that they can be processed by programs.
 
-===== Deliverable: Persistent storage strategy
+===== Persistent storage strategy
 
 This deliverable is a survey on how the data should be stored in the overall system. The pros and cons of different strategies should be discussed and projections about the data volume and traffic should be made.  In addition, statements are to be made about the scalability and the reaction times of the system.
 
@@ -604,7 +606,7 @@ The required overall functionality will be split into several dedicated servers 
 
 It should be checked whether, for reasons of simplification, only one server software is developed and then, at runtime, one or more server roles are assigned to a server cluster. This would mean that only one server cluster is running at the beginning, and the bigger the NMI grows the more specialized server clusters will emerge, all running the same software.
 
-==== 3.1.2 Server layer software development work packages
+==== 3.1.2 Server software development work packages
 
 The following types of servers are required:
 
@@ -614,32 +616,24 @@ The following types of servers are required:
 . *Taxonomy Servers* store the conceptual hierarchies constructed as binary trees and their translations into the different languages. The path to a term is then used as the system-internal encoding of the term.
 . *RSB Template Server* stores and manages the RSB templates. For the user, only the template ID and the variable data are stored in a contract and not the entire contract text.
 . *Voting server*: New programs or RSB templates are taken over by the affected users by majority vote.
-. Statistics Servers store the business and economic evaluations of user data. Users must permit statistical analysis of their data while maintaining data protection.
+. *Statistics Servers* store the business and economic evaluations of user data. Users must permit statistical analysis of their data while maintaining data protection.
 . *E-mail Server*: Each public key or address is automatically assigned an e-mail account to which payments are forwarded if a user is not online at the time of the transfer. This email address can also be used for a spam-free and encrypted email traffic. The emails can be stored in a blockchain.
-. *Contract and transaction servers* store the blockchain tree with a user's data. Each user has exactly one of these servers
 . *Software update servers* store the programs and updates of the system and cause updates to the users.
+. *Contract and transaction servers* store the blockchain tree with a user's data. Each user has exactly one of these servers
 
-==== 3.1.3 Client layer development work packages
+The servers 1. - 9. belong to the server layer. The contract and transaction server stores the database for the client app.
 
-===== Specification of client applications
+==== 3.1.3 Client software development work packages
 
-. Business and Organization Users Client App
+Possibly also the Client Apps can be realized as Plugins. Thus, the software for the NMI would be implemented uniformly as an extension of the DBMS.
 
-. Private User Client App
+. The *Client App for Businesses and Organizations* is actually a stand-alone multiuser client-server application where the server component can run on its own server. It is also already preconfigured so that the complete accounting could be done.
 
-. Mobile Client App
+. The *Private User Client App* is tailored to the needs of private individuals.
 
-. Bank Client App
+. The *Mobile Client App* can be used for private users as well as employees of companies and organizations.
 
-===== Development of client applications
-
-. Business and Organization Users Client App
-
-. Private User Client App
-
-. Mobile Client App
-
-. Bank Client App
+. The *Bank Client App* is the interface to the banking sector. This interface handles payments to and from the money infrastructure and manages the cash reserve of the New Money Infrastructure. Per currency, this app would run either at a central bank or a commercial bank.
 
 
 === 3.2 Management structure, milestones and procedures
