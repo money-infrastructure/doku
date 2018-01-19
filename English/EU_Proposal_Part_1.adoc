@@ -47,7 +47,7 @@ toc::[]
 Note: Consortium members are listed in part A. A summary list should also be provided in the table below.
 
 .List of participants
-[cols="40,40,20"]
+[cols="40,40,^20"]
 |===
 |Participant No |Participant organisation name |Country
 

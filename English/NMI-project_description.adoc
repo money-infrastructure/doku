@@ -193,9 +193,7 @@ The planned deliverables consist of:
 
 Like any open source project, this project will appreciate any form of support.
 
-However, besides the 4 acting NGOs, Monetative e.V., FairShare e.V., Schweizer Vollgeldinitiative and the Dutch organisation OnsGeld, a professional base of paid staff
-
-is needed as it will involve a great deal of IT, banking, payments and legal expertise, and work in a coordinated and result-focused way.
+However, besides the 4 acting NGOs, Monetative e.V., FairShare e.V., and the Schweizer Vollgeldinitiative, a professional base of paid staff is needed as it will involve a great deal of IT, banking, payments and legal expertise, and work in a coordinated and result-focused way.
 
 Therefore, a research, development and expert team of approx. 15 people is planned.
 
