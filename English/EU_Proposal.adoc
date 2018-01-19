@@ -1,0 +1,24 @@
+= EU Proposal
+${project.version}, ${buildtime}: Subtitle {doctitle}
+:description: Proposal for EU funding of this project.
+:uri-config: https://github.com/asciidoctor/asciidoctor/blob/master/compat/asciidoc.conf
+:uri-fontawesome: http://fortawesome.github.io/Font-Awesome/
+:table-caption!:
+:icons: font
+:toclevels: 5
+:sectnumlevels: 5
+:toc: macro
+:imagesdir: ../images/English
+:toc-title: Index
+// ifdef::backend-pdf[]
+// :title-logo-image: image:title.png[pdfwidth=5in,align=center]
+// endif::[]
+
+toc::[]
+:leveloffset: 0
+
+include::EU_Proposal_Part_1.adoc[]
+
+<<<<
+
+include::EU_Proposal_Part_2.adoc[]
