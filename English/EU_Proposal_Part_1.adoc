@@ -7,6 +7,7 @@
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
+:xrefstyle: short
 :imagesdir: ../images/English
 
 _**Research and Innovation actions**_
@@ -94,6 +95,8 @@ The *New Money Infrastructure project* aims to develop a global and decentralize
 * It will be an "economic and creative commons" for people and the real economy with equal rights and obligations that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
 
+.New Money Infrastructure
+[#img-new_money_infrastructure]
 image::NMI004.png[New Money Infrastructure]
 
 The *specific objective* is a prototype of such a system that demonstrates the overall viability and functioning of the new money infrastructure.
@@ -128,8 +131,35 @@ Describe and explain the overall concept underpinning the project. Describe the 
 |Assinged to |Due |Ready|Remark
 
 |Arne | |70% |
+|Stefan| | | Chapter Requirements
 |Jutta| | |
 |===
+
+===== Requirements
+
+
+
+===== Functional Subsystems of the New Money Infrastructure
+
+The _New Money Infrastructure_ consists of two functional subsystems:
+
+. A rights and obligations management system to create and fulfil contracts.
+. A rights and obligations documentation system to document and evaluate contracts and transactions.
+
+In the context discussed here only those rights and obligations are considered which can be assigned a value and thus can be bought or sold at a price. The rights and obligations include the assets and liabilities of a balance sheet.
+
+Credit money is considered as a legal relationship between a creditor and a debtor. The one end is a claim and thus a right and the other end a liability and thus an obligation.
+
+The situation is quite different with bitcoins, which are special property rights on data in the blockchain.
+
+The considerable simplifications result from this abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
+
+The planned project will be an open source project being managed in GitHub: https://github.com/money-infrastructure
+
+.Functional Subsystems of the New Money Infrastructure
+[#img-functional_subsystems_nmi]
+image::NMI007.png[Functional Subsystems of the New Money Infrastructure]
+
 
 ===== Overview of the main ideas
 
@@ -170,6 +200,8 @@ Bitcoin is decentralized in the first sense that there is no _central_ _authorit
 Early in 2018, the blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
 
 In the New Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
+
+===== Legal identiy identifier blockchain tree
 
 ===== Legal consensus mechanism
 
@@ -282,7 +314,7 @@ Describe and explain the overall methodology, distinguishing, as appropriate, ac
 |Assinged to |Due |Ready|Remark
 
 |Arne | | |
-|IT-Team | | |
+|IT-Team: Jörg, Stefan | | |
 |===
 
 
@@ -295,6 +327,22 @@ Describe and explain the overall methodology, distinguishing, as appropriate, ac
 ====
 Describe the advance your proposal would provide beyond the state-of-the-art, and the extent the proposed work is ambitious.
 ====
+
+Within the _New Money Infrastructure_, the money becomes central bank money (positive money, Vollgeld). It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
+
+It would be comparable to cash and thus even safer in the case of financial crises than commercial bank money. Compared to cash, it would be better protected against counterfeiting and theft by using cryptographic methods.
+
+<<img-key_features_of_cash_depositmoney_bitcoin_nmi>> shows the key features of cash, deposit money, Bitcoin, and money in the _New Money Infrastructure._
+
+The implementation of the _New Money Infrastructure_ will be implemented in the ‘style’ of Wikipedia (from bottom to top and supported by many for all).
+
+"As simple as possible, but not simpler" is the guiding principle of the _New Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
+
+The introduction and operation of the _New Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved.
+
+.Key features of cash, deposit money, Bitcoin, and money in the New Money Infrastructure
+[#img-key_features_of_cash_depositmoney_bitcoin_nmi]
+image::NMI006.png[Key features of cash, deposit money, Bitcoin, and money in the New Money Infrastructure]
 
 - Crypto-currency infrastructure for normal currencies.
 - Almost free financial services for anyone with internet access.
@@ -587,6 +635,8 @@ _‘*Deliverable*’ means a distinct output of the project, meaningful in terms
 ====
 
 ==== Research work package deliverables
+
+Without recourse to existing research and development work, it would be unthinkable to implement the goals in the planned time and available resources. Although some of the experts involved have decades of experience in their fields, it is necessary to round off this knowledge in relation to the task.
 
 ===== Evaluation of available wallets
 
