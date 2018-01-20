@@ -7,7 +7,7 @@
     <artifactId>doku</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <artifactId>doku-english</artifactId>
+  <artifactId>doku-english-eu-proposal</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
@@ -30,7 +30,7 @@
               <goal>process-asciidoc</goal>
             </goals>
             <configuration>
-             <imagesDir>../images/English</imagesDir>
+             <imagesDir>/images/English</imagesDir>
             </configuration>
           </execution>
         </executions>

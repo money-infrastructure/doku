@@ -1,5 +1,6 @@
 = EU Proposal
 ${project.version}, ${buildtime}: Subtitle {doctitle}
+:doctype: book
 :description: Proposal for EU funding of this project.
 :uri-config: https://github.com/asciidoctor/asciidoctor/blob/master/compat/asciidoc.conf
 :uri-fontawesome: http://fortawesome.github.io/Font-Awesome/
@@ -9,7 +10,7 @@ ${project.version}, ${buildtime}: Subtitle {doctitle}
 :sectnums:
 :sectnumlevels: 5
 :toc: macro
-:imagesdir: ../images/English
+:imagesdir: ../../images/English
 :toc-title: Index
 // ifdef::backend-pdf[]
 // :title-logo-image: image:title.png[pdfwidth=5in,align=center]

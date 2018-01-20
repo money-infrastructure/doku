@@ -8,7 +8,7 @@
 :sectnums:
 :sectnumlevels: 5
 :xrefstyle: short
-:imagesdir: ../images/English
+:imagesdir: ../../images/English
 
 _**Research and Innovation actions**_
 
