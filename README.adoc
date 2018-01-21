@@ -3,8 +3,7 @@
 :imagesdir: ./images/English
 :endir: {uri-repo}/blob/master/English
 
-= New Money Infrastructure
-Arne Pfeilsticker
+== New Money Infrastructure
 
 [.lead]
 The New Money Infrastructure project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current cryptocurrencies and will have the following main-features:
@@ -15,6 +14,25 @@ The New Money Infrastructure project aims to develop a global and decentralized 
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
 
-For further information please read the link:./English/NMI-project_description.adoc[project description].
+For further information please read the link:./English/project_description/NMI-project_description.adoc[project description].
 
 image::NMI004.png[New Money Infrastructure]
+
+=== Call for cooperation
+
+We are currently working on a proposal to finance this project with EU funds. The goal is a paid core team, but of course anyone who wants to get involved is welcome.
+
+The documents for the EU proposal can be found link:./English/project_description/NMI-project_description.adoc[here].
+
+=== Supporter
+
+[#img-logo_monetative]
+[link=https://www.monetative.de/]
+image::../../images/logoMonetative.jpg[Logo Monetative]
+
+[#img-logo_fairshare]
+[link=http://fairshare-am.com/]
+image::../..//images/fs-final1.png[Logo FairShare]
+
+If you want to support this project, please send me an mailto:Arne.Pfeilsticker@pfeilsticker.de[email].
+
