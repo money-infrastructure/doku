@@ -10,7 +10,7 @@ Arne Pfeilsticker
 :toclevels: 4
 :uri-org: https://github.com/money-infrastructure
 :uri-repo: {uri-org}/doku
-:imagesdir: ../images/English
+:imagesdir: ../../images/English
 
 (Status: 2018-01-18)
 
