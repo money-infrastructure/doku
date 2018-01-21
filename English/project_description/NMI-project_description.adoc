@@ -8,11 +8,13 @@ Arne Pfeilsticker
 :source-language: {language}
 :toc:
 :toclevels: 4
+:sectnums:
+:sectnumlevels: 4
 :uri-org: https://github.com/money-infrastructure
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Status: 2018-01-18)
+(Last update: 2018-01-22)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
