@@ -86,6 +86,8 @@ The legal consensus mechanism causes users to not manipulate their data; otherwi
 
 In the money infrastructure, this tremendous energy consumption is not required and is replaced by a single paragraph within the terms of use, thereby doing more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
 
+==== Recommended, standardized and balanced contracts (RSB contracts)
+
 *Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model.
 
 Within the _New Money Infrastructure_, business is done with recommended, standardized and balanced contracts (RSB contracts). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
