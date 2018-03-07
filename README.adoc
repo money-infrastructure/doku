@@ -3,7 +3,7 @@
 :imagesdir: ./images/English
 :endir: {uri-repo}/blob/master/English
 
-== New Money Infrastructure
+== Co-op Money Infrastructure
 
 [.lead]
 The New Money Infrastructure project aims to develop a global and decentralized crypto-currency infrastructure for payments and other financial services as well as financial instruments. The planned infrastructure will significantly differ from the current infrastructure of the financial sector as well as from the current cryptocurrencies and will have the following main-features:
@@ -18,13 +18,8 @@ For further information please read the link:./English/project_description/NMI-p
 
 image::NMI004.png[New Money Infrastructure]
 
-=== Call for cooperation
 
-We are currently working on a proposal to finance this project with EU funds. The goal is a paid core team, but of course anyone who wants to get involved is welcome.
-
-The documents for the EU proposal can be found link:./English/project_description/NMI-project_description.adoc[here].
-
-=== Supporter
+=== Supporters
 
 [#img-logo_monetative]
 [link=https://www.monetative.de/]
