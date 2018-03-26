@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-03-07)
+(Work in progress - Last update: 2018-03-27)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -26,7 +26,7 @@ The _**Co-op Money Infrastructure**_ project aims to develop a global and decent
 
 The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current crypto currencies and will be characterized by the following main features:
 
-* It is developed for classical currencies and converts, for example, euros into crypto central bank euros (digital cash, positive money, Vollgeld).
+* It is developed for classical currencies and converts, for example, euros into crypto central bank euros (digital cash, positive money, secure money, Vollgeld).
 * It consists of standards and open source programs that run on users' existing hardware (mobiles, computers etc.) with internet access.
 * It transfers payments or any other rights directly between users and prevents them from manipulating their own or others’ data.
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
@@ -42,24 +42,39 @@ Through an interface, payments between the _Co-op Money Infrastructure_ and comm
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
+Due to the design, only a fraction of the previous costs for financial services are incurred and the gross profit on financial products can be shared by the users. The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
+
+An overview of important characteristics between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
+
+.An overview of important characteristics between cash, deposit money, Bitcoin and the co-op money infrastructure
+[#img-money_overview]
+image::MI006.png[Money overview]
+
 [[key-ideas]]
 == Key ideas
 
 Although some key ideas have been adopted from crypto currencies, there are significant differences and new ideas.
 
 === Self-administered crypto accounts
-Banknotes securitize money, current accounts book the money, and the _Co-op Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users. The infrastructure is not meant to create new money, but creates _digital bearer instruments_ for existing money.
+Banknotes securitize money, current accounts book the money, and the _Co-op Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users.
+
+The infrastructure is not meant to create new money, but provides _digital bearer instruments_ for existing money. That's a kind of digital cash.
+
+The money infrastructure is for any currency. In order to handle several currencies in parallel, the account management is simplified by additionally displaying amounts on an accounts in a currency of your choice. Transfers between accounts of different currencies are automatically converted into the target currency.
 
 The creation of money and monetary policy is seen as the task of the central banks and the profit through money creation should benefit the community.
 
+To stabilize the financial markets and thus the economy as a whole, a global currency or clearing unit of account could be established within the money infrastructure.
+
 === Ultimate decentralization
-The _Co-op Money Infrastructure_ is decentralized in three ways:
+The _Co-op Money Infrastructure_ is decentralized in four ways:
 
-1.  No central administrative authority.
-2.  Each user stores only his own data and optionally encrypted backups of other users.
-3.  Transactions and contracts are only exchanged between the parties directly involved.
+. No central administrative authority.
+. Each user stores only his own data and optionally encrypted backups of other users.
+. Shared data is stored on distributed server clusters running on users' hardware.
+. Transactions and contracts are only exchanged between the parties directly involved.
 
-As a result, data volume and traffic are kept to a minimum while maintaining maximum efficiency, effectiveness and privacy.
+As a result, data volume and traffic are cut down to a minimum while maximizing efficiency, effectiveness and privacy. For most, and especially private users, the money infrastructure programs run on their existing hardware and thus cause no additional expenditure.
 
 The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodesfootnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]].
 
@@ -89,6 +104,79 @@ The legal consensus mechanism causes users to not manipulate their data; otherwi
 "Proof of Work" is currently the consensus mechanism in the most popular crypto currencies, such as Bitcoin. At the beginning of March 2018, Bitcoin's estimated power consumption was 54 TWh per year and will reach 125 TWh per year by the end of 2018. Thus, this power consumption is higher than that of 10 million respectively 25 million four-person households in Germany.
 
 In the money infrastructure, this tremendous energy consumption is not required and is replaced by a single paragraph within the terms of use, thereby doing more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
+
+=== Blockchain trees
+
+The legal consensus mechanism leads to the fact that a user does not want to manipulate his data. Any manipulation would destroy the own rights and the obligations of the counterparty.
+
+To efficiently determine the integrity of the payload data, they are embedded in a metadata structure that gives these data additional properties that are essential to the money infrastructure. The data must be authentic, complete and time-related.
+
+The authenticity is necessary so that data can be unambiguously assigned to the creator. The system must ensure that rights, obligations and legal dispositions can be indisputably and legally attributed to the legal entity concerned.
+
+The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. In the planned system, for example, completeness should be ensured for accounting, but outside of the specified periods of time the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
+
+Not storing all the data for all time is a requirement of sustainability, efficiency and costs.
+
+The time reference is made by a timestamp. It is a requirement for the retention period and in applications such as e.g. the ledger in an accounting system.
+
+The means by which to obtain these additional properties for the data is the blockchain.
+
+==== Blockchain
+
+The term blockchain is used in two very different ways.
+
+In the proper sense, a blockchain is a continuously growing list of records, called blocks, which are chained together and secured using cryptography. Each block typically contains a cryptographic hash of the previous block, a timestamp and payload data. By design, a blockchain is inherently resistant to modification of the data whose integrity can be checked very efficiently. These features are the reason to use blockchain technology.
+
+The application of this technology to certain cryptocurrencies led to the second meaning: A blockchain is a decentralized, public digital ledger of transactions that can not be manipulated due to cryptographic methods.
+
+Here I use the term blockchain in the first sense and call the second meaning a _blockchain application_. The term _blockchain tree_ used in the following is also a blockchain application, which however differs substantially from the previous use in cryptocurrencies.
+
+A blockchain tree consists of independent blockchains linked by a rooted tree structure. The root and leave nodes of the tree contain blockchains. The first block in a leave blockchain contains as the first entry the hash of the first block of the root blockchain and the path.
+
+==== Identity blockchain tree
+
+Identity services are a most important feature of the money infrastructure. They are the bridge between the computer-generated virtual world and real people. Technically, an identity is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is determined by the represented real person.
+
+Storing and managing identities is the job of the distributed identity server cluster. The data of the identities are stored in a graph database management system that implements a blockchain tree. The Identity Server Cluster is a common component of the money infrastructure and runs on particularly suitable user hardware. The motivation for users to provide resources for an Identity Server is the ability to earn money and to process their own transactions faster.
+
+Since the rights, duties and legal dispositions of a natural or legal person are documented and inextricable linked to data in the money infrastructure, a one-to-one connection to the person concerned is indispensable. A person is represented in the system by a virtual identity and can act through that identity in the system. All rights, duties and legal acts that are assigned to an identity are directly attributed to the corresponding person.
+
+In the legal sense, there are two types of persons. Natural persons refer to humans. Legal persons refer to all other legal subjects, e.g. companies or institutions.
+
+A _legal_ person acts through the identity of another identity that occupies one or more roles within that legal entity. In this way, as in reality, chains of representations can emerge, at the ends of which a natural person stands.
+
+A role gives an identity certain rights, obligations and powers of the represented legal subject.
+
+Informational self-determination is a basic principle of the money infrastructure. Therefore, a person decides which data they want to make accessible to whom. In turn, this decision determines a person's rights and possibilities in the system.
+
+For example, a person in a developed country could only conclude a loan agreement within the money infrastructure if it has an officially confirmed identity whose data is made available to the contracting party. This restriction complies with legal requirements and prevents a person from evading their duties.
+
+However, in regions where government structures are poorly developed, it should be possible to obtain loans based on identities verified by counterparties or by personal inspection.
+
+For both cases, mechanisms are available that promote and, if necessary, enforce sanctity of contracts. One mechanism is called the _compliance index_ and the other is implemented through so-called recommended, standardized and balanced contracts.
+
+The profile of an identity and the changes are stored in its own blockchain. The first block contains all the necessary data to identify a person and a video in which the person expressly commits to comply with the rules of the money infrastructure. This declaration of commitment is a specific sentence that must be repeated.
+
+The profile of an identity and the changes are stored in its own blockchain.
+
+.Blockchain tree for identities
+[#img-Blockchain_tree_for_identities]
+image::MI022.png[Blockchain tree for identities]
+
+The first block contains encrypted all necessary data for the identification of a person and a video in which the person expressly commits himself to comply with the rules of the money infrastructure. This commitment is a specific sentence.
+
+The individual data and the video are used to calculate hash values, which are summarized in a Merkle tree.
+
+The second block contains public or business partner released profile data and published certificates. The Merkle tree over the profile data is used to check whether the published profile data matches the encrypted profile data.
+
+The other blocks contain additions and changes to the profile data.
+
+==== User data blockchain tree
+
+.Blockchain tree for user data
+[#img-Blockchain_tree_for_user_data]
+image::MI023.png[Blockchain tree for user data]
+
 
 === Recommended, standardized and balanced contracts (RSB contracts)
 
@@ -168,7 +256,7 @@ The introduction and operation of the _Co-op Money Infrastructure_ deliberately 
 The _Co-op Money Infrastructure_ consists of two functional subsystems:
 
 . A rights and obligations management system to create and fulfil contracts.
-. A rights and obligations documentation system to document and evaluate contracts and transactions.
+. A rights and obligations documentation system to document, prove and evaluate contracts and transactions.
 
 In the context discussed here only those rights and obligations are considered which can be assigned a value and thus can be bought or sold at a price. The rights and obligations include the assets and liabilities of a balance sheet.
 
