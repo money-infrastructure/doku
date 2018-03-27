@@ -126,8 +126,9 @@ Here I use the term blockchain in the first sense and call the second meaning a 
 A blockchain tree consists of independent blockchains linked by a rooted tree structure. The root and leave nodes of the tree contain blockchains. The first block in a leave blockchain contains as the first entry the hash of the first block of the root blockchain and the path.
 
 ==== Identity blockchain tree
+Identity services are important whenever people become interactive. They are particularly important in situations where people no longer meet physically and legal relationships are involved. If the identity of a business partner is unknown, significant disadvantages can arise if rights are claimed and the debtor does not want to meet his obligations. If in such situations the identity of the debtor is unknown, a claim can not be asserted in court.
 
-Identity services are a most important feature of the money infrastructure. They are the bridge between the computer-generated virtual world and real people. Technically, an identity is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is determined by the represented real person.
+Identity services are the bridge between the computer-generated virtual world and real people. Technically speaking, an identity in the sense used here is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is steered by the represented real person.
 
 Storing and managing identities is the job of the distributed identity server cluster. The data of the identities are stored in a graph database management system that implements a blockchain tree. The Identity Server Cluster is a common component of the money infrastructure and runs on particularly suitable user hardware. The motivation for users to provide resources for an Identity Server is the ability to earn money and to process their own transactions faster.
 
@@ -149,8 +150,6 @@ For both cases, mechanisms are available that promote and, if necessary, enforce
 
 The profile of an identity and the changes are stored in its own blockchain. The first block contains all the necessary data to identify a person and a video in which the person expressly commits to comply with the rules of the money infrastructure. This declaration of commitment is a specific sentence that must be repeated.
 
-The profile of an identity and the changes are stored in its own blockchain.
-
 .Blockchain tree for identities
 [#img-Blockchain_tree_for_identities]
 image::MI022.png[Blockchain tree for identities]
@@ -163,12 +162,21 @@ The second block contains public or business partner released profile data and p
 
 The other blocks contain additions and changes to the profile data.
 
+The identity blockchain of a person is the root of the user data blockchain tree.
+
 ==== User data blockchain tree
+
+All rights and obligations and all contracts of a person might be stored in a user's data blockchain tree. This data is encrypted by the owner of the tree so that only he has access to the data. At least three copies of this encrypted data are stored as backups by other users.
+
+The blockchains are used as accounts or as storage for contracts or other documents. A blockchain evolves from the transactions in the case of an account or from the performances provided under a contract.
+
+To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be stored in the company's blockchain. In this way, the blockchain can be used as a particularly tamper-proof database for accounting.
 
 .Blockchain tree for user data
 [#img-Blockchain_tree_for_user_data]
 image::MI023.png[Blockchain tree for user data]
 
+Each blockchain ends with the hash of the last block. These hash values are summarized in a Merkel tree. The first two hash values come from the first and last block of the root blockchain. The Merkle root can thus be used to test the integrity of all data in the blockchain tree.
 
 === Recommended, standardized and balanced contracts (RSB contracts)
 
