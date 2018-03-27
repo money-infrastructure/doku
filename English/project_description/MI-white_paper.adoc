@@ -42,14 +42,6 @@ Through an interface, payments between the _Co-op Money Infrastructure_ and comm
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
-Due to the design, only a fraction of the previous costs for financial services are incurred and the gross profit on financial products can be shared by the users. The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
-
-An overview of important characteristics between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
-
-.An overview of important characteristics between cash, deposit money, Bitcoin and the co-op money infrastructure
-[#img-money_overview]
-image::MI006.png[Money overview]
-
 [[key-ideas]]
 == Key ideas
 
@@ -238,9 +230,9 @@ Within the _Co-op Money Infrastructure_, the money becomes central bank money (p
 
 It would be comparable to cash and thus even safer in the case of financial crises than commercial bank money. Compared to cash, it would be better protected against counterfeiting and theft by using cryptographic methods.
 
-Figure 3 shows the key features of cash, deposit money, Bitcoin, and money in the _Co-op Money Infrastructure._
+An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
 
-.Key features of cash, deposit money, Bitcoin, and money in the Co-op Money Infrastructure
+.An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure
 [#img-key_features_of_cash_depositmoney_bitcoin_mi]
 image::MI006.png[Key features of different kinds of money]
 
@@ -248,7 +240,11 @@ The implementation of the _Co-op Money Infrastructure_ will be implemented in th
 
 "As simple as possible, but not simpler" is the guiding principle of the _Co-op Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
 
-The introduction and operation of the _Co-op Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved. The benefits include significantly lower costs for financial services and the ability for financial products to be negotiated and shared directly between users. There are also savings in trading and accounting.
+The introduction and operation of the _Co-op Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved.
+
+Due to the design, only a fraction of the current costs for financial services are incurred and the gross profit from financial products can be shared by the contracting parties. There are additional savings in trading and accounting.
+
+The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
 
 == Project description
 === Content of the project
