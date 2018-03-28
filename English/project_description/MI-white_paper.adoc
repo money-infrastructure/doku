@@ -26,8 +26,8 @@ The _**Co-op Money Infrastructure**_ project aims to develop a global and decent
 
 The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current crypto currencies and will be characterized by the following main features:
 
-* It is developed for classical currencies and converts, for example, euros into crypto central bank euros (digital cash, positive money, secure money, Vollgeld).
-* It consists of standards and open source programs that run on users' existing hardware (mobiles, computers etc.) with internet access.
+* It is developed for classical currencies and converts, for example, euros into crypto central bank euros, also known as digital cash, positive money, secure money or Vollgeld.
+* It consists of standards and open source programs that run on users' existing hardware, such as mobiles, computers etc. with internet access.
 * It transfers payments or any other rights directly between users and prevents them from manipulating their own or others’ data.
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
@@ -70,7 +70,7 @@ As a result, data volume and traffic are cut down to a minimum while maximizing 
 
 The current crypto currencies are decentralized in the first sense that there is no _central_ _authority_ that manages the system but there is a common ledger, the blockchain, whose data is stored by all full nodesfootnote:[The clients in the Bitcoin network are called nodes. A full node is a client who stores the complete block chain. More: https://en.bitcoin.it/wiki/Full_node[https://en.bitcoin.it/wiki/Full_node]].
 
-Early in 2018, the blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
+Early in 2018, bitcoin's blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
 
 In the Co-op Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
 
@@ -105,7 +105,7 @@ To efficiently determine the integrity of the payload data, they are embedded in
 
 The authenticity is necessary so that data can be unambiguously assigned to the creator. The system must ensure that rights, obligations and legal dispositions can be indisputably and legally attributed to the legal entity concerned.
 
-The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. In the planned system, for example, completeness should be ensured for accounting, but outside of the specified periods of time the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
+The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. For example, completeness should be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
 
 Not storing all the data for all time is a requirement of sustainability, efficiency and costs.
 
@@ -129,7 +129,7 @@ A blockchain tree consists of independent blockchains linked by a rooted tree st
 
 Identity services are important whenever people become interactive. They are particularly important in situations where people no longer meet physically and legal relationships are involved. If the identity of a business partner is unknown, significant disadvantages can arise if rights are claimed and the debtor does not want to meet his obligations. If in such situations the identity of the debtor is unknown, a claim can not be asserted in court.
 
-Identity services are the bridge between the computer-generated virtual world and real people. Technically speaking, an identity in the sense used here is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is steered by the represented real person.
+Identity services are the bridge between the computer-generated virtual world and real people. Technically speaking, an identity in the sense used here is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is governed by the represented real person.
 
 Storing and managing identities is the job of the distributed identity server cluster. The data of the identities are stored in a graph database management system that implements a blockchain tree. The Identity Server Cluster is a common component of the money infrastructure and runs on particularly suitable user hardware. The motivation for users to provide resources for an Identity Server is the ability to earn money and to process their own transactions faster.
 
@@ -193,15 +193,27 @@ To prevent bookkeeping in a company from being done twice, all posting-relevant 
 [#img-Blockchain_tree_for_user_data]
 image::MI023.png[Blockchain tree for user data]
 
-Each blockchain ends with the hash of the last block. These hash values are summarized in a Merkel tree. The first two hash values come from the first and last block of the root blockchain.
+Each blockchain ends with the hash of the last block. These hash values are summarized in a Merkle tree. The first two hash values come from the first and last block of the root blockchain.
 
 The Merkle root is used to prove the integrity of all data in the blockchain tree.
 
-When a user starts a money infrastructure application, it checks in the background whether the Merkle root of the local blockchain tree matches the backed up Merkle root on the identity server and on a backup. If there are deviations, then the local blockchain tree is restored based on the state of the majority of the backups. Normally, all backups have the same status.
+When a user starts a money infrastructure application, it checks in the background whether the Merkle root of the local blockchain tree matches the backed up Merkle root on the identity server and on a backup. If there are deviations, then the local blockchain tree is restored based on the majority of the backups. Normally, all backups are the same.
 
-The data from the backups and the identity blockchains tree are leading to determining the integrity of the data. In this way it is prevented that accidental or intentional damage of the user data blockchain tree by third parties harm the user.
+The data from the backups and the identity blockchains tree are leading in determining the integrity of the data. In this way, the user data blockchain tree is replaced if it has been accidentally or intentionally corrupted.
 
-All transactions with other users are carried out using a three-phase commit protocol to ensure, at the time of the transaction, that all involved databases and backups are properly updated.
+To successfully manipulate a user data blockchain tree, the following barriers would have to be overcome.
+
+. The identity server cluster would have to be hacked to find the cluster server containing the backup information for a particular blockchain tree.
+. This specific identity server would need to be hacked to find out on which backup servers the backups of a particular blockchain tree are stored. That alone should be very difficult with a redundant server cluster with a distributed database in which the servers control each other.
+. One of the completely unknown backup server must be hacked to steal the backup.
+. The correct private key must be stolen from the attacked user to decrypt the backup.
+. The data backup must be manipulated in the desired way and the affected hash values recalculated. This manipulation is extremely difficult, because the database transaction log is backed up and not the individual tables.
+. Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer.
+. Then the majority of backup servers must be hacked and the backups replaced.
+. So that when comparing the Merkle roots the manipulation is not noticeable, all changes would have to be made on the server of the attacked user too.
+. If rights are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would be a difference between the total of the cash accounts in the system and the external escrow account.
+
+All transactions are executed using a three-phase commit protocol to ensure that all participating databases and backups are properly updated and integrity of the data is preserved.
 
 === Recommended, standardized and balanced contracts (RSB contracts)
 
