@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-03-27)
+(Work in progress - Last update: 2018-03-28)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -126,6 +126,7 @@ Here I use the term blockchain in the first sense and call the second meaning a 
 A blockchain tree consists of independent blockchains linked by a rooted tree structure. The root and leave nodes of the tree contain blockchains. The first block in a leave blockchain contains as the first entry the hash of the first block of the root blockchain and the path.
 
 ==== Identity blockchain tree
+
 Identity services are important whenever people become interactive. They are particularly important in situations where people no longer meet physically and legal relationships are involved. If the identity of a business partner is unknown, significant disadvantages can arise if rights are claimed and the debtor does not want to meet his obligations. If in such situations the identity of the debtor is unknown, a claim can not be asserted in court.
 
 Identity services are the bridge between the computer-generated virtual world and real people. Technically speaking, an identity in the sense used here is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is steered by the represented real person.
@@ -138,17 +139,19 @@ In the legal sense, there are two types of persons. Natural persons refer to hum
 
 A _legal_ person acts through the identity of another identity that occupies one or more roles within that legal entity. In this way, as in reality, chains of representations can emerge, at the ends of which a natural person stands.
 
-A role gives an identity certain rights, obligations and powers of the represented legal subject.
+A role gives an identity certain rights, obligations and powers on behalf and by authority of the represented legal subject.
 
 Informational self-determination is a basic principle of the money infrastructure. Therefore, a person decides which data they want to make accessible to whom. In turn, this decision determines a person's rights and possibilities in the system.
 
-For example, a person in a developed country could only conclude a loan agreement within the money infrastructure if it has an officially confirmed identity whose data is made available to the contracting party. This restriction complies with legal requirements and prevents a person from evading their duties.
+For example, a person in a developed country could only conclude a loan agreement within the money infrastructure if it has an officially confirmed identity whose data is made available to the contracting party. This restriction makes the money infrastructure compliant with legal requirements and prevents a person from evading their duties.
 
 However, in regions where government structures are poorly developed, it should be possible to obtain loans based on identities verified by counterparties or by personal inspection.
 
 For both cases, mechanisms are available that promote and, if necessary, enforce sanctity of contracts. One mechanism is called the _compliance index_ and the other is implemented through so-called recommended, standardized and balanced contracts.
 
 The profile of an identity and the changes are stored in its own blockchain. The first block contains all the necessary data to identify a person and a video in which the person expressly commits to comply with the rules of the money infrastructure. This declaration of commitment is a specific sentence that must be repeated.
+
+When setting requirements, recommendations from international standards, such as ISO / IEC 24760, should be considered.
 
 .Blockchain tree for identities
 [#img-Blockchain_tree_for_identities]
@@ -162,21 +165,43 @@ The second block contains public or business partner released profile data and p
 
 The other blocks contain additions and changes to the profile data.
 
-The identity blockchain of a person is the root of the user data blockchain tree.
+Due to their general importance, the identity service of the money infrastructure should also be available to other applications. In this case, one could consider whether the sponsor organisation of the money infrastructure becomes an official certification authority and controls the identity server cluster.
+
+The identity blockchain of a person is the root of an user data blockchain tree.
 
 ==== User data blockchain tree
 
-All rights and obligations and all contracts of a person might be stored in a user's data blockchain tree. This data is encrypted by the owner of the tree so that only he has access to the data. At least three copies of this encrypted data are stored as backups by other users.
+A user data blockchain tree might be viewed as a general tamper-proof database and might be used wherever appropriate. The structure of the payload data within a blockchain might be chosen freely.
 
-The blockchains are used as accounts or as storage for contracts or other documents. A blockchain evolves from the transactions in the case of an account or from the performances provided under a contract.
+All rights and obligations and all contracts of a person might be stored in a user's data blockchain tree. This data is encrypted by the owner of the tree so that only he has access to the data.
 
-To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be stored in the company's blockchain. In this way, the blockchain can be used as a particularly tamper-proof database for accounting.
+At least three copies of this encrypted data are stored as backups by other users. A user can make requirements on the quality of the backup resources, but on which server the backups are ultimately stored will be decided by the system at random and quality requirements. Backup storage providers do not know who they are backing up and can not do anything with the data because they are encrypted.
+
+The blockchains are used as accounts or as storage for contracts or other data. A blockchain evolves from the transactions in the case of an account or from the performances provided under a contract.
+
+Accounts can store rights in various ways:
+
+. An account holds a single right, such as a certain real estate right.
+. An account holds a quantity of similar rights that can be individually identified. For example, ownership of notebooks identified by a serial number.
+. An account holds an amount of similar rights that are treated alike, such as money oder claims to money.
+
+In the profile of an account, additional metadata can be stored, such as: Cost centers so that the organizational structure of a company can be mapped.
+
+To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be stored in the company's blockchain tree. In this way, the blockchain can be used as a particularly tamper-proof database for accounting.
 
 .Blockchain tree for user data
 [#img-Blockchain_tree_for_user_data]
 image::MI023.png[Blockchain tree for user data]
 
-Each blockchain ends with the hash of the last block. These hash values are summarized in a Merkel tree. The first two hash values come from the first and last block of the root blockchain. The Merkle root can thus be used to test the integrity of all data in the blockchain tree.
+Each blockchain ends with the hash of the last block. These hash values are summarized in a Merkel tree. The first two hash values come from the first and last block of the root blockchain.
+
+The Merkle root is used to prove the integrity of all data in the blockchain tree.
+
+When a user starts a money infrastructure application, it checks in the background whether the Merkle root of the local blockchain tree matches the backed up Merkle root on the identity server and on a backup. If there are deviations, then the local blockchain tree is restored based on the state of the majority of the backups. Normally, all backups have the same status.
+
+The data from the backups and the identity blockchains tree are leading to determining the integrity of the data. In this way it is prevented that accidental or intentional damage of the user data blockchain tree by third parties harm the user.
+
+All transactions with other users are carried out using a three-phase commit protocol to ensure, at the time of the transaction, that all involved databases and backups are properly updated.
 
 === Recommended, standardized and balanced contracts (RSB contracts)
 
