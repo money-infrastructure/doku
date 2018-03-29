@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-03-28)
+(Work in progress - Last update: 2018-03-29)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -211,7 +211,7 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 . Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer.
 . Then the majority of backup servers must be hacked and the backups replaced.
 . So that when comparing the Merkle roots the manipulation is not noticeable, all changes would have to be made on the server of the attacked user too.
-. If rights are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would be a difference between the total of the cash accounts in the system and the external escrow account.
+. If rights are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
 
 All transactions are executed using a three-phase commit protocol to ensure that all participating databases and backups are properly updated and integrity of the data is preserved.
 
