@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-03-29)
+(Work in progress - Last update: 2018-03-30)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -226,13 +226,21 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 . If digital barer instruments are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
 . All break-ins and manipulations would have to be done in a very tight time frame, because the normal use of the system could permanently change the blockchain involved. While an attacker manipulated a particular blockchain backup, this blockchain could be updated and the backups moved to completely different backup servers.
 
-Even if individual barriers can be taken, it is very unlikely that all barriers will be taken as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort for manipulation is set to the greatest possible disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options.
+Even if some barriers can be taken, it is very unlikely to overcome all obstacles as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort to perform a manipulation is set to an extreme disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options. Shared data is hosted only on servers that provide high security.
 
-The attacker would also have to pass unnoticed at the permanent internal test runs.
+The attacker would also have to pass unnoticed at the permanent internal security checks.
+
+However, the Achilles heel is the protection of private keys. Anyone who has access to a user's private keys and hardware could make dispositions attributed to the owner of the private keys. This vulnerability can only be reduced by additional security measures, such as the integration of biometric procedures. Additional safety precautions can be determined by the user according to their own needs.
 
 To protect the integrity of the entire system, traffic is encrypted among the servers and applications and each transaction is embedded in a three-phase commit protocol.
 
 === Recommended, standardized and balanced contracts (RSB contracts)
+
+The more voluminous and complex a legal system becomes, the less it is generally understood. Too many laws are the nation of law's death.
+
+Already today it is objectively impossible even for lawyers to completely understand a single area of law. And even if everyone could recite all the laws and regulations by heart, there are so many different opinions that the outcome would not be much better.
+
+In order to smash this Gordian knot in the area of trade, legal standards and autonomous legal enforcement are introduced in the money infrastructure.
 
 *Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model.
 
