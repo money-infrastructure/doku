@@ -38,7 +38,7 @@ image::MI004.png[Co-op Money Infrastructure]
 
 For the user the _Co-op Money Infrastructure_ will appear like a mix of online banking and PayPal with the difference that the users will create and manage their accounts themselves. Users will also find that the complexity of banking and financial instruments is significantly reduced and additional features are available.
 
-Through an interface, payments between the _Co-op Money Infrastructure_ and commercial banks can be made in the usual way. For a _Co-op Money Infrastructure_ account, a regular international bank account number (IBAN) can be requested and in that case the account will appear like a regular current account; but would be comparable in terms of quality with an account at the central bank or cash.
+Through an interface, payments between the _Co-op Money Infrastructure_ and commercial banks can be made in the usual way. For a _Co-op Money Infrastructure_ account, a regular international bank account number (IBAN) may be requested and in that case the account will appear like a regular current account; but would be comparable in terms of quality with an account at the central bank or cash.
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
@@ -52,11 +52,11 @@ Banknotes securitize money, current accounts book the money, and the _Co-op Mone
 
 The infrastructure is not meant to create new money, but provides _digital bearer instruments_ for existing money. That's a kind of digital cash.
 
-The money infrastructure is for any currency. In order to handle several currencies in parallel, the account management is simplified by additionally displaying amounts on an accounts in a currency of your choice. Transfers between accounts of different currencies are automatically converted into the target currency.
+The _Co-op Money Infrastructure_ is for any currency. In order to handle several currencies in parallel, the account management is simplified by additionally displaying amounts on an accounts in a currency of your choice. Transfers between accounts of different currencies are automatically converted into the target currency.
 
 The creation of money and monetary policy is seen as the task of the central banks and the profit through money creation should benefit the community.
 
-To stabilize the financial markets and thus the economy as a whole, a global currency or clearing unit of account could be established within the money infrastructure.
+A national currency used as an international means of payment has serious implications. A neutral global currency or clearing unit of account could be established within the money infrastructure.
 
 === Ultimate decentralization
 The _Co-op Money Infrastructure_ is decentralized in four ways:
@@ -77,9 +77,9 @@ In the Co-op Money Infrastructure, the 160 GB would be distributed amongst the 1
 === Legal consensus mechanism
 For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
 
-Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations might be turned into digital bearer instruments that have been signed by the senders and can only be read and processed by the legitimate recipients.
+Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations might be turned into _digital bearer instruments_ that have been signed by the senders and can only be read and processed by the legitimate recipients.
 
-The signed data, together with the rights and obligations arising from a contract, will be complementarily distributed amongst the contracting parties, with the result that a party who manipulates his data would destroy his own rights and yet would have to fulfil his obligations under the contract. Rights and data are inextricably linked, as are rights and paper in securities. The rights from the data follow the rights to the data. The power of control over the data is ensured by cryptographic methods and possession.
+The signed data, together with the rights and obligations arising from a contract, will be complementarily distributed amongst the contracting parties, with the result that a party who manipulates his data would destroy his own rights and yet would have to fulfil his obligations under the contract. Rights and data are inextricably linked, as are rights and paper in securities. The rights from the data follows the right to the data. The power of control over the data is ensured by cryptographic methods and possession.
 
 .Legal Consesus Mechanism
 [#img-Legal_Consesus_Mechanism]
@@ -95,7 +95,7 @@ The legal consensus mechanism causes users to not manipulate their data; otherwi
 
 "Proof of Work" is currently the consensus mechanism in the most popular crypto currencies, such as Bitcoin. At the beginning of March 2018, Bitcoin's estimated power consumption was 54 TWh per year and will reach 125 TWh per year by the end of 2018. Thus, this power consumption is higher than that of 10 million respectively 25 million four-person households in Germany.
 
-In the money infrastructure, this tremendous energy consumption is not required and is replaced by a single paragraph within the terms of use, thereby doing more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
+In the money infrastructure, this tremendous energy consumption is not required and is replaced by a single paragraph within the Terms of Use. In addition, this simple solution achieves more than the "Proof of Work" mechanism: the scaling of the system is independent of the number of users and the transactions can be executed in real time.
 
 === Blockchain trees
 
@@ -105,7 +105,7 @@ To efficiently determine the integrity of the payload data, they are embedded in
 
 The authenticity is necessary so that data can be unambiguously assigned to the creator. The system must ensure that rights, obligations and legal dispositions can be indisputably and legally attributed to the legal entity concerned.
 
-The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. For example, completeness should be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
+The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. For example, completeness has to be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
 
 Not storing all the data for all time is a requirement of sustainability, efficiency and costs.
 
@@ -181,9 +181,9 @@ If a backup server does not meet the promised characteristics, then the data is 
 
 The blockchains are used as accounts or as storage for contracts or other data. A blockchain evolves from the transactions in the case of an account or from the performances provided under a contract.
 
-An account can either store a right as a digital bearer instrument or the right will only be documented. In the second case, the owner may need to prove his ownership by other means.
+An account can either store a right as a _digital bearer instrument_ or the right will only be documented. In the second case, the owner may need to prove his ownership by additional other means.
 
-By default, rights are stored as _digital barer instruments_. This means that the right is inextricably linked to unique signed data and only the owner of that data can in fact and legally transfer or assert such right. This applies, for example to the money accounts provided by the co-op money infrastructure.
+By default, rights are stored as _digital bearer instruments_. This means that the right is inextricably linked to unique signed data and only the *owner and possessor* of that data can in fact and legally transfer or assert such right. This applies, for example to the money accounts provided by the co-op money infrastructure.
 
 However, this close connection between rights and data is not mandatory and in many cases not possible or desired. This applies, for example, to otherwise securitized rights or if land is registered in an official Land Register. This also applies to all accounts that are managed by banks and for which the customer receives a bank statement.
 
@@ -195,11 +195,11 @@ An account can store a single or multiple similar rights:
 
 The identity blockchain tree together with the user data blockchain trees can be considered as one large tree in which each right has a globally unique address. The first part of the path uniquely identifies the right holder and the second part leads to the right itself.
 
-In that sense, the money infrastructure creates an Internet of rights and, indirectly, an Internet of Things because things depend on the right, not the other way around.
+In that sense, the money infrastructure creates an *Internet of Rights* and, indirectly, an *Internet of Things* because things depend on the right, not the other way around.
 
 In the profile of an account, additional metadata can be stored, such as: Cost centers so that the organizational structure of a company can be mapped.
 
-To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be stored in the company's blockchain tree. In this way, the blockchain can be used as a particularly tamper-proof database for accounting.
+To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be documented in the company's blockchain tree. In this way, the blockchain tree can be used as a particularly tamper-proof database for accounting.
 
 .Blockchain tree for user data
 [#img-Blockchain_tree_for_user_data]
@@ -217,13 +217,13 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 
 . The identity server cluster would have to be hacked to find the cluster server containing the backup information for a particular blockchain tree.
 . This specific identity server would need to be hacked to find out on which backup servers the backups of a particular blockchain tree are stored. That alone should be very difficult with a redundant server cluster with a distributed database in which the servers control each other.
-. One of the completely unknown backup server must be hacked to steal the backup.
+. One of the unknown backup server must be hacked to steal the backup.
 . The correct private key must be stolen from the attacked user to decrypt the backup.
 . The data backup must be manipulated in the desired way and the affected hash values recalculated. This manipulation is extremely difficult, because the database transaction log is backed up and not the individual tables.
-. Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer.
+. Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer. These private keys would have to be stolen beforehand.
 . Then the majority of backup servers must be hacked and the backups replaced.
-. So that when comparing the Merkle roots the manipulation is not noticeable, all changes would have to be made on the server of the attacked user too.
-. If digital barer instruments are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
+. So that when comparing the Merkle roots the manipulation is not noticeable, all changes would have to be made on the server of the attacked user too. The manipulation would be completely different, because not the log files, but the tables would have to be manipulated.
+. If digital bearer instruments are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
 . All break-ins and manipulations would have to be done in a very tight time frame, because the normal use of the system could permanently change the blockchain involved. While an attacker manipulated a particular blockchain backup, this blockchain could be updated and the backups moved to completely different backup servers.
 
 Even if some barriers can be taken, it is very unlikely to overcome all obstacles as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort to perform a manipulation is set to an extreme disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options. Shared data is hosted only on servers that provide high security.
