@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-03-30)
+(Work in progress - Last update: 2018-04-01)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -41,6 +41,53 @@ For the user the _Co-op Money Infrastructure_ will appear like a mix of online b
 Through an interface, payments between the _Co-op Money Infrastructure_ and commercial banks can be made in the usual way. For a _Co-op Money Infrastructure_ account, a regular international bank account number (IBAN) may be requested and in that case the account will appear like a regular current account; but would be comparable in terms of quality with an account at the central bank or cash.
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
+
+== What is the 'status quo' of todays' financial world and the crypto currencies?
+
+Today there is an over-supply of financial services and financial instruments worldwide. A lot of them are incomprehensible and certainly not transparent, even for experts. As far back as 2006, global money and financial instruments’ supply had six times more volume than the gross domestic product of the entire world.
+
+However, the financial sector has left its service role in many areas for the real economy, with the sole aim of making more money out of money.
+
+With the income and profits generated, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
+
+These ‘none performance-related incomes’ are considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes.
+
+And also the current crypto-currencies, such as Bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
+
+== Why do we want to offer something different?
+
+Because we want:
+
+* To provide financial services for everybody in the worldfootnote:[World Bank documentation shows that 2 billion people in the world do not have any access to bank services, mainly in the developing countries, which does not make their situation any better.], simple, easy and fair.
+* To better protect people and the real economy from the negative impact of the financial sector and from financial crises.
+* To make banking services much more efficient and user-friendly through innovative ideas.
+* To make the entire exchange of goods and services more fair and transparent, not just financial services and instruments.
+* To stop banks of buying goods and services from the real economy with self-made money.
+* To increase the profit for the community from the central bank money creation.
+* To give central banks a new possibility of their monetary policy independent of the financial sector.
+* To leave the field not to the existing crypto-money scene for an uncontrolled private money creation.
+
+== How do we want to make a difference?
+
+Within the _Co-op Money Infrastructure_, the money becomes central bank money, also known as digital cash, positive money, secure money or Vollgeld. It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
+
+It would be comparable to cash and thus even safer in the case of financial crises than commercial bank money. Compared to cash, it would be better protected against counterfeiting and theft by using cryptographic methods.
+
+An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
+
+.An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure
+[#img-key_features_of_cash_depositmoney_bitcoin_mi]
+image::MI006.png[Key features of different kinds of money]
+
+The implementation of the _Co-op Money Infrastructure_ will be implemented in the ‘style’ of Wikipedia: From bottom to top and supported by many for all.
+
+"As simple as possible, but not simpler" is the guiding principle of the _Co-op Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
+
+The introduction and operation of the _Co-op Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved.
+
+Due to the design, only a fraction of the current costs for financial services are incurred and the gross profit from financial products can be shared by the contracting parties. There are additional savings in trading and accounting.
+
+The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
 
 [[key-ideas]]
 == Key ideas
@@ -240,11 +287,9 @@ The more voluminous and complex a legal system becomes, the less it is generally
 
 Already today it is objectively impossible even for lawyers to completely understand a single area of law. And even if everyone could recite all the laws and regulations by heart, there are so many different opinions that the outcome would not be much better.
 
-In order to smash this Gordian knot in the area of trade, legal standards and autonomous legal enforcement are introduced in the money infrastructure.
+In order to smash this Gordian knot, legal standards and autonomous law are introduced.
 
-*Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model.
-
-Within the _Co-op Money Infrastructure_, business is done with recommended, standardized and balanced contracts (RSB contracts). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
+Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
 
 RSB contract templates capture and extend the idea of "Smart Contracts". Simply explained an RSB contract is an instrument that allows users to easily and efficiently conduct their business without having to understand the legal details. Users can trust that the different interests are balanced. They are abstract legal structures that, like numbers in mathematics, are described differently in different languages, but have the same meaning in all languages. For RSB contracts there is a localized certified copy in all required languages. The claims and also possible legal consequences in the event of disruptions to performance are clearly indicated in a transparent manner.
 
@@ -269,52 +314,36 @@ This includes:
 . Collateral management and services
 . Rating services
 
-== What is the 'status quo' of todays' financial world and the crypto currencies?
+Today's economic system works according to the motto: freedom and the power of the strongest. RSB contracts realize the idea: freedom and responsibility. No participant should be able to impose his contract conditions on the other. While the price / performance ratio could still be unbalanced, the general terms of the contract should be fair and balanced.
 
-Today there is an over-supply of financial services and financial instruments worldwide. A lot of them are incomprehensible and certainly not transparent, even for experts. As far back as 2006, global money and financial instruments’ supply had six times more volume than the gross domestic product of the entire world.
+*Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model by the money infrastructure.
 
-However, the financial sector has left its service role in many areas for the real economy, with the sole aim of making more money out of money.
+The purpose of a contract is proof of the agreed claims.
 
-With the income and profits generated, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
+=== Self-enforcing rights
 
-These ‘none performance-related incomes’ are considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes.
+Self-enforcing rights is a concept in which legal claims can be enforced without courts and bailiffs.
 
-And also the current crypto-currencies, such as Bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
+Ordinary jurisdiction is not meant to be replaced, but relieved from cases that can be decided on the basis of indisputable and sufficient facts. If one of the contracting parties does not agree with the measures carried out, ordinary legal remedies remain open. However, the chances of getting a different verdict are unlikely, especially since the contracting parties agreed with the procedure and also know exactly what to expect.
 
-== Why do we want to offer something different?
+In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. If a borrower, e.g. does not pay its installments, then the creditor may cause his contract to send a default summons to the Identity Server. On the next contact between the debtor and the identity server, the decision is transmitted to the affected debtor's contract. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
 
-Because we want:
+The consequence is that the borrower can not make other payments until he has cleared the compulsory payment.
 
-* To provide financial services for everybody in the worldfootnote:[World Bank documentation shows that 2 billion people in the world do not have any access to bank services, mainly in the developing countries, which does not make their situation any better.], simple, easy and fair.
-* To give central banks a new possibility of their monetary policy independent of the financial sector.
-* To better protect people and the real economy from the negative impact of the financial sector and from financial crises.
-* To make banking services much more efficient and user-friendly through innovative ideas.
-* To make the entire exchange of goods and services more fair and transparent, not just financial services and instruments.
-* To stop banks of buying goods and services from the real economy with self-made money.
-* To increase the profit for the community from the central bank money creation.
-* To leave the field not to the existing crypto-money scene for an uncontrolled private money creation.
+The consequences of a breach of contract are already specified in detail in the RSB contract template and can be displayed by the contracting parties at any time.
 
-== How do we want to make a difference?
+Consequences can, but do not have to be asserted. In any case, breaches of contract will worsen the compliance index.
 
-Within the _Co-op Money Infrastructure_, the money becomes central bank money (positive money, Vollgeld). It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
+=== Compliance Index
 
-It would be comparable to cash and thus even safer in the case of financial crises than commercial bank money. Compared to cash, it would be better protected against counterfeiting and theft by using cryptographic methods.
+Trust in a mass society is a difficult task. The Compliance Index is a weighted measure of sanctity of contracts.
 
-An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
+A Compliance Index of 100% means that the person has fulfilled his contractual obligations in full and in good time.
 
-.An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure
-[#img-key_features_of_cash_depositmoney_bitcoin_mi]
-image::MI006.png[Key features of different kinds of money]
+=== Trading platform
 
-The implementation of the _Co-op Money Infrastructure_ will be implemented in the ‘style’ of Wikipedia: From bottom to top and supported by many for all.
 
-"As simple as possible, but not simpler" is the guiding principle of the _Co-op Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
-
-The introduction and operation of the _Co-op Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved.
-
-Due to the design, only a fraction of the current costs for financial services are incurred and the gross profit from financial products can be shared by the contracting parties. There are additional savings in trading and accounting.
-
-The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
+=== Statistics
 
 == Project description
 === Content of the project
