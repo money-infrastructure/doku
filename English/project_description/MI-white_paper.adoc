@@ -240,7 +240,7 @@ An account can store a single or multiple similar rights:
 . A quantity of similar rights that can be individually identified. For example, ownership of notebooks identified by a serial number.
 . An amount of fungible rights that are treated alike, such as money, claims to money or the ownership of a fungible commodity.
 
-The identity blockchain tree together with the user data blockchain trees can be considered as one large tree in which each right has a globally unique address. The first part of the path uniquely identifies the right holder and the second part leads to the right itself.
+The identity blockchain tree together with the user data blockchain trees can be considered as one large tree spanning across the internet in which each right has a globally unique address. The first part of the path uniquely identifies the owner of a right and the second part leads to the right itself.
 
 In that sense, the money infrastructure creates an *Internet of Rights* and, indirectly, an *Internet of Things* because things depend on the right, not the other way around.
 
@@ -273,7 +273,7 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 . If digital bearer instruments are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
 . All break-ins and manipulations would have to be done in a very tight time frame, because the normal use of the system could permanently change the blockchain involved. While an attacker manipulated a particular blockchain backup, this blockchain could be updated and the backups moved to completely different backup servers.
 
-Even if some barriers can be taken, it is very unlikely to overcome all obstacles as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort to perform a manipulation is set to an extreme disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options. Shared data is hosted only on servers that provide high security.
+Even if some barriers can be taken, it is very unlikely to overcome all obstacles as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort to manipulate is set to an extreme disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options. Shared data is hosted only on servers that provide high security.
 
 The attacker would also have to pass unnoticed at the permanent internal security checks.
 
@@ -290,6 +290,12 @@ Already today it is objectively impossible even for lawyers to completely unders
 In order to smash this Gordian knot, legal standards and self-enforcing rights are introduced.
 
 Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
+
+The most important features are listed in the following table and compared with today's contracts.
+
+.Main characteristics of RSB-Contracts
+[#img-RSB-Contracts]
+image::MI037.png[Main characteristics of RSB-Contracts]
 
 RSB contract templates capture and extend the idea of "Smart Contracts". Simply explained an RSB contract is an instrument that allows users to easily and efficiently conduct their business without having to understand the legal details. Users can trust that the different interests are balanced. They are abstract legal structures that, like numbers in mathematics, are described differently in different languages, but have the same meaning in all languages. For RSB contracts there is a localized certified copy in all required languages. The claims and also possible legal consequences in the event of disruptions to performance are clearly indicated in a transparent manner.
 
