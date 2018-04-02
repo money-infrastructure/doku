@@ -27,7 +27,7 @@ The _**Co-op Money Infrastructure**_ project aims to develop a global and decent
 The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current crypto currencies and will be characterized by the following main features:
 
 * It is developed for classical currencies and converts, for example, euros into crypto central bank euros, also known as digital cash, positive money, secure money or Vollgeld.
-* It consists of standards and open source programs that run on users' existing hardware, such as mobiles, computers etc. with internet access.
+* It consists of standards and open source programs that run on users' existing hardware with internet access, such as mobiles or computers.
 * It transfers payments or any other rights directly between users and prevents them from manipulating their own or others’ data.
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
 * It promotes fair trade and sustainable business practices in a very efficient way.
@@ -119,7 +119,7 @@ The current crypto currencies are decentralized in the first sense that there is
 
 Early in 2018, bitcoin's blockchain was about 160 GB in size and there were about 15 million users, but less than 10,000 full nodes that all the other users need to trust in. One of the key objectives of a decentralized system in which no trustees are required is not realized in practice by Bitcoin. - For this, each of the 15 million users would need to store the blockchain, resulting in a data volume of 2,400,000,000 GB, plus an even higher traffic.
 
-In the Co-op Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through a newly developed _legal consensus mechanism_.
+In the Co-op Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through the newly developed _legal consensus mechanism_ in combination with the blockchain technology.
 
 === Legal consensus mechanism
 For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
@@ -182,7 +182,7 @@ Storing and managing identities is the job of the distributed identity server cl
 
 Since the rights, duties and legal dispositions of a natural or legal person are documented and inextricable linked to data in the money infrastructure, a one-to-one connection to the person concerned is indispensable. A person is represented in the system by a virtual identity and can act through that identity in the system. All rights, duties and legal acts that are assigned to an identity are directly attributed to the corresponding person.
 
-In the legal sense, there are two types of persons. Natural persons refer to humans. Legal persons refer to all other legal subjects, e.g. companies or institutions.
+In the legal sense, there are two types of persons. _Natural persons_ refer to humans. _Legal persons_ refer to all other legal subjects, e.g. companies or institutions.
 
 A _legal_ person acts through the identity of another identity that occupies one or more roles within that legal entity. In this way, as in reality, chains of representations can emerge, at the ends of which a natural person stands.
 
@@ -264,7 +264,7 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 
 . The identity server cluster would have to be hacked to find the cluster server containing the backup information for a particular blockchain tree.
 . This specific identity server would need to be hacked to find out on which backup servers the backups of a particular blockchain tree are stored. That alone should be very difficult with a redundant server cluster with a distributed database in which the servers control each other.
-. One of the unknown backup server must be hacked to steal the backup.
+. One of the backup server must be hacked to steal the backup.
 . The correct private key must be stolen from the attacked user to decrypt the backup.
 . The data backup must be manipulated in the desired way and the affected hash values recalculated. This manipulation is extremely difficult, because the database transaction log is backed up and not the individual tables.
 . Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer. These private keys would have to be stolen beforehand.
@@ -281,13 +281,13 @@ However, the Achilles heel is the protection of private keys. Anyone who has acc
 
 To protect the integrity of the entire system, traffic is encrypted among the servers and applications and each transaction is embedded in a three-phase commit protocol.
 
-=== Recommended, standardized and balanced contracts (RSB contracts)
+=== Recommended, standardized and balanced contracts
 
 The more voluminous and complex a legal system becomes, the less it is generally understood. Too many laws are the nation of law's death.
 
-Already today it is objectively impossible even for lawyers to completely understand a single area of law. And even if everyone could recite all the laws and regulations by heart, there are so many different opinions that the outcome would not be much better.
+Already today it is objectively impossible even for lawyers to completely understand a single area of law. And even if everyone could recite all the laws and regulations by heart, there are so many different opinions that the outcome would probably not be much better.
 
-In order to smash this Gordian knot, legal standards and autonomous law are introduced.
+In order to smash this Gordian knot, legal standards and self-enforcing rights are introduced.
 
 Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
 
@@ -338,10 +338,23 @@ Consequences can, but do not have to be asserted. In any case, breaches of contr
 
 Trust in a mass society is a difficult task. The Compliance Index is a weighted measure of sanctity of contracts.
 
-A Compliance Index of 100% means that the person has fulfilled his contractual obligations in full and in good time.
+A Compliance Index of 100 means that the person has fulfilled his contractual obligations in full and in good time. The index is weighted with the value of the transaction and the time. A current failure to comply with rules and obligations is weighted more heavily than if it is older.
+
+The index can reach over 100 points if the person is particularly fair and responsible. These include e.g. fair wages, responsible use of the environment and social commitment.
+
+An index over 100 points should be called _prime compliance_ and not only a visible sign to others, but also be associated with privileges in the system.
+
+Instead of bank status, prime compliance could be the criterion for obtaining low-interest loans from the central bank as part of its monetary policy.
+
+It would also be conceivable that companies with prime compliance would be preferred in public procurement according to their status.
+
+Companies that pay fair wages and protect the environment have a cost disadvantage to companies that exploit their workers and the environment, which could be compensated in this way.
+
+Prime compliance should also be a requirement when a person offers asset management services.
 
 === Trading platform
 
+=== Risk index
 
 === Statistics
 
