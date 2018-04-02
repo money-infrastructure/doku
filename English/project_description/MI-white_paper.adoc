@@ -326,9 +326,9 @@ Self-enforcing rights is a concept in which legal claims can be enforced without
 
 Ordinary jurisdiction is not meant to be replaced, but relieved from cases that can be decided on the basis of indisputable and sufficient facts. If one of the contracting parties does not agree with the measures carried out, ordinary legal remedies remain open. However, the chances of getting a different verdict are unlikely, especially since the contracting parties agreed with the procedure and also know exactly what to expect.
 
-In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. If a borrower, e.g. does not pay its installments, then the creditor may cause his contract to send a default summons to the Identity Server. On the next contact between the debtor and the identity server, the decision is transmitted to the affected debtor's contract. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
+In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. For example, if a borrower does not pay his installments, the lender may initiate his contract to send a dunning notice to the Identity Server. On the next contact between the debtor and the identity server, the notice is transmitted to the affected debtor's contract. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
 
-The consequence is that the borrower can not make other payments until he has cleared the compulsory payment.
+The consequence is that the borrower can not make any other payments until he has cleared the compulsory payment.
 
 The consequences of a breach of contract are already specified in detail in the RSB contract template and can be displayed by the contracting parties at any time.
 
@@ -336,7 +336,7 @@ Consequences can, but do not have to be asserted. In any case, breaches of contr
 
 === Compliance Index
 
-Trust in a mass society is a difficult task. The Compliance Index is a weighted measure of sanctity of contracts.
+Trust in a mass society is a difficult task. The _Compliance Index_ is a weighted measure of sanctity of contracts.
 
 A Compliance Index of 100 means that the person has fulfilled his contractual obligations in full and in good time. The index is weighted with the value of the transaction and the time. A current failure to comply with rules and obligations is weighted more heavily than if it is older.
 
@@ -344,7 +344,7 @@ The index can reach over 100 points if the person is particularly fair and respo
 
 An index over 100 points should be called _prime compliance_ and not only a visible sign to others, but also be associated with privileges in the system.
 
-Instead of bank status, prime compliance could be the criterion for obtaining low-interest loans from the central bank as part of its monetary policy.
+Instead of bank status, prime compliance could be the criterion for obtaining low-interest loans from the central bank as part of their monetary policy.
 
 It would also be conceivable that companies with prime compliance would be preferred in public procurement according to their status.
 
