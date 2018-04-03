@@ -24,7 +24,7 @@ Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@
 [.lead]
 The _**Co-op Money Infrastructure**_ project aims to develop a global and decentralized infrastructure for payments and other financial services as well as financial instruments. The system is generalized so that any right or obligation can be documented, proven or transferred. As a result, it could also be used as a general trading platform.
 
-The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current crypto currencies and will be characterized by the following main features:
+The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current cryptocurrencies and will be characterized by the following main features:
 
 * It is developed for classical currencies and converts, for example, euros into crypto central bank euros, also known as digital cash, positive money, secure money or Vollgeld.
 * It consists of standards and open source programs that run on users' existing hardware with internet access, such as mobiles or computers.
@@ -44,15 +44,19 @@ The interface is also a firewall that protects the real economy from turbulences
 
 == What is the status quo of todays' financial world and the cryptocurrencies?
 
-Today, there is an oversupply of financial services and financial instruments worldwide. Many of them are incomprehensible and intransparent, even to experts. As early as 2006, the global supply of financial market products was six times greater than the gross domestic product of the entire world.
+Today, there is an overwhelming supply of financial services and financial instruments worldwide. Many of them are incomprehensible and not transparent, even to experts. As early as 2006, the global supply was six times greater than the gross domestic product of the entire world.
 
-Despite this glut, the financial sector has left its serving role for the real economy in many areas, with the sole aim of making more money out of money.
+Despite this glut, the financial sector has left its serving role for the real economy in many areas, with the sole aim of making more money out of money. In terms of value, more than 90% of all payments are made today not with legal tender, but with fiat money made by private commercial banks.
 
-With the income and profits generated, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
+With this self-made money and the income and profits generated in the financial sector, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
 
-These ‘_none performance-related incomes_’ are considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes.
+These ‘_none performance-related incomes_’ are considerable and considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes and to the real economy as a whole.
 
-And also the current cryptocurrencies, such as bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
+And even the current cryptocurrencies like Bitcoin are not a real alternative, because decoupling money production from any institutional or governmental control only makes the flawed development in the financial sector worse.
+
+Especially with Bitcoin it becomes clear that speculative profits are the goal and not sustainable economic activities.
+
+Not only because of huge price fluctuations and limited transaction capacity, but also because a single transaction with Bitcoin consumes more than 900 kWh of electricity. Bitcoin as a common currency is worse than useless. Global electricity consumption would double if VISA changed its payment system to Bitcoin technology.
 
 == Why do we want to offer something different?
 
@@ -61,11 +65,11 @@ Because we want:
 * To provide financial services for everybody in the worldfootnote:[World Bank documentation shows that 2 billion people in the world do not have any access to bank services, mainly in the developing countries, which does not make their situation any better.], simple, easy and fair.
 * To better protect people and the real economy from the negative impact of the financial sector and from financial crises.
 * To make banking services much more efficient and user-friendly through innovative ideas.
-* To make the entire exchange of goods and services more fair and transparent, not just financial services and instruments.
+* To make the entire exchange of goods and services more fair, sustainable and transparent, not just financial services and instruments.
 * To stop banks of buying goods and services from the real economy with self-made money.
 * To increase the profit for the community from the central bank money creation.
 * To give central banks a new possibility of their monetary policy independent of the financial sector.
-* To leave the field not to the existing crypto-money scene for an uncontrolled private money creation.
+* To leave the field not to the existing crypto currency scene for an uncontrolled private money creation with an irresponsible waste of resources.
 
 == How do we want to make a difference?
 
@@ -94,7 +98,7 @@ The money infrastructure contributes to the decentralization of the power concen
 [[key-ideas]]
 == Key ideas
 
-Although some key ideas have been adopted from crypto currencies, there are significant differences and new ideas.
+Although some key ideas have been adopted from cryptocurrencies, there are significant differences and new ideas.
 
 === Self-administered crypto accounts
 Banknotes securitize money, current accounts book the money, and the _Co-op Money Infrastructure_ proves and provides ownership of central bank money on cryptographically protected accounts that are self-administered by the users.
