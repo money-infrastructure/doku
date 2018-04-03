@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-02)
+(Work in progress - Last update: 2018-04-03)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -42,17 +42,17 @@ Through an interface, payments between the _Co-op Money Infrastructure_ and comm
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
-== What is the 'status quo' of todays' financial world and the crypto currencies?
+== What is the status quo of todays' financial world and the cryptocurrencies?
 
-Today there is an over-supply of financial services and financial instruments worldwide. A lot of them are incomprehensible and certainly not transparent, even for experts. As far back as 2006, global money and financial instruments’ supply had six times more volume than the gross domestic product of the entire world.
+Today, there is an oversupply of financial services and financial instruments worldwide. Many of them are incomprehensible and intransparent, even to experts. As early as 2006, the global supply of financial market products was six times greater than the gross domestic product of the entire world.
 
-However, the financial sector has left its service role in many areas for the real economy, with the sole aim of making more money out of money.
+Despite this glut, the financial sector has left its serving role for the real economy in many areas, with the sole aim of making more money out of money.
 
 With the income and profits generated, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
 
-These ‘none performance-related incomes’ are considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes.
+These ‘_none performance-related incomes_’ are considered completely normal and perfectly alright by the recipients. It is ignored that in the macroeconomic context, these incomes predominantly go to the disadvantage of the middle and lower classes.
 
-And also the current crypto-currencies, such as Bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
+And also the current cryptocurrencies, such as bitcoin do not represent a real alternative, because by decoupling money production from any institutional or governmental control, the failures in the financial sector will only be driven to new and so far unknown levels.
 
 == Why do we want to offer something different?
 
@@ -79,15 +79,17 @@ An overview of key features between cash, deposit money, Bitcoin and the co-op m
 [#img-key_features_of_cash_depositmoney_bitcoin_mi]
 image::MI006.png[Key features of different kinds of money]
 
-The implementation of the _Co-op Money Infrastructure_ will be implemented in the ‘style’ of Wikipedia: From bottom to top and supported by many for all.
+The implementation of the _Co-op Money Infrastructure_ is planned in the "style" of Wikipedia: from bottom to top and supported by many for all.
 
 "As simple as possible, but not simpler" is the guiding principle of the _Co-op Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
 
-The introduction and operation of the _Co-op Money Infrastructure_ deliberately does not rely on the idealism of supporters and users but on solid economic benefits for those involved.
+The introduction and operation of the Co-op Money Infrastructure is based deliberately not on the idealism of supporters and users, but on considerable economic benefits for those involved.
 
-Due to the design, only a fraction of the current costs for financial services are incurred and the gross profit from financial products can be shared by the contracting parties. There are additional savings in trading and accounting.
+Due to the design, only a fraction of the current cost of financial services would be incurred and the gross profit from financial products could be shared by the contracting parties because the business could be done without banks. The gross profit of German banks in 2010 amounted to € 92 billion, of which a substantial part would be under discussion.
 
-The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is returned to the users.
+There are additional savings in trading and accounting.
+
+The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is given back to the people and the real economy. "Too big to fail" and "too interconnected to fail" would no longer be a problem in the case of financial crises.
 
 [[key-ideas]]
 == Key ideas
