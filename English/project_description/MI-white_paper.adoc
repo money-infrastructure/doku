@@ -162,7 +162,7 @@ The completeness of the data refers to a specific retention period, which varys 
 
 Not storing all the data for all time is a requirement of sustainability, efficiency and costs.
 
-The time reference is made by a timestamp. It is a requirement for the retention period and in applications such as e.g. the ledger in an accounting system.
+The time reference is made by a timestamp. It is a requirement for the retention period and in applications such as the ledger in an accounting system.
 
 The means by which to obtain these additional properties for the data is the blockchain.
 
@@ -246,7 +246,7 @@ An account can store a single or multiple similar rights:
 . A quantity of similar rights that can be individually identified. For example, ownership of notebooks identified by a serial number.
 . An amount of fungible rights that are treated alike, such as money, claims to money or the ownership of a fungible commodity.
 
-The identity blockchain tree together with the user data blockchain trees can be considered as one large tree spanning across the internet in which each right has a globally unique address. The first part of the path uniquely identifies the owner of a right and the second part leads to the right itself.
+The identity blockchain tree together with the user data blockchain trees can be considered as one large tree spanning across the internet in which each right has a globally unique address. The first part of the path uniquely identifies the legal owner of a right and the second part leads to the right itself.
 
 In that sense, the money infrastructure creates an *Internet of Rights* and, indirectly, an *Internet of Things* because things depend on the right, not the other way around.
 
@@ -295,7 +295,7 @@ Already today it is objectively impossible even for lawyers to completely unders
 
 In order to smash this Gordian knot, legal standards and self-enforcing rights are introduced.
 
-Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
+Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB-Contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
 
 The most important features are listed in the following table and compared with today's contracts.
 
@@ -334,9 +334,15 @@ The purpose of a contract is proof of the agreed claims.
 
 === Self-enforcing rights
 
-Self-enforcing rights is a concept in which legal claims can be enforced without courts and bailiffs.
+Self-enforcing rights is a concept in which legal claims can be enforced without courts and bailiffs or vigilantism.
 
 Ordinary jurisdiction is not meant to be replaced, but relieved from cases that can be decided on the basis of indisputable and sufficient facts. If one of the contracting parties does not agree with the measures carried out, ordinary legal remedies remain open. However, the chances of getting a different verdict are unlikely, especially since the contracting parties agreed with the procedure and also know exactly what to expect.
+
+The most important features of self-enforcing rights are listed in the following table and compared with classic rights.
+
+.Main characteristics of self-enforcing rights
+[#img-Self-enforcing_rights]
+image::MI039.png[Main characteristics of self-enforcing rights]
 
 In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. For example, if a borrower does not pay his installments, the lender may initiate his contract to send a dunning notice to the Identity Server. On the next contact between the debtor and the identity server, the notice is transmitted to the affected debtor's contract. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
 
@@ -348,19 +354,21 @@ Consequences can, but do not have to be asserted. In any case, breaches of contr
 
 === Compliance Index
 
-Trust in a mass society is a difficult task. The _Compliance Index_ is a weighted measure of sanctity of contracts.
+Trust in a mass society is a difficult task. The _Compliance Index_ is a weighted measure of sanctity of contracts and compliance with fair and sustainable business practices.
 
 A Compliance Index of 100 means that the person has fulfilled his contractual obligations in full and in good time. The index is weighted with the value of the transaction and the time. A current failure to comply with rules and obligations is weighted more heavily than if it is older.
 
 The index can reach over 100 points if the person is particularly fair and responsible. These include e.g. fair wages, responsible use of the environment and social commitment.
 
-An index over 100 points should be called _prime compliance_ and not only a visible sign to others, but also be associated with privileges in the system.
+An index over 100 points is called _prime compliance_ and not only a visible sign to others, but also be associated with privileges in the system.
 
 Instead of bank status, prime compliance could be the criterion for obtaining low-interest loans from the central bank as part of their monetary policy.
 
 It would also be conceivable that companies with prime compliance would be preferred in public procurement according to their status.
 
 Companies that pay fair wages and protect the environment have a cost disadvantage to companies that exploit their workers and the environment, which could be compensated in this way.
+
+Moral appeals are well-intentioned, but badly done, because in the end they weaken responsible companies. As long as the external costs caused by companies do not redound upon these companies, measures will remain ineffective. Cost is the language that is well understood and responded by companies.
 
 Prime compliance should also be a requirement when a person offers asset management services.
 
