@@ -58,6 +58,8 @@ Especially with Bitcoin it becomes clear that speculative profits are the goal a
 
 Not only because of huge price fluctuations and limited transaction capacity, but also because a single transaction with Bitcoin consumes more than 900 kWh of electricity. Bitcoin as a common currency is worse than useless. Global electricity consumption would double if VISA changed its payment system to Bitcoin technology.
 
+Despite this criticism, we do not misjudge the potential of cryptocurrencies. On the contrary, decisive ideas for the money infrastructure come from the field of cryptocurrencies.
+
 == Why do we want to offer something different?
 
 Because we want:
@@ -301,7 +303,7 @@ Within the _Co-op Money Infrastructure_, business is done with _recommended, sta
 
 The sense and purpose of a contract is to document and prove the agreed rights and obligations and that the resulting performances are provided.
 
-Normal contracts are _imperative_, i. the contracting parties must:
+Normal contracts are _imperative_, i. the contracting parties must
 
 . know what they want and
 . how it is contractually implemented and therefore understand the legal details and
@@ -310,9 +312,9 @@ Normal contracts are _imperative_, i. the contracting parties must:
 RSB-Contracts are _declarative_, i. the contracting parties need only
 
 . know what they want and
-. can trust that the interests of the parties will be balanced and fairly taken into account and contractual details have been worked out.
+. can trust that the interests of the parties will be balanced and fairly taken into account and contractual details have been carefully considered and worked out.
 
-The difference is similar to solving a complex calculation manually or with the help of a calculator. Here, too, you have to know what you want, but the rest is incomparably easier and faster in a declarative process.
+The difference is similar to solving a complex calculation manually or with the help of a calculator. Here, too, you have to know what you want, but the rest is incomparably easier and faster in a declarative approach. The idea for declarative contracts is inspired by the declarative programming style.
 
 The most important features are listed in the following table and compared with today's contracts.
 
