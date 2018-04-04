@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-03)
+(Work in progress - Last update: 2018-04-04)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -128,7 +128,7 @@ Early in 2018, bitcoin's blockchain was about 160 GB in size and there were abou
 In the Co-op Money Infrastructure, the 160 GB would be distributed amongst the 15 million users according to their individual use and without the need of trustees. This result is achieved through the newly developed _legal consensus mechanism_ in combination with the blockchain technology.
 
 === Legal consensus mechanism
-For all crypto currencies, consensus mechanismsfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] are central to the functioning of any blockchain or distributed ledger. This ensures the correctness of payments and prevents manipulation without the need to trust or rely on a central authority. So far, this problem has been solved purely technically.
+For all cryptocurrencies, the consensus mechanismfootnote:[A good overview of the consensus mechanisms can be found in _Consensus – Immutable agreement for the Internet of value_: https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf[https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf]] is central. It ensures the correctness of payments and prevents manipulation without having to rely on a central authority. So far, this problem has been solved purely technically.
 
 Through the newly developed _legal consensus mechanism_ not only money, but all rights and obligations might be turned into _digital bearer instruments_ that have been signed by the senders and can only be read and processed by the legitimate recipients.
 
@@ -160,7 +160,7 @@ The authenticity is necessary so that data can be unambiguously assigned to the 
 
 The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. For example, completeness has to be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
 
-Not storing all the data for all time is a requirement of sustainability, efficiency and costs.
+Not storing all the data for all time is a prerequisite for sustainability, efficiency and cost.
 
 The time reference is made by a timestamp. It is a requirement for the retention period and in applications such as the ledger in an accounting system.
 
@@ -180,13 +180,13 @@ A blockchain tree consists of independent blockchains linked by a rooted tree st
 
 ==== Identity blockchain tree
 
-Identity services are important whenever people become interactive. They are particularly important in situations where people no longer meet physically and legal relationships are involved. If the identity of a business partner is unknown, significant disadvantages can arise if rights are claimed and the debtor does not want to meet his obligations. If in such situations the identity of the debtor is unknown, a claim can not be asserted in court.
+Identity services are important whenever people become interactive. They are particularly important in situations where people no longer meet in person and legal relationships are involved. If the identity of a business partner is unknown, significant disadvantages can arise if rights are claimed and the debtor does not want to fulfill his obligations. If in such situations the identity of the debtor is unknown, a claim can not be asserted in court.
 
 Identity services are the bridge between the computer-generated virtual world and real people. Technically speaking, an identity in the sense used here is an object in the sense of object-oriented programming. That means an identity has attributes and a behavior that is governed by the represented real person.
 
 Storing and managing identities is the job of the distributed identity server cluster. The data of the identities are stored in a graph database management system that implements a blockchain tree. The Identity Server Cluster is a common component of the money infrastructure and runs on particularly suitable user hardware. The motivation for users to provide resources for an Identity Server is the ability to earn money and to process their own transactions faster.
 
-Since the rights, duties and legal dispositions of a natural or legal person are documented and inextricable linked to data in the money infrastructure, a one-to-one connection to the person concerned is indispensable. A person is represented in the system by a virtual identity and can act through that identity in the system. All rights, duties and legal acts that are assigned to an identity are directly attributed to the corresponding person.
+Since the rights, duties and legal dispositions of a natural or legal person are documented and inextricable linked to data in the money infrastructure, a one-to-one connection to the person concerned is indispensable. A person is represented in the system by a virtual identity and can act through that identity in the system. All rights, duties and legal acts that are assigned to an identity are directly attributed to the person concerned.
 
 In the legal sense, there are two types of persons. _Natural persons_ refer to humans. _Legal persons_ refer to all other legal subjects, e.g. companies or institutions.
 
@@ -195,6 +195,8 @@ A _legal_ person acts through the identity of another identity that occupies one
 A role gives an identity certain rights, obligations and powers on behalf and by authority of the represented legal subject.
 
 Informational self-determination is a basic principle of the money infrastructure. Therefore, a person decides which data they want to make accessible to whom. In turn, this decision determines a person's rights and possibilities in the system.
+
+An identity and its data may be confirmed to varying degrees: fake, unconfirmed, confirmed by other IDs, certified, etc. If an identity is recognized as fake, then it is banned from the system.
 
 For example, a person in a developed country could only conclude a loan agreement within the money infrastructure if it has an officially confirmed identity whose data is made available to the contracting party. This restriction makes the money infrastructure compliant with legal requirements and prevents a person from evading their duties.
 
@@ -276,8 +278,8 @@ To successfully manipulate a user data blockchain tree, the following barriers w
 . Since most of the relevant data was signed by a third party, the signature would also need to be rebuilt using the private key of the signer. These private keys would have to be stolen beforehand.
 . Then the majority of backup servers must be hacked and the backups replaced.
 . So that when comparing the Merkle roots the manipulation is not noticeable, all changes would have to be made on the server of the attacked user too. The manipulation would be completely different, because not the log files, but the tables would have to be manipulated.
-. If digital bearer instruments are transferred as in payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
-. All break-ins and manipulations would have to be done in a very tight time frame, because the normal use of the system could permanently change the blockchain involved. While an attacker manipulated a particular blockchain backup, this blockchain could be updated and the backups moved to completely different backup servers.
+. If digital bearer instruments are transferred such as payments, points 1. - 8. would have to be made for each transfer along the entire chain. For payments, there would also arise a difference between the total amount of the cash accounts in the system and the external escrow account. At the latest here, the manipulation would be noticed and could be traced back to the origin.
+. All break-ins and manipulations would have to be done in a very tight time frame, because the normal use of the system could permanently change the blockchain involved. While an attacker manipulated a particular blockchain backup, the original blockchain could be updated and the backups moved to completely different backup servers.
 
 Even if some barriers can be taken, it is very unlikely to overcome all obstacles as required. On the one hand, the security concept is based on cryptographic methods, and on the other hand, the effort to manipulate is set to an extreme disproportion to the potential yield. In addition, every user can choose to protect their data according to their own needs and options. Shared data is hosted only on servers that provide high security.
 
@@ -289,13 +291,28 @@ To protect the integrity of the entire system, traffic is encrypted among the se
 
 === Recommended, standardized and balanced contracts
 
-The more voluminous and complex a legal system becomes, the less it is generally understood. Too many laws are the nation of law's death.
+The more voluminous and complex a legal system becomes, the less it is generally understood. Too many laws are the rule of law's death.
 
 Already today it is objectively impossible even for lawyers to completely understand a single area of law. And even if everyone could recite all the laws and regulations by heart, there are so many different opinions that the outcome would probably not be much better.
 
 In order to smash this Gordian knot, legal standards and self-enforcing rights are introduced.
 
 Within the _Co-op Money Infrastructure_, business is done with _recommended, standardized and balanced contracts_ (*RSB-Contracts*). Contractors should be able to focus on their performance and not have to worry about being tricked by legal intricacies.
+
+The sense and purpose of a contract is to document and prove the agreed rights and obligations and that the resulting performances are provided.
+
+Normal contracts are _imperative_, i. the contracting parties must:
+
+. know what they want and
+. how it is contractually implemented and therefore understand the legal details and
+. hope that the desired result will be achieved.
+
+RSB-Contracts are _declarative_, i. the contracting parties need only
+
+. know what they want and
+. can trust that the interests of the parties will be balanced and fairly taken into account and contractual details have been worked out.
+
+The difference is similar to solving a complex calculation manually or with the help of a calculator. Here, too, you have to know what you want, but the rest is incomparably easier and faster in a declarative process.
 
 The most important features are listed in the following table and compared with today's contracts.
 
@@ -336,7 +353,7 @@ The purpose of a contract is proof of the agreed claims.
 
 Self-enforcing rights is a concept in which legal claims can be enforced without courts and bailiffs or vigilantism.
 
-Ordinary jurisdiction is not meant to be replaced, but relieved from cases that can be decided on the basis of indisputable and sufficient facts. If one of the contracting parties does not agree with the measures carried out, ordinary legal remedies remain open. However, the chances of getting a different verdict are unlikely, especially since the contracting parties agreed with the procedure and also know exactly what to expect.
+Ordinary jurisdiction is not meant to be replaced, but relieved from cases that can be decided on the basis of indisputable and sufficient facts. If one of the contracting parties does not agree with the measures carried out, ordinary legal remedies remain open. However, the chance of getting a different verdict is unlikely, especially since the contracting parties agreed with the procedure and also know exactly what to expect.
 
 The most important features of self-enforcing rights are listed in the following table and compared with classic rights.
 
@@ -344,9 +361,9 @@ The most important features of self-enforcing rights are listed in the following
 [#img-Self-enforcing_rights]
 image::MI039.png[Main characteristics of self-enforcing rights]
 
-In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. For example, if a borrower does not pay his installments, the lender may initiate his contract to send a dunning notice to the Identity Server. On the next contact between the debtor and the identity server, the notice is transmitted to the affected debtor's contract. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
+In the implementation of self-enforcing rights RSB contracts play a crucial role. Through RSB contracts, the system is not only aware of the agreed claims and their due dates, but also the performances provided. For example, if a borrower does not pay his installments, the lender may initiate his contract to send a dunning notice to the Identity Server. On the next contact between the debtor and the identity server, the notice is transmitted to the contract in question. If the claim is justified, then a prioritized compulsory payment is inserted in the outgoing payments of the debtor.
 
-The consequence is that the borrower can not make any other payments until he has cleared the compulsory payment.
+The consequence is that the debtor can not make any other payments until he has cleared the compulsory payment.
 
 The consequences of a breach of contract are already specified in detail in the RSB contract template and can be displayed by the contracting parties at any time.
 
@@ -360,7 +377,7 @@ A Compliance Index of 100 means that the person has fulfilled his contractual ob
 
 The index can reach over 100 points if the person is particularly fair and responsible. These include e.g. fair wages, responsible use of the environment and social commitment.
 
-An index over 100 points is called _prime compliance_ and not only a visible sign to others, but also be associated with privileges in the system.
+An index over 100 points is referred to as _prime compliance_ and not only a visible sign to others, but also associated with privileges in the system.
 
 Instead of bank status, prime compliance could be the criterion for obtaining low-interest loans from the central bank as part of their monetary policy.
 
@@ -370,7 +387,7 @@ Companies that pay fair wages and protect the environment have a cost disadvanta
 
 Moral appeals are well-intentioned, but badly done, because in the end they weaken responsible companies. As long as the external costs caused by companies do not redound upon these companies, measures will remain ineffective. Cost is the language that is well understood and responded by companies.
 
-Prime compliance should also be a requirement when a person offers asset management services.
+Prime compliance should also be a prerequisite when a person offers asset management services.
 
 === Trading platform
 
