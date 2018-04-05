@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-04)
+(Work in progress - Last update: 2018-04-05)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -395,7 +395,29 @@ Prime compliance should also be a prerequisite when a person offers asset manage
 
 === Risk index
 
-=== Statistics
+Through the RSB contracts, the system knows the type of business and the sanctity of contracts of the parties involved. Before concluding a contract, a statistically calculated risk index is displayed for the participants, which also indicates where potential problems might arise.
+
+=== Financial reporting and account statements
+
+From an accounting point of view, the user data blockchain tree is a generalized basis for any form of accounting. The blockchains store rights, duties and legal dispositions. That and a set of accounting principles is all you need, if this information is complete.
+
+The business transactions are stored in their original form and can then be mapped as required into a specific accounting standard. Thus, different standards can be mapped in parallel from a common database.
+
+By customizing the mapping procedures, financial reports are automatically generated.
+
+How a business transaction is booked is decided on the basis of the RSB template, the purchased goods or services and possible additional information.
+
+=== Business and economic evaluations
+
+Timely business and economic evaluations are of utmost importance for economic and political decisions. Reliable information and transparency are also of enormous importance to society as a whole. Therefore, a user of the money infrastructure must accept statistical evaluations of his data.
+
+The procedures for the evaluations as well as the reported data are always available to the user in full. Statistical evaluations are available to all users. Personal data protection is guaranteed.
+
+The evaluation procedures automatically run in the background with low priority so that they do not interfere with a user's work.
+
+A user has the right and the ability to stop the evaluations at any time, but then in return he can no longer use the system.
+
+Which statistics are collected with which programs is decided by the majority of stakeholders.
 
 == Project description
 === Content of the project
