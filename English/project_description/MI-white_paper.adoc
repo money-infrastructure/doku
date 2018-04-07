@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-05)
+(Work in progress - Last update: 2018-04-08)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -96,6 +96,50 @@ Due to the design, only a fraction of the current cost of financial services wou
 There are additional savings in trading and accounting.
 
 The money infrastructure contributes to the decentralization of the power concentrated in the financial sector, which is given back to the people and the real economy. "Too big to fail" and "too interconnected to fail" would no longer be a problem in the case of financial crises.
+
+== Project description
+=== Content of the project
+
+The _Co-op Money Infrastructure_ consists of two functional subsystems:
+
+. A rights and obligations management system to create and fulfil contracts.
+. A rights and obligations documentation system to document, prove and evaluate contracts and transactions.
+
+In the context discussed here only those rights and obligations are considered which can be assigned a value and thus can be bought or sold at a price. The rights and obligations include the assets and liabilities of a balance sheet.
+
+Credit money is considered as a legal relationship between a creditor and a debtor. The one end is a claim and thus a right and the other end a liability and thus an obligation.
+
+The situation is quite different with bitcoins, which are special property rights on data in the blockchain.
+
+The considerable simplifications result from this abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
+
+The planned project will be an open source project being managed in GitHub: https://github.com/money-infrastructure
+
+.Functional Subsystems of the Co-op Money Infrastructure
+[#img-functional_subsystems_nmi]
+image::MI007.png[Functional Subsystems of the Co-op Money Infrastructure]
+
+=== Interface with the banking sector
+
+A system-compliant integration could be carried out analogously to the position "Banknotes in circulation" via a new balance sheet item: ‘Crypto-Money in circulation’.
+
+The underlying accounts would be used to settle payments between the _Co-op Money Infrastructure_ and commercial banks.
+
+--
+.Interface with the Co-op Money Infrastructure through a central bank.
+[#img-interface_central_bank]
+image::MI049.png[Interface with the Co-op Money Infrastructure through a central bank]
+--
+
+The cooperation with a central bank is not mandatory. If no central bank agrees to cooperate, the interface to the central bank could also be established through an ethical bank.
+
+This bank would manage the cash reserves of the money infrastructure, legally owned by the respective crypto-money holders.
+
+.Interface with the Co-op Money Infrastructure through a commercial bank
+[#img-interface_commercial_bank]
+image::MI050.png[Interface with the Co-op Money Infrastructure through a commercial bank]
+
+
 
 [[key-ideas]]
 == Key ideas
@@ -391,8 +435,6 @@ Moral appeals are well-intentioned, but badly done, because in the end they weak
 
 Prime compliance should also be a prerequisite when a person offers asset management services.
 
-=== Trading platform
-
 === Risk index
 
 Through the RSB contracts, the system knows the type of business and the sanctity of contracts of the parties involved. Before concluding a contract, a statistically calculated risk index is displayed for the participants, which also indicates where potential problems might arise.
@@ -419,46 +461,21 @@ A user has the right and the ability to stop the evaluations at any time, but th
 
 Which statistics are collected with which programs is decided by the majority of stakeholders.
 
-== Project description
-=== Content of the project
 
-The _Co-op Money Infrastructure_ consists of two functional subsystems:
+=== Trading platform
 
-. A rights and obligations management system to create and fulfil contracts.
-. A rights and obligations documentation system to document, prove and evaluate contracts and transactions.
+It is typical for markets that suppliers make offers and potential buyers compare and accept these offers. Legally, a contract is concluded by offer and acceptance.
 
-In the context discussed here only those rights and obligations are considered which can be assigned a value and thus can be bought or sold at a price. The rights and obligations include the assets and liabilities of a balance sheet.
+Each user and in particular companies can use the RSB contract templates to enter general offers in their blockchain tree. These offers are then automatically visible to all users and can be accepted as on trading platforms.
 
-Credit money is considered as a legal relationship between a creditor and a debtor. The one end is a claim and thus a right and the other end a liability and thus an obligation.
+If a supplier provides for a product all information relevant to the user and guarantees this information, then this product appears in a price-performance-oriented list of competing products. All other product appear in an unordered list because these products can not really be compared.
 
-The situation is quite different with bitcoins, which are special property rights on data in the blockchain.
+Which information is relevant for a product and how the features are weighted in terms of warranty will be decided by the buyers. For easier handling, quality grades and quality seals can be determined, which summarize and evaluate several properties according to use classes.
 
-The considerable simplifications result from this abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
+Suppliers who provide insufficient information about their products or do not take responsibility for the information provided are assumed that the product is of medium quality, unless the deficiencies are specifically mentioned.
 
-The planned project will be an open source project being managed in GitHub: https://github.com/money-infrastructure
+The consequences for poor performance or false information are already set in the RSB templates.
 
-.Functional Subsystems of the Co-op Money Infrastructure
-[#img-functional_subsystems_nmi]
-image::MI007.png[Functional Subsystems of the Co-op Money Infrastructure]
+In today's complex and diverse world of products, every buyer is mostly a layman and can easily be deceived. Therefore, relevant information is so important and therefore deceptions should be sanctioned accordingly hard. The relevant information also includes production conditions so that buyers can decide whether they really want to buy textiles that have been produced under exploitative conditions and therefore can be offered much cheaper.
 
-=== Interface with the banking sector
-
-A system-compliant integration could be carried out analogously to the position "Banknotes in circulation" via a new balance sheet item: ‘Crypto-Money in circulation’.
-
-The underlying accounts would be used to settle payments between the _Co-op Money Infrastructure_ and commercial banks.
-
---
-.Interface with the Co-op Money Infrastructure through a central bank.
-[#img-interface_central_bank]
-image::MI049.png[Interface with the Co-op Money Infrastructure through a central bank]
---
-
-The cooperation with a central bank is not mandatory. If no central bank agrees to cooperate, the interface to the central bank could also be established through an ethical bank.
-
-This bank would manage the cash reserves of the money infrastructure, legally owned by the respective crypto-money holders.
-
-.Interface with the Co-op Money Infrastructure through a commercial bank
-[#img-interface_commercial_bank]
-image::MI050.png[Interface with the Co-op Money Infrastructure through a commercial bank]
-
-
+The trading platform of the money infrastructure is deliberately designed to foster sustainable production and fair trade.
