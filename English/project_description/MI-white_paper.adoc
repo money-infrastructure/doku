@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-08)
+(Work in progress - Last update: 2018-04-09)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -22,7 +22,7 @@ Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@
 == What is the _Co-op Money Infrastructure_?
 
 [.lead]
-The _**Co-op Money Infrastructure**_ project aims to develop a global and decentralized infrastructure for payments and other financial services as well as financial instruments. The system is generalized so that any right or obligation can be documented, proven or transferred. As a result, it could also be used as a general trading platform.
+The _**Co-op Money Infrastructure**_ project aims to develop a global and decentralized infrastructure for payments and other financial services as well as financial instruments. The system is generalized such that any right or obligation can be documented, proven or transferred. As a result, it could also be used as a general trading platform.
 
 The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current cryptocurrencies and will be characterized by the following main features:
 
@@ -42,7 +42,7 @@ Through an interface, payments between the _Co-op Money Infrastructure_ and comm
 
 The interface is also a firewall that protects the real economy from turbulences in the financial sector.
 
-== What is the status quo of todays' financial world and the cryptocurrencies?
+== What is the status quo of today's financial world and the cryptocurrencies?
 
 Today, there is an overwhelming supply of financial services and financial instruments worldwide. Many of them are incomprehensible and not transparent, even to experts. As early as 2006, the global supply was six times greater than the gross domestic product of the entire world.
 
@@ -91,7 +91,7 @@ The implementation of the _Co-op Money Infrastructure_ is planned in the "style"
 
 The introduction and operation of the Co-op Money Infrastructure is based deliberately not on the idealism of supporters and users, but on considerable economic benefits for those involved.
 
-Due to the design, only a fraction of the current cost of financial services would be incurred and the gross profit from financial products could be shared by the contracting parties because the business could be done without banks. The gross profit of German banks in 2010 amounted to € 92 billion, of which a substantial part would be under discussion.
+Due to the design, only a fraction of the current cost of financial services would be incurred and the gross profit from financial products could be shared by the contracting parties because the business could be done without banks. The gross profit of German banks in 2010 amounted to € 92 billion, of which a substantial part would be up for discussion.
 
 There are additional savings in trading and accounting.
 
@@ -107,22 +107,25 @@ The _Co-op Money Infrastructure_ consists of two functional subsystems:
 
 In the context discussed here only those rights and obligations are considered which can be assigned a value and thus can be bought or sold at a price. The rights and obligations include the assets and liabilities of a balance sheet.
 
-Credit money is considered as a legal relationship between a creditor and a debtor. The one end is a claim and thus a right and the other end a liability and thus an obligation.
-
-The situation is quite different with bitcoins, which are special property rights on data in the blockchain.
-
-The considerable simplifications result from this abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
-
-The planned project will be an open source project being managed in GitHub: https://github.com/money-infrastructure
-
 .Functional Subsystems of the Co-op Money Infrastructure
 [#img-functional_subsystems_nmi]
 image::MI007.png[Functional Subsystems of the Co-op Money Infrastructure]
 
+Credit money is considered as a legal relationship between a creditor and a debtor. The one end is a claim and thus a right and the other end a liability and thus an obligation.
+
+The situation is quite different with bitcoins, which are special property rights on data in the blockchain.
+
+Significant simplifications are achieved through extensive abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
+
+The focus on legal issues may not seem appropriate at first glance, because we understand trade as a trade in goods and services. But in fact, all trade is a trade in rights and obligations. Control over things is obtained through property rights, not vice versa. If we buy a car, we pay the price for the ownership of the car and because of the acquired ownership we can drive away with this car. The thing car is connected to ownership for free.
+
+All trading begins with a contract and ends with legal action in the performance of the contractual obligations.
+
+The planned project will be an open source project being managed in GitHub: https://github.com/money-infrastructure
+
 === Interface with the banking sector
 
-A system-compliant integration could be carried out analogously to the position "Banknotes in circulation" via a new balance sheet item: ‘Crypto-Money in circulation’.
-
+A system-compliant integration could take place analogously to the position "Banknotes in circulation" via a new balance sheet item in the central bank balance sheet: "Crypto-Money in circulation".
 The underlying accounts would be used to settle payments between the _Co-op Money Infrastructure_ and commercial banks.
 
 --
@@ -204,7 +207,7 @@ To efficiently determine the integrity of the payload data, they are embedded in
 
 The authenticity is necessary so that data can be unambiguously assigned to the creator. The system must ensure that rights, obligations and legal dispositions can be indisputably and legally attributed to the legal entity concerned.
 
-The completeness of the data refers to a specific retention period, which varys due to legal regulations and user needs. For example, completeness has to be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
+The completeness of the data refers to a specific retention period, which varies due to legal regulations and user needs. For example, completeness has to be ensured for accounting, but outside the compulsory retention periods the data could be deleted by system-internal functions  without this being interpreted as an illegal manipulation of the data.
 
 Not storing all the data for all time is a prerequisite for sustainability, efficiency and cost.
 
