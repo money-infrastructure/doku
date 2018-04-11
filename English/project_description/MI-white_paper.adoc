@@ -14,7 +14,7 @@ Arne Pfeilsticker
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
 
-(Work in progress - Last update: 2018-04-09)
+(Work in progress - Last update: 2018-04-11)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -396,8 +396,6 @@ Today's economic system works according to the motto: freedom and the power of t
 
 *Fair trade* *and sustainable business practices* are an extra asset, implemented as an efficient and profitable business model by the money infrastructure.
 
-The purpose of a contract is proof of the agreed claims.
-
 === Self-enforcing rights
 
 Self-enforcing rights is a concept in which legal claims can be enforced without courts and bailiffs or vigilantism.
@@ -482,3 +480,41 @@ The consequences for poor performance or false information are already set in th
 In today's complex and diverse world of products, every buyer is mostly a layman and can easily be deceived. Therefore, relevant information is so important and therefore deceptions should be sanctioned accordingly hard. The relevant information also includes production conditions so that buyers can decide whether they really want to buy textiles that have been produced under exploitative conditions and therefore can be offered much cheaper.
 
 The trading platform of the money infrastructure is deliberately designed to foster sustainable production and fair trade.
+
+== Basic principles
+
+=== Privacy for people
+
+Privacy for people, but transparency for the rest of the world - that's the tenor.
+
+If we do not want to be trapped into a new slavery, people need to know what their governments, corporations, and all those many other organizations are doing, tolerating, and not doing.
+
+The new chains are not made of steel, but insurmountable because they are invisible. It's the fake news and worse the mix of facts, half-truths and lies we're constantly showered with. They shape our beliefs and our actions and even make us fanatical against our own interests and the good of the community.
+
+The tenor describes the two extremes, but of course also governments, companies and organizations have sensitive information, which should also be protected. But if, over time or circumstances, the reasons to protect fall away, there are no good reasons why the truth should not be brought to light.
+
+These demands are easier to set up than implemented because neither the world nor the information about the world is simply black and white.
+
+The approach to implementation is a close connection between freedom and responsibility.
+
+=== Informational self-determination
+
+Informational self-determination is considered a central right of freedom. It is an architectural principle of the money infrastructure in that user data are not only the property of the users, but also in their possession and cryptographically protected.
+
+=== Freedom and responsibility
+
+One of the fundamental design principles in our economy and society today is freedom of contract and the power of money.
+
+Freedom of contract is not simply used for the exchange of goods and services, but at the same time more or less the economically weaker has to accept the conditions up to immorality.
+
+Money gives power, which is exercised in the semblance of law, enforced by the state and paid for by the public.
+
+RSB contracts not only make trading much more efficient, but also more balanced. Contractors should not have to worry about being tricked by legal intricacies and false or insufficient information.
+
+A particularly important task of RSB contracts is to combine freedom with responsibility in order to strengthen sustainable business practices and fair trade.
+
+=== No advertising
+
+The money infrastructure is not financed by advertising. Much of today's advertising is deception. It is the continuous force that leads to more and more consumption, regardless of the actual needs of people, society and environment.
+
+Within the money infrastructure, companies can draw attention to their goods and services by providing good value for money, relevant information and taking responsibility for the information provided. These criteria determine whether and where products are listed on the sales platform.
