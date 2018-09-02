@@ -301,6 +301,8 @@ The identity blockchain tree together with the user data blockchain trees can be
 
 In that sense, the money infrastructure creates an *Internet of Rights* and, indirectly, an *Internet of Things* because things depend on the right, not the other way around.
 
+Theoretically, the money infrastructure could be built without redundancy. But this would require 100% secure and error-free hardware and software. Redundancy is needed only to the extent necessary to intercept hardware and software errors as well as willful destruction. In addition, redundancy can be used to increase performance. In contrast, bitcoin redundancy is part of the consensus mechanism, which also significantly slows down overall system performance and consumes huge amounts of resources.
+
 In the profile of an account, additional metadata can be stored, such as: Cost centers so that the organizational structure of a company can be mapped.
 
 To prevent bookkeeping in a company from being done twice, all posting-relevant business transactions can be documented in the company's blockchain tree. In this way, the blockchain tree can be used as a particularly tamper-proof database for accounting.
