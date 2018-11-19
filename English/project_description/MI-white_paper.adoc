@@ -493,7 +493,7 @@ The _money infrastructure_ aims to be a practical implementation of Kant's Categ
 
 In a free translation I've chosen, the categorical imperative says:
 
-"Act only according to principles by which you can at the same time want them to become a universal law."
+*"Act only according to principles by which you can at the same time want them to become a universal law."*
 
 === Privacy for people
 
