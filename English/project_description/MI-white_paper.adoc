@@ -46,7 +46,7 @@ The interface is also a firewall that protects the real economy from turbulences
 
 Today, there is an overwhelming supply of financial services and financial instruments worldwide. Many of them are incomprehensible and not transparent, even to experts. As early as 2006, the global supply was six times greater than the gross domestic product of the entire world.
 
-Despite this glut, the financial sector has left its serving role for the real economy in many areas, with the sole aim of making more money out of money. In terms of value, more than 90% of all payments are made today not with legal tender, but with fiat money made by private commercial banks.
+Despite this glut, the financial sector has left its serving role for the real economy in many areas, with the sole aim of making more money out of money. In terms of value, more than 90% of all payments are made today not with legal tender, but with money made by private commercial banks.
 
 With this self-made money and the income and profits generated in the financial sector, goods and services of the real economy are bought without the financial sector itself making a substantial contribution.
 
@@ -317,6 +317,8 @@ The Merkle root is used to prove the integrity of all data in the blockchain tre
 
 When a user starts a money infrastructure application, it checks in the background whether the Merkle root of the local blockchain tree matches the backed up Merkle root on the identity server and on a backup. If there are deviations, then the local blockchain tree is restored based on the majority of the backups. Normally, all backups are the same.
 
+Ordinary users and even small and medium-sized businesses need not worry about their data, even with unreliable hardware because every user is technically working on a copy of their database. This copy will be automatically recreated in the background as needed.
+
 The data from the backups and the identity blockchains tree are leading in determining the integrity of the data. In this way, the user data blockchain tree is replaced if it has been accidentally or intentionally corrupted.
 
 To successfully manipulate a user data blockchain tree, the following barriers would have to be overcome.
@@ -484,6 +486,14 @@ In today's complex and diverse world of products, every buyer is mostly a layman
 The trading platform of the money infrastructure is deliberately designed to foster sustainable production and fair trade.
 
 == Basic principles
+
+=== Immanuel Kant's Categorical Imperative
+
+The _money infrastructure_ aims to be a practical implementation of Kant's Categorical Imperative for Economy, Society and Environment.
+
+In a free translation I've chosen, the categorical imperative says:
+
+"Act only according to principles by which you can at the same time want them to become a universal law."
 
 === Privacy for people
 
