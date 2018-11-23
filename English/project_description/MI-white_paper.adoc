@@ -13,8 +13,9 @@ Arne Pfeilsticker
 :uri-org: https://github.com/money-infrastructure
 :uri-repo: {uri-org}/doku
 :imagesdir: ../../images/English
+:icons: font
 
-(Work in progress - Last update: 2018-11-20)
+(Work in progress - Last update: 2018-11-23)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -117,7 +118,7 @@ The situation is quite different with bitcoins, which are special property right
 
 Significant simplifications are achieved through extensive abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
 
-The focus on legal issues may not seem appropriate at first glance, because we understand trade as a trade in goods and services. But in fact, all trade is a trade in rights and obligations. Control over things is obtained through property rights, not vice versa. If we buy a car, we pay the price for the ownership of the car and because of the acquired ownership we can drive away with this car. The thing car is connected to ownership for free.
+The focus on legal issues may not seem appropriate at first glance, because trade is seen as a trade of goods and services. But in fact, all trade is a trade in rights and obligations. Control over things is obtained through property rights, not vice versa. If we buy a car, we pay the price for the ownership of the car and because of the acquired ownership we can drive away with this car. The thing car is connected to ownership for free.
 
 All trading begins with a contract and ends with legal action in the performance of the contractual obligations.
 
@@ -493,7 +494,28 @@ The _money infrastructure_ aims to be a practical implementation of Kant's Categ
 
 In a free translation I've chosen, the categorical imperative says:
 
-*"Act only according to principles by which you can at the same time want them to become a universal law."*
+[NOTE]
+====
+*"Act only according to principles by which you can at the same time want them to become universal laws."*
+====
+
+I have chosen this translation for a direct understanding of the categorical imperative, so that the term "maxim" does not need to be explained.
+
+=== Efficiency, effectiveness and shared profit
+
+Do the right things right.
+
+The entire architecture of the money infrastructure is designed to minimize resource consumption. Alone through the self-managed accounts, the data volume is halved because accountkeeping banks are eliminated.
+
+Compared to the current financial system, only a fraction of the costs are incurred. For most users, no additional expenses are expected because only the _money infrastructure app_ needs to be installed on existing hardware.
+
+These cost advantages allow the money infrastructure to offer prices, e.g. payment services that are only a fraction of the prices of the current financial sector.
+
+Cost advantages are largely passed on to the users via correspondingly low prices.
+
+For financial products, the profits made by banks are also largely passed on to the users involved because no banks are needed in the money infrastructure. This allows investors to expect a slightly higher interest rate and borrowers a slightly lower interest rate.
+
+Part of the fees and revenues go into the development and management of the money infrastructure. The involved persons, companies or institutions should be attractively rewarded in order to create a dynamic in the development of the money infrastructure.
 
 === Privacy for people
 
