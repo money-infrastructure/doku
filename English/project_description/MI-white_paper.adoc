@@ -15,7 +15,7 @@ Arne Pfeilsticker
 :imagesdir: ../../images/English
 :icons: font
 
-(Work in progress - Last update: 2018-11-23)
+(Work in progress - Last update: 2018-11-27)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -88,6 +88,8 @@ image::MI006.png[Key features of different kinds of money]
 
 The implementation of the _Co-op Money Infrastructure_ is planned in the "style" of Wikipedia: from bottom to top and supported by many for all.
 
+The money infrastructure can be implemented within the existing legal framework. Nobody, not even the financial sector, could stop, hinder or influence the realization.
+
 "As simple as possible, but not simpler" is the guiding principle of the _Co-op Money Infrastructure_ for the design of financial services and financial products and the execution of contracts.
 
 The introduction and operation of the Co-op Money Infrastructure is based deliberately not on the idealism of supporters and users, but on considerable economic benefits for those involved.
@@ -137,7 +139,9 @@ image::MI049.png[Interface with the Co-op Money Infrastructure through a central
 
 The cooperation with a central bank is not mandatory. If no central bank agrees to cooperate, the interface to the central bank could also be established through an ethical bank.
 
-This bank would manage the cash reserves of the money infrastructure, legally owned by the respective crypto-money holders.
+This bank manages a portion of its accounts with the central bank as ascrow accounts. The money in these accounts is central bank money owned by users of the money infrastructure. Only the owner can dispose of this money through his cryptographically protected money infrastructure accounts.
+
+The main task of the bank is the settlement of payments with other banks.
 
 .Interface with the Co-op Money Infrastructure through a commercial bank
 [#img-interface_commercial_bank]
@@ -514,6 +518,8 @@ These cost advantages allow the money infrastructure to offer prices, e.g. payme
 Cost advantages are largely passed on to the users via correspondingly low prices.
 
 For financial products, the profits made by banks are also largely passed on to the users involved because no banks are needed in the money infrastructure. This allows investors to expect a slightly higher interest rate and borrowers a slightly lower interest rate.
+
+The _money infrastructure_ will give their users a significant competitive advantage.
 
 Part of the fees and revenues go into the development and management of the money infrastructure. The involved persons, companies or institutions should be attractively rewarded in order to create a dynamic in the development of the money infrastructure.
 
