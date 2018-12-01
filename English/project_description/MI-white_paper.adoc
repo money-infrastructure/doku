@@ -27,7 +27,7 @@ The _**Co-op Money Infrastructure**_ project aims to develop a global and decent
 
 The planned infrastructure will be significantly different from the current infrastructure of the financial sector as well as the current cryptocurrencies and will be characterized by the following main features:
 
-* It is developed for classical currencies and converts, for example, euros into crypto central bank euros, also known as digital cash, positive money, secure money, sovereign money or Vollgeld.
+* It is developed for classical currencies and converts, for example, euros into _crypto central bank euros_, also known as digital cash, positive money, secure money, sovereign money or Vollgeld.
 * It consists of standards and open source programs that run on users' existing hardware with internet access, such as mobiles or computers.
 * It transfers payments or any other rights directly between users and prevents them from manipulating their own or others’ data.
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
