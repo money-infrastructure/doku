@@ -15,7 +15,7 @@ Arne Pfeilsticker
 :imagesdir: ../../images/English
 :icons: font
 
-(Work in progress - Last update: 2018-11-27)
+(Work in progress - Last update: 2018-12-01)
 
 Feedback is welcome to mailto:Arne.Pfelsticker@pfeilsticker.de[Arne.Pfelsticker@pfeilsticker.de] or visit https://github.com/money-infrastructure[https://github.com/money-infrastructure]
 
@@ -65,10 +65,10 @@ Despite this criticism, we do not misjudge the potential of cryptocurrencies. On
 
 Because we want:
 
-* To provide financial services for everybody in the worldfootnote:[World Bank documentation shows that 2 billion people in the world do not have any access to bank services, mainly in the developing countries, which does not make their situation any better.], simple, easy and fair.
+* To provide easy-to-use and fair financial services to everyone around the world.
 * To better protect people and the real economy from the negative impact of the financial sector and from financial crises.
 * To make banking services much more efficient and user-friendly through innovative ideas.
-* To make the entire exchange of goods and services more fair, sustainable and transparent, not just financial services and instruments.
+* To make the entire exchange of goods and services fair, sustainable and transparent, not just financial services and instruments.
 * To stop banks of buying goods and services from the real economy with self-made money.
 * To increase the profit for the community from the central bank money creation.
 * To give central banks a new possibility of their monetary policy independent of the financial sector.
@@ -76,13 +76,13 @@ Because we want:
 
 == How do we want to make a difference?
 
-Within the _Co-op Money Infrastructure_, the money becomes central bank money, also known as digital cash, positive money, secure money or Vollgeld. It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
+Within the _Co-op Money Infrastructure_, the money becomes central bank money, also known as digital cash, positive money, secure money, sovereign money or Vollgeld. It is thus in contrast to money in a current account at a commercial bank and in contrast to bitcoins, which are still completely unregulated private money and serve a predominantly speculative purpose.
 
 It would be comparable to cash and thus even safer in the case of financial crises than commercial bank money. Compared to cash, it would be better protected against counterfeiting and theft by using cryptographic methods.
 
-An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure is shown in the following table:
+An overview of key features between cash, deposit money, Bitcoin and money in the co-op money infrastructure is shown in the following table:
 
-.An overview of key features between cash, deposit money, Bitcoin and the co-op money infrastructure
+.An overview of key features between cash, deposit money, Bitcoin and money in the co-op money infrastructure
 [#img-key_features_of_cash_depositmoney_bitcoin_mi]
 image::MI006.png[Key features of different kinds of money]
 
@@ -120,7 +120,7 @@ The situation is quite different with bitcoins, which are special property right
 
 Significant simplifications are achieved through extensive abstraction and generalization. This makes it possible that not only money but all rights and obligations can be mapped, managed and processed internally in the same way.
 
-The focus on legal issues may not seem appropriate at first glance, because trade is seen as a trade of goods and services. But in fact, all trade is a trade in rights and obligations. Control over things is obtained through property rights, not vice versa. If we buy a car, we pay the price for the ownership of the car and because of the acquired ownership we can drive away with this car. The thing car is connected to ownership for free.
+The focus on legal issues may not seem appropriate at first glance, because trade is seen as a trade of goods and services. But in fact, all trade is a trade in rights and obligations. Control over things is obtained through property rights, not vice versa. If we buy a car, we pay the price for the *ownership* of the car and because of the acquired ownership we can drive away with this car. The car itself is connected to ownership for free.
 
 All trading begins with a contract and ends with legal action in the performance of the contractual obligations.
 
@@ -146,8 +146,6 @@ The main task of the bank is the settlement of payments with other banks.
 .Interface with the Co-op Money Infrastructure through a commercial bank
 [#img-interface_commercial_bank]
 image::MI050.png[Interface with the Co-op Money Infrastructure through a commercial bank]
-
-
 
 [[key-ideas]]
 == Key ideas
@@ -194,9 +192,9 @@ image::MI015.png[Legal Consesus Mechanism]
 
 The correct content of the data is also legally secured through the complementary interests of the parties: The right of the creditor to claim a particular performance refers to the identical performance that the debtor has to provide.
 
-For example, a contract signed by the seller certifies the rights of the buyer and the obligations of the seller. This unique data is stored in the buyer's blockchain. As a result, only he can actually and legally dispose of these data. The buyer cannot manipulate these data because the seller signed them. And without these data, the buyer cannot assert his rights against the seller and the seller is under no obligation to perform.
+For example, a contract signed by the seller certifies the rights of the buyer and the obligations of the seller. This unique data is stored in a buyer's blockchain. As a result, only he can actually and legally dispose of these data. The buyer cannot manipulate these data because the seller signed them. And without these data, the buyer cannot assert his rights against the seller and the seller is under no obligation to perform.
 
-And vice versa, the contract signed by the buyer certifies the rights of the seller and the obligations of the buyer. This unique data is stored in the seller's blockchain and only he can actually and legally dispose of these data.
+And vice versa, the contract signed by the buyer certifies the rights of the seller and the obligations of the buyer. This unique data is stored in a seller's blockchain and only he can actually and legally dispose of these data.
 
 The legal consensus mechanism causes users to not manipulate their data; otherwise their own rights would be destroyed. Therefore, the data must be protected only from accidental and third party manipulations, hardware failures and software errors. To prevent such incidents, there are several redundant protection mechanisms installed that can be supplemented by the user himself, if he wishes to do so.
 
