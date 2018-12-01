@@ -31,7 +31,7 @@ The planned infrastructure will be significantly different from the current infr
 * It consists of standards and open source programs that run on users' existing hardware with internet access, such as mobiles or computers.
 * It transfers payments or any other rights directly between users and prevents them from manipulating their own or others’ data.
 * It is an instrument for people and the real economy that works independently of the existing financial sector.
-* It promotes fair trade and sustainable business practices in a very efficient way.
+* It promotes fair trade and sustainable business practices in a very efficient and effective way.
 
 .Co-op Money Infrastructure
 [#img-new-money-infrastructure]
