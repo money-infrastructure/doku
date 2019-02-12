@@ -555,4 +555,10 @@ A particularly important task of RSB contracts is to combine freedom with respon
 
 The money infrastructure is not financed by advertising. Much of today's advertising is deception. It is the continuous force that leads to more and more consumption, regardless of the actual needs of people, society and environment.
 
-Within the money infrastructure, companies can draw attention to their goods and services by providing good value for money, relevant information and taking responsibility for the information provided. These criteria determine whether and where products are listed on the sales platform.
+Within the money infrastructure, companies can draw attention to their goods and services by providing:
+
+ * good value for money,
+ * relevant information and
+ * taking responsibility for the goods, services and information provided.
+
+Based on these criteria and data from the processing of contracts, an index is calculated showing the ranking in the list of products and services on the sales platform.
